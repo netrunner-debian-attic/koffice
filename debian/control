@@ -1,0 +1,17 @@
+Source: koffice
+Section: kde
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cdbs, debhelper (>= 5), quilt, cmake, kdelibs5-dev (>= 4:3.94.0-1),
+Standards-Version: 3.7.2
+
+Package: koffice
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: KDE Office Suite
+ KOffice is an integrated office suite for KDE, the K Desktop
+ Environment.  It offers a word processor, spreadsheet, presentation
+ program, graphics tools and more.
+ .
+ This package provides all the components of KOffice.
+
