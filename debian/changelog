@@ -1,4 +1,11 @@
-koffice (1.9.94-1) unstable; urgency=low
+koffice (1.9.95-1) experimental; urgency=low
+
+  * New upstream release, alpha 5.
+  * Split out programs. koffice-dbg not added yet intentionally.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 26 Nov 2007 06:53:29 +0100
+
+koffice (1.9.94-1) experimental; urgency=low
 
   * Initial release.
 
