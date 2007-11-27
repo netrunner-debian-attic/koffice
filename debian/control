@@ -6,14 +6,14 @@ Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Isaac Clerencia <isaac@d
 Build-Depends: cdbs, debhelper (>= 5), quilt, cmake, kdepimlibs5-dev (>= 3.96.0-1),
  libeigen-dev, libqimageblitz-dev, libqca2-dev, libgsl0-dev, libglew1.4-dev,
  freeglut3-dev, libglpk-dev, libexiv2-dev, libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
- libpoppler-qt4-dev (>= 0.6.1-1)
+ libwv2-dev
 Standards-Version: 3.7.2
 Homepage: http://www.koffice.org/
 
 Package: koffice
 Architecture: all
 Section: kde
-Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kugar (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
+Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
 Suggests: koffice-i18n, koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
@@ -177,20 +177,6 @@ Description: a spreadsheet for the KDE Office Suite
  .
  This package is part of the KDE Office Suite.
 
-Package: kugar
-Architecture: any
-Section: kde
-Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
-Description: a business report maker for the KDE Office Suite
- Kugar is a tool for generating business quality reports that can
- be viewed and printed.  It includes a standalone report viewer and a
- KPart report viewer.  The latter means that any KDE application can
- embed the report viewing functionality and that reports can be viewed
- using the Konqueror browser.
- .
- This package is part of the KDE Office Suite.
-
 Package: kword
 Architecture: any
 Section: kde
@@ -242,7 +228,7 @@ Description: common shared data for the KDE Office Suite
 Package: koffice-dev
 Architecture: any
 Section: libdevel
-Depends: koffice-libs (= ${source:Version}), karbon (= ${source:Version}), kchart (= ${source:Version}), kexi (= ${source:Version}), kformula (= ${source:Version}), kivio (= ${source:Version}), kplato (= ${source:Version}), kpresenter (= ${source:Version}), krita (= ${source:Version}), kspread (= ${source:Version}), kthesaurus (= ${source:Version}), kugar (= ${source:Version}), kword (= ${source:Version}), kdelibs4-dev
+Depends: koffice-libs (>= ${source:Version}), karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kthesaurus (>= ${source:Version}), kword (>= ${source:Version}), kdelibs4-dev 
 Description: common libraries for KOffice (development files)
  This package provides the development files for the libraries that are
  shared amongst the various components of KOffice.
