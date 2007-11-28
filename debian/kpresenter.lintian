@@ -1,0 +1,2 @@
+kpresenter: shlib-missing-in-control-file libkdeinit4_kpresenter.so for usr/lib/libkdeinit4_kpresenter.so
+kpresenter: package-name-doesnt-match-sonames libkdeinit4-kpresenter libkpresenterprivate5

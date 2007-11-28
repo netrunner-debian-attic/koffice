@@ -1,0 +1,2 @@
+kformula: shlib-missing-in-control-file libkdeinit4_kformula.so for usr/lib/libkdeinit4_kformula.so
+kformula: package-name-doesnt-match-sonames libkdeinit4-kformula libkformulalib5 libkformulaprivate5

@@ -1,0 +1,2 @@
+kchart: shlib-missing-in-control-file libkdeinit4_kchart.so for usr/lib/libkdeinit4_kchart.so
+kchart: package-name-doesnt-match-sonames libchartshapelib5 libkchartcommon5 libkdchart5 libkdeinit4-kchart

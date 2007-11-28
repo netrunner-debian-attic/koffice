@@ -1,0 +1,40 @@
+kword: shlib-missing-in-control-file libkdeinit4_kword.so for usr/lib/libkdeinit4_kword.so
+kword: package-name-doesnt-match-sonames libkdeinit4-kword libkwordprivate5
+
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/doctree.rb
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/doctree.rb #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/exportfile.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/exportfile.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/importdoxyxml.py
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/importfile.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/importfile.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/kwreportlab.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/kwreportlab.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/onlinehelp.py
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/ooimport.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/ooimport.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/oouno.py
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/extensions/xmlviewer.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/extensions/xmlviewer.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_actions.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_actions.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_allshapes.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_allshapes.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_cursor.rb
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_cursor.rb #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_insertshape.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_insertshape.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_lists_cursor.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_lists_cursor.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_lists_html.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_lists_html.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_progressbar.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_progressbar.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_tables.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_tables.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_text.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_text.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_toolactions.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_toolactions.py #!kross
+kword: script-not-executable ./usr/share/kde4/apps/kword/scripts/samples/sample_variables.py
+kword: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_variables.py #!kross
