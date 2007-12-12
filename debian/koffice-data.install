@@ -34,8 +34,6 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_fill.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_line.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/delete_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/delete_table_row.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/documentinfo.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/enumList.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/format_decreaseindent.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/format-font-size-less.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/format-font-size-more.png
@@ -62,9 +60,6 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_last.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_left.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_right.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/textcolor.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/text_sub.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/text_super.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/unsortedList.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_orientation.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_remove.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_split.png
@@ -100,7 +95,6 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/delete_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/delete_table_row.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/delslide.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/edittext.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/enumList.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/format_decreaseindent.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/format-font-size-less.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/format-font-size-more.png
@@ -162,11 +156,8 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/shadowRU.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/shadowU.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide-new.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/sub.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/super.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/toggle_docbrowser.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/ungroup.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/unsortedList.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view_remove.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-page.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-pixels.png

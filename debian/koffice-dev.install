@@ -85,7 +85,6 @@ usr/include/komain_export.h
 usr/include/KoMainWindow.h
 usr/include/KoOasisLoadingContext.h
 usr/include/KoOasisSettings.h
-usr/include/KoOasisStyles.h
 usr/include/KoOdf.h
 usr/include/KoOdfPaste.h
 usr/include/KoOdfWriteStore.h
@@ -173,7 +172,6 @@ usr/lib/libkexiguiutils.so
 usr/lib/libkeximain.so
 usr/lib/libkeximigrate.so
 usr/lib/libkexirelationsview.so
-usr/lib/libkexisql2.so
 usr/lib/libkexisql3.so
 usr/lib/libkexiutils.so
 usr/lib/libkformdesigner.so

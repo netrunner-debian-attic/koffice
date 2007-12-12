@@ -1,6 +1,5 @@
 usr/share/applications/kde4/krita.desktop
 usr/share/applications/kde4/krita_jpeg.desktop
-usr/share/applications/kde4/krita_magick.desktop
 usr/share/applications/kde4/krita_openexr.desktop
 usr/share/applications/kde4/krita_png.desktop
 usr/share/applications/kde4/krita_tiff.desktop
@@ -424,8 +423,6 @@ usr/share/kde4/services/krita_jpeg_export.desktop
 usr/share/kde4/services/krita_jpeg_import.desktop
 usr/share/kde4/services/kritalayercompose.desktop
 usr/share/kde4/services/kritalenscorrectionfilter.desktop
-usr/share/kde4/services/krita_magick_export.desktop
-usr/share/kde4/services/krita_magick_import.desktop
 usr/share/kde4/services/kritametadataeditor.desktop
 usr/share/kde4/services/kritamodifyselection.desktop
 usr/share/kde4/services/kritanoisefilter.desktop

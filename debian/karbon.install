@@ -1,5 +1,4 @@
 usr/bin/karbon
-usr/lib/kde4/karbondockersplugin.so
 usr/lib/kde4/karbon_flattenpathplugin.so
 usr/lib/kde4/karbon_insertknotsplugin.so
 usr/lib/kde4/karbontools.so
@@ -77,12 +76,6 @@ usr/share/kde4/apps/karbon/icons/hicolor/48x48/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/scalable/apps/karbon.svgz
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_novisible.png
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_visible.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/cap_butt.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/cap_round.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/cap_square.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/join_bevel.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/join_miter.png
-usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/join_round.png
 usr/share/kde4/apps/karbon/karbon.rc
 usr/share/kde4/apps/karbon/karbon_readonly.rc
 usr/share/kde4/apps/karbon/kpartplugins/flattenpathplugin.rc
@@ -93,7 +86,6 @@ usr/share/kde4/apps/karbon/templates/Basic/empty.desktop
 usr/share/kde4/apps/karbon/templates/Basic/.source/empty.karbon
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/gradient.png
 usr/share/kde4/services/karbon_1x_import.desktop
-usr/share/kde4/services/karbondockersplugin.desktop
 usr/share/kde4/services/karbonpart.desktop
 usr/share/kde4/services/karbon_png_export.desktop
 usr/share/kde4/services/karbon_svg_export.desktop
