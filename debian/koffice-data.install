@@ -30,6 +30,9 @@ usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/send_backward.svgz
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/borderoutline.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/bring_forward.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/button_no.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_butt.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_round.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_square.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_fill.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_line.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/delete_table_col.png
@@ -51,6 +54,9 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/inline_image.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/inline_table.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/insert_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/insert_table_row.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/join_bevel.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/join_miter.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/join_round.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/kdb_form.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/kdb_table.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/linewidth.png

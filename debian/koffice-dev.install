@@ -85,8 +85,13 @@ usr/include/komain_export.h
 usr/include/KoMainWindow.h
 usr/include/KoOasisLoadingContext.h
 usr/include/KoOasisSettings.h
+usr/include/KoOdfGraphicStyles.h
 usr/include/KoOdf.h
+usr/include/KoOdfNumberStyles.h
 usr/include/KoOdfPaste.h
+usr/include/KoOdfReadStore.h
+usr/include/KoOdfStylesReader.cpp
+usr/include/KoOdfStylesReader.h
 usr/include/KoOdfWriteStore.h
 usr/include/KoOpenPane.h
 usr/include/KoPageFormat.h

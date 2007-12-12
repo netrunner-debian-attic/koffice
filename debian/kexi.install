@@ -52,6 +52,7 @@ usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/clear_table_contents.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/combo.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/database.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/delete_table_row.png
+usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/document-import-database.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/form_action.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/form_newobj.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/form.png
@@ -99,6 +100,7 @@ usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/textedit.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/unknown_widget.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/widgets.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/apps/kexi.png
+usr/share/kde4/apps/kexi/icons/hicolor/16x16/mimetypes/application-x-kexiproject-sqlite2.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/mimetypes/application-x-kexiproject-sqlite3.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/mimetypes/application-x-kexiproject-sqlite.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/alignobjs.png
@@ -123,6 +125,7 @@ usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/database.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/dateedit.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/datetimeedit.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/delete_table_row.png
+usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/document-import-database.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/form_action.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/form_edit.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/form_newobj.png
@@ -177,6 +180,7 @@ usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/business_user.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/clear_table_contents.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/database.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/delete_table_row.png
+usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/document-import-database.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/form_action.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/form_newobj.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/form.png
@@ -197,8 +201,10 @@ usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/table_newobj.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/actions/table.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/apps/kexi.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/mimetypes/application-x-kexiproject-shortcut.png
+usr/share/kde4/apps/kexi/icons/hicolor/32x32/mimetypes/application-x-kexiproject-sqlite2.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/mimetypes/application-x-kexiproject-sqlite3.png
 usr/share/kde4/apps/kexi/icons/hicolor/32x32/mimetypes/application-x-kexiproject-sqlite.png
+usr/share/kde4/apps/kexi/icons/hicolor/48x48/actions/document-import-database.png
 usr/share/kde4/apps/kexi/icons/hicolor/48x48/actions/form_action.png
 usr/share/kde4/apps/kexi/icons/hicolor/48x48/actions/key.png
 usr/share/kde4/apps/kexi/icons/hicolor/48x48/apps/kexi.png

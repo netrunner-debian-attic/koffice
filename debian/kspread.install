@@ -164,9 +164,11 @@ usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_worksheet.png
 usr/share/kde4/apps/kspread/kpartplugins/insertcalendar.rc
 usr/share/kde4/apps/kspread/kpartplugins/scripting.rc
 usr/share/kde4/apps/kspread/kpartplugins/solver.rc
+usr/share/kde4/apps/kspread/kspread.notifyrc
 usr/share/kde4/apps/kspread/kspread.rc
 usr/share/kde4/apps/kspread/kspread_readonly.rc
 usr/share/kde4/apps/kspread/scripts/docker/consoledocker.py
+usr/share/kde4/apps/kspread/scripts/docker/snippetsdocker.rb
 usr/share/kde4/apps/kspread/scripts/extensions/csvexport.py
 usr/share/kde4/apps/kspread/scripts/extensions/csvimport.py
 usr/share/kde4/apps/kspread/scripts/extensions/csvoptions.ui
@@ -182,6 +184,7 @@ usr/share/kde4/apps/kspread/scripts/extensions/xmlviewer.py
 usr/share/kde4/apps/kspread/scripts/functions/functions.py
 usr/share/kde4/apps/kspread/scripts/functions/pyregexp.py
 usr/share/kde4/apps/kspread/scripts/functions/pytime.py
+usr/share/kde4/apps/kspread/scripts/functions/rpyfunctions.py
 usr/share/kde4/apps/kspread/scripts/functions/yfinance.py
 usr/share/kde4/apps/kspread/scripts/functions/yweather.py
 usr/share/kde4/apps/kspread/scripts/scripts.rc

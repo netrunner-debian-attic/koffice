@@ -11,6 +11,7 @@ usr/lib/kde4/libkarbonsvgimport.so
 usr/lib/kde4/libwmfexport.so
 usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwpgimport.so
+usr/lib/kde4/simpletextshape.so
 usr/lib/libkarboncommands.a
 usr/lib/libkarboncommon.so.5
 usr/lib/libkarboncommon.so.5.0.0
@@ -95,4 +96,5 @@ usr/share/kde4/services/karbon_wmf_export.desktop
 usr/share/kde4/services/karbon_wmf_import.desktop
 usr/share/kde4/services/karbon_wpg_import.desktop
 usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
+usr/share/kde4/services/simpletextshape.desktop
 usr/share/kde4/servicetypes/karbon_module.desktop
