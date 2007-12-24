@@ -1,6 +1,6 @@
 koffice (1.9.95.1-1) experimental; urgency=low
 
-  * New upstream release.
+  * KOffice 2, alpha 5, first upload to the Debian archive.
   * Update *.install files.
   * Add build-depends on libmysqlclient15-dev and libpoppler-qt4-dev.
   * Update Standards-Version to 3.7.3.  
