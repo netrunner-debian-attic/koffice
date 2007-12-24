@@ -1,10 +1,11 @@
 koffice (1.9.95.1-1) experimental; urgency=low
 
   * New upstream release.
-  * Update *.install files. 
-  * ... LDFLAGS...
+  * Update *.install files.
+  * Add build-depends on libmysqlclient15-dev and libpoppler-qt4-dev.
+  * Update Standards-Version to 3.7.3.  
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 12 Dec 2007 07:07:55 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 24 Dec 2007 01:42:07 +0100
 
 koffice (1.9.95-1) experimental; urgency=low
 
