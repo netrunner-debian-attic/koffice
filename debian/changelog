@@ -1,3 +1,12 @@
+koffice (1:1.9.96.0~svn757194-1) experimental; urgency=low
+
+  * Snapshot of svn revision 757194.
+  * Remove build-depend on libgsl0-dev, it was causing problems with
+    -Wl,--as-needed, so I'm removing it for now.
+  * Update *.install files.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 04 Jan 2008 16:29:52 +0100
+
 koffice (1:1.9.95.1-1) experimental; urgency=low
 
   * KOffice 2, alpha 5, first upload to the Debian archive.

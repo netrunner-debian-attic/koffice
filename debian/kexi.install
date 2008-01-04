@@ -85,8 +85,6 @@ usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/report.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/script_newobj.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/script.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/select_item.png
-usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/sort_az.png
-usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/sort_za.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/spring.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/spring_vertical.png
 usr/share/kde4/apps/kexi/icons/hicolor/16x16/actions/state_data.png
@@ -157,8 +155,6 @@ usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/raise.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/relation.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/signalslot.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/slider.png
-usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/sort_az.png
-usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/sort_za.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/spin.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/spring.png
 usr/share/kde4/apps/kexi/icons/hicolor/22x22/actions/spring_vertical.png

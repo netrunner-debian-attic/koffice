@@ -67,7 +67,8 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_left.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_right.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/textcolor.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_orientation.png
-usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_remove.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-sort-ascending.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-sort-descending.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_split.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/apps/go.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/apps/key_bindings.png
@@ -164,7 +165,8 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide-new.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/toggle_docbrowser.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/ungroup.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view_remove.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-sort-ascending.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-sort-descending.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-page.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-pixels.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-width.png
@@ -180,8 +182,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/grid.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/insert_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/insert_table_row.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/send_backward.png
-usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/sort_az.png
-usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/view_remove.png
+usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/view-sort-ascending.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/apps/go.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/bring_forward.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-font-size-less.png
@@ -191,6 +192,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-simp
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-triple.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/send_backward.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/apps/key_bindings.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/table.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/arrow-right-koffice.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/callout-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/circular-arrow-shape.png
@@ -222,6 +224,9 @@ usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/rectangle-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/smiley-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/spiral-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/star-shape.png
+usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/table.png
+usr/share/kde4/apps/koffice/icons/oxygen/32x32/actions/table.png
+usr/share/kde4/apps/koffice/icons/oxygen/48x48/actions/table.png
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_bold_active.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_bold_inactive.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_italic_active.svgz
@@ -244,6 +249,7 @@ usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_sizeup_inactive.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_underline_active.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_underline_inactive.svgz
+usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/table.svgz
 usr/share/kde4/apps/koffice/icons/rotate.png
 usr/share/kde4/apps/koffice/icons/shear.png
 usr/share/kde4/apps/koffice/icons/zoom_in_cursor.png

@@ -1,6 +1,8 @@
 usr/bin/kchart
 usr/lib/kde4/chartshape.so
+usr/lib/kde4/libkchartgenericimageexport.so
 usr/lib/kde4/libkchartpart.so
+usr/lib/kde4/libkchartsvgexport.so
 usr/lib/libchartshapelib.so.5
 usr/lib/libchartshapelib.so.5.0.0
 usr/lib/libkchartcommon.so.5
@@ -119,5 +121,12 @@ usr/share/kde4/apps/kchart/templates/chart/.source/BarChart.chrt
 usr/share/kde4/apps/kchart/templates/chart/.source/Empty.chrt
 usr/share/kde4/config.kcfg/kchart.kcfg
 usr/share/kde4/services/chartshape.desktop
+usr/share/kde4/services/kchart_bmp_export.desktop
+usr/share/kde4/services/kchart_jpeg_export.desktop
+usr/share/kde4/services/kchart_mng_export.desktop
 usr/share/kde4/services/kchartpart.desktop
+usr/share/kde4/services/kchart_png_export.desktop
+usr/share/kde4/services/kchart_svg_export.desktop
+usr/share/kde4/services/kchart_xbm_export.desktop
+usr/share/kde4/services/kchart_xpm_export.desktop
 usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop

@@ -1,6 +1,9 @@
+usr/share/applications/kde4/krita_bmp.desktop
 usr/share/applications/kde4/krita.desktop
 usr/share/applications/kde4/krita_jpeg.desktop
 usr/share/applications/kde4/krita_openexr.desktop
+usr/share/applications/kde4/krita_ora.desktop
+usr/share/applications/kde4/krita_pdf.desktop
 usr/share/applications/kde4/krita_png.desktop
 usr/share/applications/kde4/krita_tiff.desktop
 usr/share/color/icc/krita/Adobe.icm
@@ -176,18 +179,18 @@ usr/share/kde4/apps/krita/icons/crystalsvg/scalable/actions/template_rgb_empty.s
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_cmyk_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_gray_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_rgb_empty.png
-usr/share/kde4/apps/krita/images/airbrush.png
 usr/share/kde4/apps/krita/images/brush1.png
 usr/share/kde4/apps/krita/images/brush2.png
 usr/share/kde4/apps/krita/images/brush3.png
 usr/share/kde4/apps/krita/images/brush4.png
 usr/share/kde4/apps/krita/images/brush5.png
 usr/share/kde4/apps/krita/images/brush6.png
-usr/share/kde4/apps/krita/images/duplicate.png
-usr/share/kde4/apps/krita/images/eraser.png
 usr/share/kde4/apps/krita/images/filterop.png
-usr/share/kde4/apps/krita/images/paintbrush.png
-usr/share/kde4/apps/krita/images/pencil.png
+usr/share/kde4/apps/krita/images/krita-airbrush.png
+usr/share/kde4/apps/krita/images/krita-duplicate.png
+usr/share/kde4/apps/krita/images/krita-eraser.png
+usr/share/kde4/apps/krita/images/krita-paintbrush.png
+usr/share/kde4/apps/krita/images/krita-pencil.png
 usr/share/kde4/apps/krita/images/previewfilter.png
 usr/share/kde4/apps/krita/kpartplugins/scan-krita.rc
 usr/share/kde4/apps/krita/krita.rc
@@ -391,6 +394,7 @@ usr/share/kde4/apps/krita/templates/rgb/white_1600x1200.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_640x480.desktop
 usr/share/kde4/services/kritabigbrother.desktop
 usr/share/kde4/services/kritablurfilter.desktop
+usr/share/kde4/services/krita_bmp_export.desktop
 usr/share/kde4/services/kritabracketing2hdr.desktop
 usr/share/kde4/services/kritabumpmapfilter.desktop
 usr/share/kde4/services/kritacimg.desktop
@@ -429,7 +433,10 @@ usr/share/kde4/services/kritanoisefilter.desktop
 usr/share/kde4/services/kritaoilpaintfilter.desktop
 usr/share/kde4/services/krita_openexr_export.desktop
 usr/share/kde4/services/krita_openexr_import.desktop
+usr/share/kde4/services/krita_ora_export.desktop
+usr/share/kde4/services/krita_ora_import.desktop
 usr/share/kde4/services/kritapart.desktop
+usr/share/kde4/services/krita_pdf_import.desktop
 usr/share/kde4/services/kritapixelizefilter.desktop
 usr/share/kde4/services/krita_png_export.desktop
 usr/share/kde4/services/krita_png_import.desktop
@@ -467,3 +474,4 @@ usr/share/kde4/servicetypes/krita_filter.desktop
 usr/share/kde4/servicetypes/krita_paintop.desktop
 usr/share/kde4/servicetypes/krita_plugin.desktop
 usr/share/kde4/servicetypes/krita_tool.desktop
+usr/share/mime/packages/krita_ora.xml

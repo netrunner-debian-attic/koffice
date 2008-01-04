@@ -63,11 +63,15 @@ usr/lib/kde4/kritawavefilter.so
 usr/lib/kde4/kritaxyzfloathdrplugin.so
 usr/lib/kde4/krita_xyz_u16_plugin.so
 usr/lib/kde4/kritaycbcrplugin.so
+usr/lib/kde4/libkritabmpexport.so
 usr/lib/kde4/libkritajpegexport.so
 usr/lib/kde4/libkritajpegimport.so
 usr/lib/kde4/libkrita_openexr_export.so
 usr/lib/kde4/libkrita_openexr_import.so
+usr/lib/kde4/libkritaoraexport.so
+usr/lib/kde4/libkritaoraimport.so
 usr/lib/kde4/libkritapart.so
+usr/lib/kde4/libkritapdfimport.so
 usr/lib/kde4/libkritapngexport.so
 usr/lib/kde4/libkritapngimport.so
 usr/lib/kde4/libkritatiffexport.so

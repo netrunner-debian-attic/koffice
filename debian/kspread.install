@@ -11,7 +11,6 @@ usr/lib/kde4/libkspreadhtmlexport.so
 usr/lib/kde4/libkspreadinsertcalendar.so
 usr/lib/kde4/libkspreadlatexexport.so
 usr/lib/kde4/libkspreadpart.so
-usr/lib/kde4/libkspreadsolver.so
 usr/lib/kde4/libopencalcexport.so
 usr/lib/kde4/libopencalcimport.so
 usr/lib/kde4/libqproimport.so
@@ -163,7 +162,6 @@ usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_vacationcheckli
 usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_worksheet.png
 usr/share/kde4/apps/kspread/kpartplugins/insertcalendar.rc
 usr/share/kde4/apps/kspread/kpartplugins/scripting.rc
-usr/share/kde4/apps/kspread/kpartplugins/solver.rc
 usr/share/kde4/apps/kspread/kspread.notifyrc
 usr/share/kde4/apps/kspread/kspread.rc
 usr/share/kde4/apps/kspread/kspread_readonly.rc

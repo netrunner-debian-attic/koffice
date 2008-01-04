@@ -90,7 +90,6 @@ usr/include/KoOdf.h
 usr/include/KoOdfNumberStyles.h
 usr/include/KoOdfPaste.h
 usr/include/KoOdfReadStore.h
-usr/include/KoOdfStylesReader.cpp
 usr/include/KoOdfStylesReader.h
 usr/include/KoOdfWriteStore.h
 usr/include/KoOpenPane.h
