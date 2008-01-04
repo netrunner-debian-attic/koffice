@@ -59,7 +59,7 @@ Upstream Authors:
 
 Copyright: 
     Unless something else is mentioned, copyright is
-    (C) 1999-2007, The KOffice Team http://www.koffice.org
+    (C) 1999-2008, The KOffice Team http://www.koffice.org
     Check the header of every file for more detailed copyright information.
 
 
@@ -115,5 +115,5 @@ License:
 
 
 
-The Debian packaging is (C) 2007, Debian Qt/KDE Maintainers and
+The Debian packaging is (C) 2007-2008, Debian Qt/KDE Maintainers and
 is licensed under the GPL, see `/usr/share/common-licenses/GPL'.

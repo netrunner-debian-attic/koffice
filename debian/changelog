@@ -3,9 +3,10 @@ koffice (1:1.9.95.1-1) experimental; urgency=low
   * KOffice 2, alpha 5, first upload to the Debian archive.
   * Update *.install files.
   * Add build-depends on libmysqlclient15-dev and libpoppler-qt4-dev.
-  * Update Standards-Version to 3.7.3.  
+  * Update Standards-Version to 3.7.3.
+  * Update years in the copyright file. 
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 24 Dec 2007 01:42:07 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 04 Jan 2008 04:51:52 +0100
 
 koffice (1:1.9.95-1) experimental; urgency=low
 
