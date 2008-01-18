@@ -46,9 +46,11 @@ usr/lib/kde4/kritaselectiontools.so
 usr/lib/kde4/kritaseparatechannels.so
 usr/lib/kde4/kritashape.so
 usr/lib/kde4/kritashearimage.so
+usr/lib/kde4/kritasmallcolorselector.so
 usr/lib/kde4/kritasmalltilesfilter.so
 usr/lib/kde4/kritasmearybrush.so
 usr/lib/kde4/kritasobelfilter.so
+usr/lib/kde4/kritaspecificcolorselector.so
 usr/lib/kde4/kritatogether.so
 usr/lib/kde4/kritatonemapping.so
 usr/lib/kde4/kritatoolcrop.so
@@ -58,6 +60,7 @@ usr/lib/kde4/kritatoolpolyline.so
 usr/lib/kde4/kritatoolselectsimilar.so
 usr/lib/kde4/kritatoolstar.so
 usr/lib/kde4/kritatooltransform.so
+usr/lib/kde4/kritatrianglecolorselector.so
 usr/lib/kde4/kritaunsharpfilter.so
 usr/lib/kde4/kritawavefilter.so
 usr/lib/kde4/kritaxyzfloathdrplugin.so
