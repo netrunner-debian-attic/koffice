@@ -3,9 +3,11 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) UNRELEASED; urgency=low
   * New upstream release 1.9.95.3.
   * Update *.install files.
   * Update from libglew1.4-dev to libglew1.5-dev.
-  * Replace (c) with © in copyright to make lintian happy. 
+  * Replace (c) with © in copyright to make lintian happy.
+  * Update lintian overrides.
+  * Change koffice-dev section to devel.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 10 Feb 2008 04:58:47 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 10 Feb 2008 10:56:50 +0100
 
 koffice (1:1.9.96.0~svn763013-1) experimental; urgency=low
 

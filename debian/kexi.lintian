@@ -1,2 +1,2 @@
-kexi: package-name-doesnt-match-sonames libkexicore5 libkexidatatable5 libkexidb5 libkexiextendedwidgets5.0.0 libkexiformutils5 libkexiguiutils5 libkeximain5 libkeximigrate5 libkexirelationsview5 libkexisql2-2 libkexisql3-3 libkexiutils5 libkformdesigner5
+kexi: package-name-doesnt-match-sonames libkexicore5 libkexidatatable5 libkexidb5 libkexiextendedwidgets5.0.0 libkexiformutils5 libkexiguiutils5 libkeximain5 libkeximigrate5 libkexirelationsview5 libkexisql3-3 libkexiutils5 libkformdesigner5
 

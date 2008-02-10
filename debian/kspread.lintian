@@ -33,3 +33,5 @@ kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/y
 kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/yfinance.py #!kross
 kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/yweather.py
 kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/yweather.py #!kross
+kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/rpyfunctions.py
+kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/rpyfunctions.py #!kross
