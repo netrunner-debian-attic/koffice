@@ -292,6 +292,7 @@ usr/share/kde4/servicetypes/koplugin.desktop
 usr/share/kde4/servicetypes/pigment.desktop
 usr/share/kde4/servicetypes/pigmentextension.desktop
 usr/share/kde4/servicetypes/texteditingplugin.desktop
+usr/share/kde4/servicetypes/textvariableplugin.desktop
 usr/share/templates/Illustration.desktop
 usr/share/templates/Presentation.desktop
 usr/share/templates/.source/Illustration.karbon

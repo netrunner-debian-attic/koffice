@@ -1,5 +1,7 @@
+usr/share/doc/kde4/HTML/en/karbon/common
 usr/share/doc/kde4/HTML/en/karbon/index.cache.bz2
 usr/share/doc/kde4/HTML/en/karbon/index.docbook
+usr/share/doc/kde4/HTML/en/kchart/common
 usr/share/doc/kde4/HTML/en/kchart/file-toolbar2.png
 usr/share/doc/kde4/HTML/en/kchart/file-toolbar.png
 usr/share/doc/kde4/HTML/en/kchart/frame_chart.png
@@ -40,6 +42,7 @@ usr/share/doc/kde4/HTML/en/kchart/shortcut.png
 usr/share/doc/kde4/HTML/en/kchart/toolbars.png
 usr/share/doc/kde4/HTML/en/kexi/basics.docbook
 usr/share/doc/kde4/HTML/en/kexi/building.docbook
+usr/share/doc/kde4/HTML/en/kexi/common
 usr/share/doc/kde4/HTML/en/kexi/comparing.docbook
 usr/share/doc/kde4/HTML/en/kexi/configuration.docbook
 usr/share/doc/kde4/HTML/en/kexi/contact-example.png
@@ -54,6 +57,7 @@ usr/share/doc/kde4/HTML/en/kexi/intro.docbook
 usr/share/doc/kde4/HTML/en/kexi/menus.docbook
 usr/share/doc/kde4/HTML/en/kexi/querydesigning.docbook
 usr/share/doc/kde4/HTML/en/kformula/ambiguous-string.png
+usr/share/doc/kde4/HTML/en/kformula/common
 usr/share/doc/kde4/HTML/en/kformula/correct_index_location.png
 usr/share/doc/kde4/HTML/en/kformula/definite_integral.png
 usr/share/doc/kde4/HTML/en/kformula/file-toolbar2.png
@@ -86,14 +90,17 @@ usr/share/doc/kde4/HTML/en/kformula/shortcut1.png
 usr/share/doc/kde4/HTML/en/kformula/sin.png
 usr/share/doc/kde4/HTML/en/kformula/toolbars.png
 usr/share/doc/kde4/HTML/en/kformula/upper-index.png
+usr/share/doc/kde4/HTML/en/kivio/common
 usr/share/doc/kde4/HTML/en/kivio/credits.docbook
 usr/share/doc/kde4/HTML/en/kivio/index.cache.bz2
 usr/share/doc/kde4/HTML/en/kivio/index.docbook
 usr/share/doc/kde4/HTML/en/kivio/introduction.docbook
 usr/share/doc/kde4/HTML/en/kivio/usage.docbook
 usr/share/doc/kde4/HTML/en/kivio/working.docbook
+usr/share/doc/kde4/HTML/en/koffice/common
 usr/share/doc/kde4/HTML/en/koffice/index.cache.bz2
 usr/share/doc/kde4/HTML/en/koffice/index.docbook
+usr/share/doc/kde4/HTML/en/koshell/common
 usr/share/doc/kde4/HTML/en/koshell/index.cache.bz2
 usr/share/doc/kde4/HTML/en/koshell/index.docbook
 usr/share/doc/kde4/HTML/en/koshell/koshell1.png
@@ -101,6 +108,7 @@ usr/share/doc/kde4/HTML/en/koshell/main-view.png
 usr/share/doc/kde4/HTML/en/koshell/new-dialog.png
 usr/share/doc/kde4/HTML/en/koshell/side-pane.png
 usr/share/doc/kde4/HTML/en/kplato/commands.docbook
+usr/share/doc/kde4/HTML/en/kplato/common
 usr/share/doc/kde4/HTML/en/kplato/configure1.png
 usr/share/doc/kde4/HTML/en/kplato/configure2.1.png
 usr/share/doc/kde4/HTML/en/kplato/configure2.png
@@ -138,6 +146,7 @@ usr/share/doc/kde4/HTML/en/kpresenter/barstyle6.png
 usr/share/doc/kde4/HTML/en/kpresenter/barstyle7.png
 usr/share/doc/kde4/HTML/en/kpresenter/break.png
 usr/share/doc/kde4/HTML/en/kpresenter/changeformat.png
+usr/share/doc/kde4/HTML/en/kpresenter/common
 usr/share/doc/kde4/HTML/en/kpresenter/completion.png
 usr/share/doc/kde4/HTML/en/kpresenter/configure1.png
 usr/share/doc/kde4/HTML/en/kpresenter/configure2.png
@@ -226,6 +235,7 @@ usr/share/doc/kde4/HTML/en/krita/commands.docbook
 usr/share/doc/kde4/HTML/en/krita/commands-menus.docbook
 usr/share/doc/kde4/HTML/en/krita/commands-palettes.docbook
 usr/share/doc/kde4/HTML/en/krita/commands-toolbars.docbook
+usr/share/doc/kde4/HTML/en/krita/common
 usr/share/doc/kde4/HTML/en/krita/createdocument.png
 usr/share/doc/kde4/HTML/en/krita/credits.docbook
 usr/share/doc/kde4/HTML/en/krita/crocusses-autocontrast.png
@@ -480,6 +490,7 @@ usr/share/doc/kde4/HTML/en/kspread/cellprotection1.png
 usr/share/doc/kde4/HTML/en/kspread/cellprotection2.png
 usr/share/doc/kde4/HTML/en/kspread/chart1.png
 usr/share/doc/kde4/HTML/en/kspread/commands.docbook
+usr/share/doc/kde4/HTML/en/kspread/common
 usr/share/doc/kde4/HTML/en/kspread/configdialog.docbook
 usr/share/doc/kde4/HTML/en/kspread/config.docbook
 usr/share/doc/kde4/HTML/en/kspread/configure1.png
@@ -516,6 +527,7 @@ usr/share/doc/kde4/HTML/en/kspread/tts.png
 usr/share/doc/kde4/HTML/en/kugar/add_detail_footer.png
 usr/share/doc/kde4/HTML/en/kugar/add_detail_header.png
 usr/share/doc/kde4/HTML/en/kugar/add_detail.png
+usr/share/doc/kde4/HTML/en/kugar/common
 usr/share/doc/kde4/HTML/en/kugar/datadtd.docbook
 usr/share/doc/kde4/HTML/en/kugar/dataref.docbook
 usr/share/doc/kde4/HTML/en/kugar/designer.docbook
@@ -581,6 +593,7 @@ usr/share/doc/kde4/HTML/en/kword/colin.png
 usr/share/doc/kde4/HTML/en/kword/colorseldlg.png
 usr/share/doc/kde4/HTML/en/kword/colout.png
 usr/share/doc/kde4/HTML/en/kword/columns.docbook
+usr/share/doc/kde4/HTML/en/kword/common
 usr/share/doc/kde4/HTML/en/kword/ctab2.png
 usr/share/doc/kde4/HTML/en/kword/ctab.png
 usr/share/doc/kde4/HTML/en/kword/decindbut.png
@@ -810,5 +823,6 @@ usr/share/doc/kde4/HTML/en/kword/wpfmtpg1.png
 usr/share/doc/kde4/HTML/en/kword/wpfmtpg2.png
 usr/share/doc/kde4/HTML/en/kword/wpfmtpg3.png
 usr/share/doc/kde4/HTML/en/kword/zoom.png
+usr/share/doc/kde4/HTML/en/thesaurus/common
 usr/share/doc/kde4/HTML/en/thesaurus/index.cache.bz2
 usr/share/doc/kde4/HTML/en/thesaurus/index.docbook

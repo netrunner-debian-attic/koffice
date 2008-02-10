@@ -1,7 +1,6 @@
 usr/bin/krita
 usr/lib/kde4/kritabigbrother.so
 usr/lib/kde4/kritablurfilter.so
-usr/lib/kde4/kritabracketing2hdr.so
 usr/lib/kde4/kritabumpmap.so
 usr/lib/kde4/kritacimg.so
 usr/lib/kde4/kritacmykplugin.so
@@ -16,7 +15,6 @@ usr/lib/kde4/kritacubismfilter.so
 usr/lib/kde4/kritadefaultpaintops.so
 usr/lib/kde4/kritadefaulttools.so
 usr/lib/kde4/kritadropshadow.so
-usr/lib/kde4/kritadynamicbrushpaintop.so
 usr/lib/kde4/kritaembossfilter.so
 usr/lib/kde4/kritaexample.so
 usr/lib/kde4/kritaextensioncolorsfilters.so
@@ -31,7 +29,6 @@ usr/lib/kde4/kritaimageenhancement.so
 usr/lib/kde4/kritaimagesize.so
 usr/lib/kde4/kritalayercompose.so
 usr/lib/kde4/kritalenscorrectionfilter.so
-usr/lib/kde4/kritametadataeditor.so
 usr/lib/kde4/kritamodifyselection.so
 usr/lib/kde4/kritanoisefilter.so
 usr/lib/kde4/kritaoilpaintfilter.so
@@ -52,9 +49,10 @@ usr/lib/kde4/kritasmearybrush.so
 usr/lib/kde4/kritasobelfilter.so
 usr/lib/kde4/kritaspecificcolorselector.so
 usr/lib/kde4/kritatogether.so
-usr/lib/kde4/kritatonemapping.so
 usr/lib/kde4/kritatoolcrop.so
 usr/lib/kde4/kritatoolcurves.so
+usr/lib/kde4/kritatoolgrid.so
+usr/lib/kde4/kritatoolperspectivegrid.so
 usr/lib/kde4/kritatoolpolygon.so
 usr/lib/kde4/kritatoolpolyline.so
 usr/lib/kde4/kritatoolselectsimilar.so
@@ -80,12 +78,6 @@ usr/lib/kde4/libkritapngimport.so
 usr/lib/kde4/libkritatiffexport.so
 usr/lib/kde4/libkritatiffimport.so
 usr/lib/libkdeinit4_krita.so
-usr/lib/libkritabasicdynamiccoloringprogram.so.5
-usr/lib/libkritabasicdynamiccoloringprogram.so.5.0.0
-usr/lib/libkritabasicdynamicshapeprogram.so.5
-usr/lib/libkritabasicdynamicshapeprogram.so.5.0.0
-usr/lib/libkritadynamicbrush.so.5
-usr/lib/libkritadynamicbrush.so.5.0.0
 usr/lib/libkritagrayscale.so.5
 usr/lib/libkritagrayscale.so.5.0.0
 usr/lib/libkritaimage.so.5
@@ -100,3 +92,5 @@ usr/lib/libkrita_xyz_u16.so.5
 usr/lib/libkrita_xyz_u16.so.5.0.0
 usr/lib/libkrossmodulekrita.so.5
 usr/lib/libkrossmodulekrita.so.5.0.0
+usr/share/kde4/services/kritatoolgrid.desktop
+usr/share/kde4/services/kritatoolperspectivegrid.desktop

@@ -1,6 +1,6 @@
 usr/bin/karbon
 usr/lib/kde4/karbon_flattenpathplugin.so
-usr/lib/kde4/karbon_insertknotsplugin.so
+usr/lib/kde4/karbon_refinepathplugin.so
 usr/lib/kde4/karbontools.so
 usr/lib/kde4/karbon_whirlpinchplugin.so
 usr/lib/kde4/libkarbon1ximport.so
@@ -10,7 +10,6 @@ usr/lib/kde4/libkarbonsvgexport.so
 usr/lib/kde4/libkarbonsvgimport.so
 usr/lib/kde4/libwmfexport.so
 usr/lib/kde4/libwmfimport.so
-usr/lib/kde4/libwpgimport.so
 usr/lib/kde4/simpletextshape.so
 usr/lib/libkarboncommon.so.5
 usr/lib/libkarboncommon.so.5.0.0
@@ -44,12 +43,12 @@ usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_ellipse.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_flatten.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_gradient.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_image.png
-usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_insertknots.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_pattern.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_pencil.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_polygon.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_polyline.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_rectangle.png
+usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_refine.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_rotate.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_roundcorners.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_roundrect.png
@@ -77,9 +76,9 @@ usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_novisible.png
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_visible.png
 usr/share/kde4/apps/karbon/karbon.rc
 usr/share/kde4/apps/karbon/karbon_readonly.rc
-usr/share/kde4/apps/karbon/kpartplugins/flattenpathplugin.rc
-usr/share/kde4/apps/karbon/kpartplugins/insertknotsplugin.rc
-usr/share/kde4/apps/karbon/kpartplugins/whirlpinchplugin.rc
+usr/share/kde4/apps/karbon/kpartplugins/FlattenPathPlugin.rc
+usr/share/kde4/apps/karbon/kpartplugins/RefinePathPlugin.rc
+usr/share/kde4/apps/karbon/kpartplugins/WhirlPinchPlugin.rc
 usr/share/kde4/apps/karbon/templates/Basic/.directory
 usr/share/kde4/apps/karbon/templates/Basic/empty.desktop
 usr/share/kde4/apps/karbon/templates/Basic/.source/empty.karbon
@@ -93,7 +92,6 @@ usr/share/kde4/services/karbon_svgz_import.desktop
 usr/share/kde4/services/karbontools.desktop
 usr/share/kde4/services/karbon_wmf_export.desktop
 usr/share/kde4/services/karbon_wmf_import.desktop
-usr/share/kde4/services/karbon_wpg_import.desktop
 usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
 usr/share/kde4/services/simpletextshape.desktop
 usr/share/kde4/servicetypes/karbon_module.desktop
