@@ -94,3 +94,6 @@ usr/share/kde4/services/karbon_wmf_import.desktop
 usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
 usr/share/kde4/services/simpletextshape.desktop
 usr/share/kde4/servicetypes/karbon_module.desktop
+
+../icons/karbon.xpm usr/share/pixmaps
+

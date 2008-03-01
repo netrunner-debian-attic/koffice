@@ -3,11 +3,16 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) UNRELEASED; urgency=low
   * New upstream release 1.9.95.3.
   * Update *.install files.
   * Update from libglew1.4-dev to libglew1.5-dev.
+  * Add build dependency on libgsl0-dev, freetds-dev, libwpd8-dev,
+    libpqxx-dev and libwpg-dev.
   * Replace (c) with © in copyright to make lintian happy.
   * Update lintian overrides.
-  * Change koffice-dev section to devel.
+  * Change koffice-dev section to devel. 
+  * Update installed files. 
+  * Add patch fix_desktop_entry to remove obsolote TerminalOption entries.
+  * Add icons/ directory with xpm icons and Debian menu files. 
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 10 Feb 2008 10:56:50 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 01 Mar 2008 18:13:13 +0100
 
 koffice (1:1.9.96.0~svn763013-1) experimental; urgency=low
 

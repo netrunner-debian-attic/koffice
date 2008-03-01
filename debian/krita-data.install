@@ -179,6 +179,10 @@ usr/share/kde4/apps/krita/icons/crystalsvg/scalable/actions/template_rgb_empty.s
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_cmyk_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_gray_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_rgb_empty.png
+usr/share/kde4/apps/krita/illuminants/D65_6_high.ill
+usr/share/kde4/apps/krita/illuminants/D65_6_low.ill
+usr/share/kde4/apps/krita/illuminants/D65_9_high.ill
+usr/share/kde4/apps/krita/illuminants/D65_9_low.ill
 usr/share/kde4/apps/krita/images/brush1.png
 usr/share/kde4/apps/krita/images/brush2.png
 usr/share/kde4/apps/krita/images/brush3.png
@@ -352,6 +356,7 @@ usr/share/kde4/services/kritaimageenhancement.desktop
 usr/share/kde4/services/kritaimagesize.desktop
 usr/share/kde4/services/krita_jpeg_export.desktop
 usr/share/kde4/services/krita_jpeg_import.desktop
+usr/share/kde4/services/kritakscolorspacesplugin.desktop
 usr/share/kde4/services/kritalayercompose.desktop
 usr/share/kde4/services/kritalenscorrectionfilter.desktop
 usr/share/kde4/services/kritamodifyselection.desktop
@@ -403,3 +408,6 @@ usr/share/kde4/servicetypes/krita_paintop.desktop
 usr/share/kde4/servicetypes/krita_plugin.desktop
 usr/share/kde4/servicetypes/krita_tool.desktop
 usr/share/mime/packages/krita_ora.xml
+
+../icons/krita.xpm usr/share/pixmaps
+

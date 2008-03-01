@@ -1,0 +1,9 @@
+?package(karbon):\
+	needs="x11"\
+	section="Applications/Graphics"\
+	hints="KDE,Vector"\
+	title="Karbon"\
+	longtitle="Karbon (Scalable Graphics)"\
+	icon="/usr/share/pixmaps/karbon.xpm"\
+	command="/usr/bin/karbon"
+

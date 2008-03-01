@@ -49,3 +49,7 @@ usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscape.desktop
 usr/share/kde4/apps/kpresenter/templates/Screen/.source/emptyLandscape.otp
 usr/share/kde4/services/kpresenterpart.desktop
 usr/share/kde4/services/ServiceMenus/kpresenter_konqi.desktop
+
+../icons/kpresenter.xpm usr/share/pixmaps
+
+

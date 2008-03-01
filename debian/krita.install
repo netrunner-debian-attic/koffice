@@ -27,6 +27,7 @@ usr/lib/kde4/krita_gray_u16_plugin.so
 usr/lib/kde4/kritahistogram.so
 usr/lib/kde4/kritaimageenhancement.so
 usr/lib/kde4/kritaimagesize.so
+usr/lib/kde4/kritakscolorspacesplugin.so
 usr/lib/kde4/kritalayercompose.so
 usr/lib/kde4/kritalenscorrectionfilter.so
 usr/lib/kde4/kritamodifyselection.so
