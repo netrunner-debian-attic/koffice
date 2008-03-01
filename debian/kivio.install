@@ -15,5 +15,5 @@ usr/share/kde4/apps/kivio/templates/Basic/.source/empty.otg
 usr/share/kde4/services/kiviopart.desktop
 usr/share/kde4/services/ServiceMenus/kivio_konqi.desktop
 
-../icons/kformula.xpm usr/share/pixmaps
+../icons/kivio.xpm usr/share/pixmaps
 
