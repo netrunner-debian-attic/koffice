@@ -1,4 +1,4 @@
-koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) UNRELEASED; urgency=low
+koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) experimental; urgency=low
 
   * New upstream release 1.9.95.3.
   * Update *.install files.
@@ -12,7 +12,7 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) UNRELEASED; urgency=low
   * Add patch fix_desktop_entry to remove obsolote TerminalOption entries.
   * Add icons/ directory with xpm icons and Debian menu files. 
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 01 Mar 2008 18:33:48 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 02 Mar 2008 04:32:25 +0100
 
 koffice (1:1.9.96.0~svn763013-1) experimental; urgency=low
 
