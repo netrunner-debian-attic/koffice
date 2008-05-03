@@ -4,9 +4,11 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Isaac Clerencia <isaac@debian.org>
 Build-Depends: cdbs, debhelper (>= 5), quilt, cmake, 
- kdepimlibs5-dev (>= 4:4.0.1), libphonon-dev (>= 4:4.0.1),
+ kdepimlibs5-dev (>= 4:4.0.72), libphonon-dev (>= 4:4.0.72),
+ libboost-dev, libopenexr-dev,
  libeigen-dev, libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
- freeglut3-dev, libglpk-dev, libexiv2-dev, libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
+ freeglut3-dev, libglpk-dev, libexiv2-dev, 
+ libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
  libwv2-dev, libmysqlclient15-dev, libpqxx-dev, libpoppler-qt4-dev, 
  libgsl0-dev, freetds-dev, libwpd8-dev, libwpg-dev
 Standards-Version: 3.7.3
@@ -182,14 +184,25 @@ Description: a spreadsheet for the KDE Office Suite
 Package: kword
 Architecture: any
 Section: kde
-Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Recommends: libkscan1
+Depends: ${shlibs:Depends}, kword-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: a word processor for the KDE Office Suite
  KWord is a FrameMaker-like word processing and desktop publishing
  application.  KWord is capable of creating demanding and professional
  looking documents.  It can be used for desktop publishing, but also for
  "normal" word processing, like writing letters, reports and so on.
+ .
+ This package is part of the KDE Office Suite.
+
+Package: kword-data
+Architecture: all
+Section: kde
+Replaces: kword (<< 1:1.9.96.0~that.is.really.1.9.95.3-1)
+Description: data files for KWord word processor
+ This package contains architecture-independent data files for KWord,
+ the word processor shipped with the KDE Office Suite.
+ .
+ See the kword package for further information.
  .
  This package is part of the KDE Office Suite.
 
