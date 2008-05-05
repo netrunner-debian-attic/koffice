@@ -2,8 +2,11 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
 
   * New upstrem release 1.9.95.4.
   * Remove patch fix_desktop_entry, merged upstream.
+  * Add patch 98_link_interfaces_library.diff to fix the CMake's 
+    TARGET_LINK_LIBRARIES fields. (WIP, help welcomed...)
   * Bump build depends to build against KDE 4.0.72 (snapshot from KDE 4.1).
-  * Update build depends, add libboost-dev and libopenexr-dev.
+  * Update build depends, add libboost-dev and libopenexr-dev. 
+    (Closes: #479559)
   * Split kword data files in kword-data. (Closes: #472931)
   * Remove Recommends: libkscan1 from kword. That is KDE 3 stuff.
 
