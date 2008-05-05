@@ -1,11 +1,13 @@
-koffice (1:1.9.96.0~that.is.really.1.9.95.3-2) experimental; urgency=low
+koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
 
+  * New upstrem release 1.9.95.4.
+  * Remove patch fix_desktop_entry, merged upstream.
   * Bump build depends to build against KDE 4.0.72 (snapshot from KDE 4.1).
   * Update build depends, add libboost-dev and libopenexr-dev.
   * Split kword data files in kword-data. (Closes: #472931)
   * Remove Recommends: libkscan1 from kword. That is KDE 3 stuff.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 10 Apr 2008 16:42:30 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 05 May 2008 21:43:55 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) experimental; urgency=low
 
