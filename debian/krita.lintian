@@ -1,4 +1,4 @@
 krita: menu-icon-missing /usr/share/pixmaps/krita.xpm
 krita: shlib-missing-in-control-file libkdeinit4_krita.so for usr/lib/libkdeinit4_krita.so
-krita: package-name-doesnt-match-sonames libkdeinit4-krita libkrita-xyz_u16-5 libkritagrayscale5 libkritaimage5 libkritargbf16hdr5 libkritargbf32hdr5 libkritaui5 libkrossmodulekrita5
+krita: package-name-doesnt-match-sonames libkdeinit4-krita libkrita-xyz_u16-5 libkritabasicdynamiccoloringprogram5 libkritabasicdynamicshapeprogram5 libkritadynamicbrush5 libkritagrayscale5 libkritaimage5 libkritargbf16hdr5 libkritaui5 libkrossmodulekrita5
 
