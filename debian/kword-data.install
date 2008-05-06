@@ -88,8 +88,6 @@ usr/share/kde4/apps/kword/templates/Normal/.source/TwoColumns.kwt
 usr/share/kde4/apps/kword/templates/Normal/.source/TwoColumnsLetter.kwt
 usr/share/kde4/apps/kword/templates/Normal/TwoColumns.desktop
 usr/share/kde4/apps/kword/templates/Normal/TwoColumnsLetter.desktop
-usr/share/kde4/apps/xsltfilter/export/kword/xslfo/kword2xslfo-table.xsl
-usr/share/kde4/apps/xsltfilter/export/kword/xslfo/main.xsl
 usr/share/kde4/services/krossmodulekword.desktop
 usr/share/kde4/services/kword_abiword_export.desktop
 usr/share/kde4/services/kword_abiword_import.desktop

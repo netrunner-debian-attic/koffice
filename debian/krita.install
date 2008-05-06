@@ -20,7 +20,6 @@ usr/lib/kde4/kritaexample.so
 usr/lib/kde4/kritaextensioncolorsfilters.so
 usr/lib/kde4/kritafastcolortransferfilter.so
 usr/lib/kde4/kritafilterop.so
-usr/lib/kde4/kritafiltersgallery.so
 usr/lib/kde4/kritaglsl.so
 usr/lib/kde4/kritagrayplugin.so
 usr/lib/kde4/krita_gray_u16_plugin.so
@@ -62,7 +61,6 @@ usr/lib/kde4/kritatooltransform.so
 usr/lib/kde4/kritatrianglecolorselector.so
 usr/lib/kde4/kritaunsharpfilter.so
 usr/lib/kde4/kritawavefilter.so
-usr/lib/kde4/kritaxyzfloathdrplugin.so
 usr/lib/kde4/krita_xyz_u16_plugin.so
 usr/lib/kde4/kritaycbcrplugin.so
 usr/lib/kde4/libkritabmpexport.so
@@ -85,8 +83,6 @@ usr/lib/libkritaimage.so.5
 usr/lib/libkritaimage.so.5.0.0
 usr/lib/libkritargbf16hdr.so.5
 usr/lib/libkritargbf16hdr.so.5.0.0
-usr/lib/libkritargbf32hdr.so.5
-usr/lib/libkritargbf32hdr.so.5.0.0
 usr/lib/libkritaui.so.5
 usr/lib/libkritaui.so.5.0.0
 usr/lib/libkrita_xyz_u16.so.5

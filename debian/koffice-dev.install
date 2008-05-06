@@ -171,7 +171,6 @@ usr/include/kostore_export.h
 usr/include/KoStore.h
 usr/include/KoStyleStack.h
 usr/include/KoTabBar.h
-usr/include/KoTabulator.h
 usr/include/KoTemplateCreateDia.h
 usr/include/KoToolBoxFactory.h
 usr/include/KoToolBox.h
@@ -236,7 +235,6 @@ usr/lib/libkpresenterprivate.so
 usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
 usr/lib/libkritargbf16hdr.so
-usr/lib/libkritargbf32hdr.so
 usr/lib/libkritaui.so
 usr/lib/libkrita_xyz_u16.so
 usr/lib/libkrossmodulekrita.so

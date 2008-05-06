@@ -5,13 +5,14 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
   * Add patch 98_link_interfaces_library.diff to fix the CMake's 
     TARGET_LINK_LIBRARIES fields. (WIP, help welcomed...)
   * Bump build depends to build against KDE 4.0.72 (snapshot from KDE 4.1).
-  * Update build depends, add libboost-dev and libopenexr-dev. 
+  * Update build depends, add libboost-dev, libxslt1-dev and libopenexr-dev. 
     (Closes: #479559)
   * Split kword data files in kword-data. (Closes: #472931)
   * Remove Recommends: libkscan1 from kword. That is KDE 3 stuff.
   * Update Uploaders: replace Isaac with Raúl.
+  * Update installed files.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 05 May 2008 21:43:55 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 06 May 2008 12:24:29 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) experimental; urgency=low
 

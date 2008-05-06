@@ -179,10 +179,7 @@ usr/share/kde4/apps/krita/icons/crystalsvg/scalable/actions/template_rgb_empty.s
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_cmyk_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_gray_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_rgb_empty.png
-usr/share/kde4/apps/krita/illuminants/D65_6_high.ill
-usr/share/kde4/apps/krita/illuminants/D65_6_low.ill
-usr/share/kde4/apps/krita/illuminants/D65_9_high.ill
-usr/share/kde4/apps/krita/illuminants/D65_9_low.ill
+usr/share/kde4/apps/krita/illuminants/*.ill
 usr/share/kde4/apps/krita/images/brush1.png
 usr/share/kde4/apps/krita/images/brush2.png
 usr/share/kde4/apps/krita/images/brush3.png
@@ -269,7 +266,6 @@ usr/share/kde4/apps/kritaplugins/dropshadow.rc
 usr/share/kde4/apps/kritaplugins/histogram.rc
 usr/share/kde4/apps/kritaplugins/imageseparate.rc
 usr/share/kde4/apps/kritaplugins/imagesize.rc
-usr/share/kde4/apps/kritaplugins/kritafiltersgallery.rc
 usr/share/kde4/apps/kritaplugins/kritaglsl.rc
 usr/share/kde4/apps/kritaplugins/layercompose.rc
 usr/share/kde4/apps/kritaplugins/modify_selection.rc
@@ -347,7 +343,6 @@ usr/share/kde4/services/kritaexample.desktop
 usr/share/kde4/services/kritaextensioncolorsfilters.desktop
 usr/share/kde4/services/kritafastcolortransfer.desktop
 usr/share/kde4/services/kritafilterop.desktop
-usr/share/kde4/services/kritafiltersgallery.desktop
 usr/share/kde4/services/kritaglsl.desktop
 usr/share/kde4/services/kritagrayplugin.desktop
 usr/share/kde4/services/krita_gray_u16_plugin.desktop
@@ -399,7 +394,6 @@ usr/share/kde4/services/kritatooltransform.desktop
 usr/share/kde4/services/kritatrianglecolorselector.desktop
 usr/share/kde4/services/kritaunsharpfilter.desktop
 usr/share/kde4/services/kritawavefilter.desktop
-usr/share/kde4/services/kritaxyzfloathdrplugin.desktop
 usr/share/kde4/services/krita_xyz_u16_plugin.desktop
 usr/share/kde4/services/kritaycbcrplugin.desktop
 usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
