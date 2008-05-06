@@ -163,6 +163,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/shadowRU.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/shadowU.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide-new.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/spreadsheetshape.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/toggle_docbrowser.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/ungroup.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-sort-ascending.png
@@ -274,12 +275,14 @@ usr/share/kde4/services/musicshape.desktop
 usr/share/kde4/services/pathshapes.desktop
 usr/share/kde4/services/pictureshape.desktop
 usr/share/kde4/services/spellcheck.desktop
+usr/share/kde4/services/spreadsheetshape.desktop
 usr/share/kde4/services/textshape.desktop
 usr/share/kde4/services/textvariables.desktop
 usr/share/kde4/services/thesaurustool.desktop
 usr/share/kde4/services/xslt_export.desktop
 usr/share/kde4/services/xslt_import.desktop
 usr/share/kde4/servicetypes/flake.desktop
+usr/share/kde4/servicetypes/flakedevice.desktop
 usr/share/kde4/servicetypes/flakeshape.desktop
 usr/share/kde4/servicetypes/flaketool.desktop
 usr/share/kde4/servicetypes/inlinetextobject.desktop

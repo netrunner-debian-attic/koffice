@@ -1,3 +1,4 @@
+../icons/kword.xpm usr/share/pixmaps
 usr/share/applications/kde4/kword.desktop
 usr/share/icons/hicolor/16x16/apps/kword.png
 usr/share/icons/hicolor/22x22/apps/kword.png
@@ -88,6 +89,8 @@ usr/share/kde4/apps/kword/templates/Normal/.source/TwoColumns.kwt
 usr/share/kde4/apps/kword/templates/Normal/.source/TwoColumnsLetter.kwt
 usr/share/kde4/apps/kword/templates/Normal/TwoColumns.desktop
 usr/share/kde4/apps/kword/templates/Normal/TwoColumnsLetter.desktop
+usr/share/kde4/apps/xsltfilter/export/kword/xslfo/kword2xslfo-table.xsl
+usr/share/kde4/apps/xsltfilter/export/kword/xslfo/main.xsl
 usr/share/kde4/services/krossmodulekword.desktop
 usr/share/kde4/services/kword_abiword_export.desktop
 usr/share/kde4/services/kword_abiword_import.desktop
@@ -116,5 +119,3 @@ usr/share/kde4/services/kword_wp_export.desktop
 usr/share/kde4/services/kword_wp_import.desktop
 usr/share/kde4/services/ServiceMenus/kword_konqi.desktop
 usr/share/kde4/servicetypes/kwmailmerge.desktop
-
-../icons/kword.xpm usr/share/pixmaps

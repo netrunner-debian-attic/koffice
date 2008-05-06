@@ -1,5 +1,6 @@
 usr/bin/kplato
 usr/bin/kplatowork
+usr/lib/kde4/krossmodulekplato.so
 usr/lib/kde4/libkplatopart.so
 usr/lib/kde4/libkplatoworkpart.so
 usr/lib/libkdeinit4_kplato.so
@@ -59,12 +60,20 @@ usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/project_calculate.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/resources.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/unindent_task.png
 usr/share/kde4/apps/kplato/icons/hicolor/48x48/actions/template_timechart.png
+usr/share/kde4/apps/kplato/kpartplugins/scripting.rc
 usr/share/kde4/apps/kplato/kplato.rc
 usr/share/kde4/apps/kplato/kplato_readonly.rc
 usr/share/kde4/apps/kplato/reports/resourcelist.desktop
 usr/share/kde4/apps/kplato/reports/.source/resourcelist.ktf
 usr/share/kde4/apps/kplato/reports/.source/tasklist.ktf
 usr/share/kde4/apps/kplato/reports/tasklist.desktop
+usr/share/kde4/apps/kplato/scripts/extensions/busyinfoclear.py
+usr/share/kde4/apps/kplato/scripts/extensions/busyinfoexport.py
+usr/share/kde4/apps/kplato/scripts/extensions/busyinfoimport.py
+usr/share/kde4/apps/kplato/scripts/extensions/resourcesimport.py
+usr/share/kde4/apps/kplato/scripts/samples/sample_busyinfocheck.py
+usr/share/kde4/apps/kplato/scripts/samples/sample_project.py
+usr/share/kde4/apps/kplato/scripts/scripts.rc
 usr/share/kde4/apps/kplato/templates/Simple/8HourDay-40HourWeek.desktop
 usr/share/kde4/apps/kplato/templates/Simple/.directory
 usr/share/kde4/apps/kplato/templates/Simple/Plain.desktop
@@ -85,3 +94,4 @@ usr/share/kde4/apps/kplatowork/templates/Simple/Empty.desktop
 usr/share/kde4/apps/kplatowork/templates/Simple/.source/Empty.kplatoworkt
 usr/share/kde4/services/kplatopart.desktop
 usr/share/kde4/services/kplatoworkpart.desktop
+usr/share/kde4/services/krossmodulekplato.desktop

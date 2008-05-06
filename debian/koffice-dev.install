@@ -1,4 +1,5 @@
 usr/include/config-openexr.h
+usr/include/DebugPigment.h
 usr/include/flake_export.h
 usr/include/kexidb/connectiondata.h
 usr/include/kexidb/connection.h
@@ -46,11 +47,15 @@ usr/include/KoAction.h
 usr/include/KoApplicationAdaptor.h
 usr/include/KoApplication.h
 usr/include/KoBasicHistogramProducers.h
+usr/include/KoCanvasBase.h
 usr/include/KoCanvasObserver.h
+usr/include/KoCanvasResourceProvider.h
 usr/include/KoChannelInfo.h
 usr/include/KoCharSelectDia.h
 usr/include/koChart.h
+usr/include/KoChartModel.h
 usr/include/KoChild.h
+usr/include/KoColorConversionTransformationAbstractFactory.h
 usr/include/KoColorConversionTransformationFactory.h
 usr/include/KoColorConversionTransformation.h
 usr/include/KoColor.h
@@ -59,6 +64,7 @@ usr/include/KoColorProfile.h
 usr/include/KoColorSet.h
 usr/include/KoColorSpaceAbstract.h
 usr/include/KoColorSpaceConstants.h
+usr/include/KoColorSpaceEngine.h
 usr/include/KoColorSpace.h
 usr/include/KoColorSpaceMaths.h
 usr/include/KoColorSpaceRegistry.h
@@ -123,6 +129,7 @@ usr/include/KoPattern.h
 usr/include/KoPictureCollection.h
 usr/include/KoPicture.h
 usr/include/KoPictureKey.h
+usr/include/KoPointerEvent.h
 usr/include/KoProperties.h
 usr/include/koproperty/customproperty.h
 usr/include/koproperty/editor.h
@@ -176,12 +183,16 @@ usr/include/KoToolBoxFactory.h
 usr/include/KoToolBox.h
 usr/include/KoToolDockerFactory.h
 usr/include/KoToolDocker.h
+usr/include/KoToolFactory.h
+usr/include/KoTool.h
 usr/include/KoToolManager.h
+usr/include/KoToolRegistry.h
 usr/include/KoUnitDoubleSpinBox.h
 usr/include/KoUnit.h
 usr/include/KoVersionDialog.h
 usr/include/KoViewAdaptor.h
 usr/include/KoViewChild.h
+usr/include/KoViewConverter.h
 usr/include/KoView.h
 usr/include/KoXmlNS.h
 usr/include/KoXmlReaderForward.h
@@ -232,6 +243,9 @@ usr/lib/libkplatoprivate.so
 usr/lib/libkplatoui.so
 usr/lib/libkplatoworkfactory.so
 usr/lib/libkpresenterprivate.so
+usr/lib/libkritabasicdynamiccoloringprogram.so
+usr/lib/libkritabasicdynamicshapeprogram.so
+usr/lib/libkritadynamicbrush.so
 usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
 usr/lib/libkritargbf16hdr.so

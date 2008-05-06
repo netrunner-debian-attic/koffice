@@ -10,9 +10,8 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
   * Split kword data files in kword-data. (Closes: #472931)
   * Remove Recommends: libkscan1 from kword. That is KDE 3 stuff.
   * Update Uploaders: replace Isaac with Raúl.
-  * Update installed files.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 06 May 2008 12:24:29 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 05 May 2008 21:43:55 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.3-1) experimental; urgency=low
 

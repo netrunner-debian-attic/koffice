@@ -1,4 +1,12 @@
+../icons/kpresenter.xpm usr/share/pixmaps
 usr/bin/kpresenter
+usr/lib/kde4/kpr_pageeffect_barwipe.so
+usr/lib/kde4/kpr_pageeffect_clockwipe.so
+usr/lib/kde4/kpr_pageeffect_edgewipe.so
+usr/lib/kde4/kpr_pageeffect_iriswipe.so
+usr/lib/kde4/kpr_pageeffect_matrixwipe.so
+usr/lib/kde4/kpr_pageeffect_slidewipe.so
+usr/lib/kde4/kpr_shapeanimation_example.so
 usr/lib/kde4/libkpresenterpart.so
 usr/lib/libkdeinit4_kpresenter.so
 usr/lib/libkpresenterprivate.so.5
@@ -48,8 +56,13 @@ usr/share/kde4/apps/kpresenter/templates/Screen/.directory
 usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscape.desktop
 usr/share/kde4/apps/kpresenter/templates/Screen/.source/emptyLandscape.otp
 usr/share/kde4/services/kpresenterpart.desktop
+usr/share/kde4/services/kpr_pageeffect_barwipe.desktop
+usr/share/kde4/services/kpr_pageeffect_clockwipe.desktop
+usr/share/kde4/services/kpr_pageeffect_edgewipe.desktop
+usr/share/kde4/services/kpr_pageeffect_iriswipe.desktop
+usr/share/kde4/services/kpr_pageeffect_matrixwipe.desktop
+usr/share/kde4/services/kpr_pageeffect_slidewipe.desktop
+usr/share/kde4/services/kpr_shapeanimation_example.desktop
 usr/share/kde4/services/ServiceMenus/kpresenter_konqi.desktop
-
-../icons/kpresenter.xpm usr/share/pixmaps
-
-
+usr/share/kde4/servicetypes/kpr_pageeffect.desktop
+usr/share/kde4/servicetypes/kpr_shapeanimation.desktop

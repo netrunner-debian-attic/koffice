@@ -1,3 +1,4 @@
+../icons/kformula.xpm usr/share/pixmaps
 usr/bin/kformula
 usr/lib/kde4/formulashape.so
 usr/lib/kde4/libkformulapart.so
@@ -84,6 +85,3 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/formulashape.png
 usr/share/kde4/services/formulashape.desktop
 usr/share/kde4/services/kformulapart.desktop
 usr/share/kde4/services/ServiceMenus/kformula_konqi.desktop
-
-../icons/kformula.xpm usr/share/pixmaps
-

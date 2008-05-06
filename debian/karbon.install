@@ -1,6 +1,8 @@
+../icons/karbon.xpm usr/share/pixmaps
 usr/bin/karbon
 usr/lib/kde4/karbon_flattenpathplugin.so
 usr/lib/kde4/karbon_refinepathplugin.so
+usr/lib/kde4/karbon_roundcornersplugin.so
 usr/lib/kde4/karbontools.so
 usr/lib/kde4/karbon_whirlpinchplugin.so
 usr/lib/kde4/libkarbon1ximport.so
@@ -77,6 +79,7 @@ usr/share/kde4/apps/karbon/karbon.rc
 usr/share/kde4/apps/karbon/karbon_readonly.rc
 usr/share/kde4/apps/karbon/kpartplugins/FlattenPathPlugin.rc
 usr/share/kde4/apps/karbon/kpartplugins/RefinePathPlugin.rc
+usr/share/kde4/apps/karbon/kpartplugins/RoundCornersPlugin.rc
 usr/share/kde4/apps/karbon/kpartplugins/WhirlPinchPlugin.rc
 usr/share/kde4/apps/karbon/templates/Basic/.directory
 usr/share/kde4/apps/karbon/templates/Basic/empty.desktop
@@ -94,6 +97,3 @@ usr/share/kde4/services/karbon_wmf_import.desktop
 usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
 usr/share/kde4/services/simpletextshape.desktop
 usr/share/kde4/servicetypes/karbon_module.desktop
-
-../icons/karbon.xpm usr/share/pixmaps
-
