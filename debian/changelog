@@ -1,3 +1,9 @@
+koffice (1:1.9.96.0~that.is.really.1.9.95.8-1) experimental; urgency=low
+
+  * New upstrem release 1.9.95.8.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 28 May 2008 16:16:13 +0200
+
 koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
 
   * New upstrem release 1.9.95.4.
