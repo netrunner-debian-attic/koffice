@@ -4,14 +4,14 @@ Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Raúl Sánchez Siles <rasasi78@gmail.com>
 Build-Depends: cdbs, debhelper (>= 5), quilt, cmake (>= 2.4.5), 
- kdepimlibs5-dev (>= 4:4.0.72), libphonon-dev (>= 4:4.0.72),
+ kdepimlibs5-dev (>= 4:4.0.80), libphonon-dev (>= 4:4.0.80),
  libboost-dev, libopenexr-dev,
  libeigen-dev, libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
  freeglut3-dev, libglpk-dev, libexiv2-dev, 
  libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
  libwv2-dev, libmysqlclient15-dev, libpqxx-dev, libpoppler-qt4-dev, 
  libgsl0-dev, freetds-dev, libwpd8-dev, libwpg-dev,
- libxslt1-dev
+ libxslt1-dev, libqt4-opengl-dev, python-dev
 Standards-Version: 3.7.3
 Homepage: http://www.koffice.org/
 

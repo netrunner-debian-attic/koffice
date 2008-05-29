@@ -1,6 +1,10 @@
 koffice (1:1.9.96.0~that.is.really.1.9.95.8-1) experimental; urgency=low
 
   * New upstrem release 1.9.95.8.
+  * Add new build depends on libqt4-opengl-dev and python-dev.
+  * Update 97_fix_target_link_libraries.diff and remove some parts merged by 
+    upstream.
+  * Bump build depends to beta 1: >= 4.0.80.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 28 May 2008 16:16:13 +0200
 
