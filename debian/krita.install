@@ -14,7 +14,6 @@ usr/lib/kde4/krita_colorspaces_extensions.so
 usr/lib/kde4/kritacomplexbrush.so
 usr/lib/kde4/kritaconvolutionfilters.so
 usr/lib/kde4/kritacpaintbrush.so
-usr/lib/kde4/kritacubismfilter.so
 usr/lib/kde4/kritadefaultpaintops.so
 usr/lib/kde4/kritadefaulttools.so
 usr/lib/kde4/kritadropshadow.so
@@ -41,7 +40,6 @@ usr/lib/kde4/kritapainterlymixer.so
 usr/lib/kde4/kritapixelizefilter.so
 usr/lib/kde4/kritaraindropsfilter.so
 usr/lib/kde4/kritarandompickfilter.so
-usr/lib/kde4/kritargbfloathdrplugin.so
 usr/lib/kde4/kritarotateimage.so
 usr/lib/kde4/kritaroundcornersfilter.so
 usr/lib/kde4/kritascripting.so
@@ -57,7 +55,6 @@ usr/lib/kde4/kritaspecificcolorselector.so
 usr/lib/kde4/kritatogether.so
 usr/lib/kde4/kritatonemapping.so
 usr/lib/kde4/kritatoolcrop.so
-usr/lib/kde4/kritatoolcurves.so
 usr/lib/kde4/kritatoolgrid.so
 usr/lib/kde4/kritatoolperspectivegrid.so
 usr/lib/kde4/kritatoolpolygon.so
@@ -69,14 +66,11 @@ usr/lib/kde4/kritatrianglecolorselector.so
 usr/lib/kde4/kritaunsharpfilter.so
 usr/lib/kde4/kritawavefilter.so
 usr/lib/kde4/krita_xyz_u16_plugin.so
-usr/lib/kde4/kritaycbcrplugin.so
 usr/lib/kde4/libkritabmpexport.so
 usr/lib/kde4/libkritagmagickexport.so
 usr/lib/kde4/libkritagmagickimport.so
 usr/lib/kde4/libkritajpegexport.so
 usr/lib/kde4/libkritajpegimport.so
-usr/lib/kde4/libkrita_openexr_export.so
-usr/lib/kde4/libkrita_openexr_import.so
 usr/lib/kde4/libkritaoraexport.so
 usr/lib/kde4/libkritaoraimport.so
 usr/lib/kde4/libkritapart.so
@@ -96,8 +90,6 @@ usr/lib/libkritagrayscale.so.5
 usr/lib/libkritagrayscale.so.5.0.0
 usr/lib/libkritaimage.so.5
 usr/lib/libkritaimage.so.5.0.0
-usr/lib/libkritargbf16hdr.so.5
-usr/lib/libkritargbf16hdr.so.5.0.0
 usr/lib/libkritaui.so.5
 usr/lib/libkritaui.so.5.0.0
 usr/lib/libkrita_xyz_u16.so.5

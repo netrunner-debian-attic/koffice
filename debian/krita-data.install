@@ -3,7 +3,6 @@ usr/share/applications/kde4/krita_bmp.desktop
 usr/share/applications/kde4/krita.desktop
 usr/share/applications/kde4/krita_jpeg.desktop
 usr/share/applications/kde4/krita_magick.desktop
-usr/share/applications/kde4/krita_openexr.desktop
 usr/share/applications/kde4/krita_ora.desktop
 usr/share/applications/kde4/krita_pdf.desktop
 usr/share/applications/kde4/krita_png.desktop
@@ -181,7 +180,14 @@ usr/share/kde4/apps/krita/icons/crystalsvg/scalable/actions/template_rgb_empty.s
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_cmyk_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_gray_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_rgb_empty.png
-usr/share/kde4/apps/krita/illuminants/*.ill
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_111_10001.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_111_10004.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_111_10005.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_111_10008.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_121_10003.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_222_10002.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_222_10006.xll
+usr/share/kde4/apps/krita/illuminants/ASP_per-wavelength_343_10007.xll
 usr/share/kde4/apps/krita/images/brush1.png
 usr/share/kde4/apps/krita/images/brush2.png
 usr/share/kde4/apps/krita/images/brush3.png
@@ -348,7 +354,6 @@ usr/share/kde4/services/krita_colorspaces_extensions_plugin.desktop
 usr/share/kde4/services/kritacomplexbrush.desktop
 usr/share/kde4/services/kritaconvolutionfilters.desktop
 usr/share/kde4/services/kritacpaintbrush.desktop
-usr/share/kde4/services/kritacubismfilter.desktop
 usr/share/kde4/services/kritadefaultpaintops.desktop
 usr/share/kde4/services/kritadefaulttools.desktop
 usr/share/kde4/services/kritadropshadow.desktop
@@ -375,8 +380,6 @@ usr/share/kde4/services/kritametadataeditor.desktop
 usr/share/kde4/services/kritamodifyselection.desktop
 usr/share/kde4/services/kritanoisefilter.desktop
 usr/share/kde4/services/kritaoilpaintfilter.desktop
-usr/share/kde4/services/krita_openexr_export.desktop
-usr/share/kde4/services/krita_openexr_import.desktop
 usr/share/kde4/services/krita_ora_export.desktop
 usr/share/kde4/services/krita_ora_import.desktop
 usr/share/kde4/services/kritapainterlymixer.desktop
@@ -387,7 +390,6 @@ usr/share/kde4/services/krita_png_export.desktop
 usr/share/kde4/services/krita_png_import.desktop
 usr/share/kde4/services/kritaraindropsfilter.desktop
 usr/share/kde4/services/kritarandompickfilter.desktop
-usr/share/kde4/services/kritargbfloathdrplugin.desktop
 usr/share/kde4/services/kritarotateimage.desktop
 usr/share/kde4/services/kritaroundcornersfilter.desktop
 usr/share/kde4/services/kritascripting.desktop
@@ -405,7 +407,6 @@ usr/share/kde4/services/krita_tiff_import.desktop
 usr/share/kde4/services/kritatogether.desktop
 usr/share/kde4/services/kritatonemapping.desktop
 usr/share/kde4/services/kritatoolcrop.desktop
-usr/share/kde4/services/kritatoolcurves.desktop
 usr/share/kde4/services/kritatoolpolygon.desktop
 usr/share/kde4/services/kritatoolpolyline.desktop
 usr/share/kde4/services/kritatoolselectsimilar.desktop
@@ -415,7 +416,6 @@ usr/share/kde4/services/kritatrianglecolorselector.desktop
 usr/share/kde4/services/kritaunsharpfilter.desktop
 usr/share/kde4/services/kritawavefilter.desktop
 usr/share/kde4/services/krita_xyz_u16_plugin.desktop
-usr/share/kde4/services/kritaycbcrplugin.desktop
 usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
 usr/share/kde4/servicetypes/krita_filter.desktop
 usr/share/kde4/servicetypes/krita_generator.desktop

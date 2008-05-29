@@ -13,6 +13,8 @@ usr/lib/libkplatoprivate.so.5
 usr/lib/libkplatoprivate.so.5.0.0
 usr/lib/libkplatoui.so.5
 usr/lib/libkplatoui.so.5.0.0
+usr/lib/libkplatoworkapp.so.5
+usr/lib/libkplatoworkapp.so.5.0.0
 usr/lib/libkplatoworkfactory.so.5
 usr/lib/libkplatoworkfactory.so.5.0.0
 usr/share/applications/kde4/kplato.desktop

@@ -90,6 +90,7 @@ usr/include/kofficeversion.h
 usr/include/KoFilterChain.h
 usr/include/KoFilter.h
 usr/include/KoFilterManager.h
+usr/include/KoFlake.h
 usr/include/KoFrame.h
 usr/include/KoGeneralPropertyUi.h
 usr/include/KoGenericRegistry.h
@@ -105,6 +106,7 @@ usr/include/KoHistogramProducer.h
 usr/include/KoID.h
 usr/include/KoImageResource.h
 usr/include/KoInputDevice.h
+usr/include/KoInsets.h
 usr/include/KoIntegerMaths.h
 usr/include/KoItemToolTip.h
 usr/include/KoJobsListPolicy.h
@@ -125,6 +127,7 @@ usr/include/KoPageFormat.h
 usr/include/KoPageLayout.h
 usr/include/KoPartSelectAction.h
 usr/include/KoPartSelectDia.h
+usr/include/KoPathSegment.h
 usr/include/KoPattern.h
 usr/include/KoPictureCollection.h
 usr/include/KoPicture.h
@@ -171,7 +174,16 @@ usr/include/KoResourceServerProvider.h
 usr/include/KoRTree.h
 usr/include/KoRuler.h
 usr/include/KoSegmentGradient.h
+usr/include/KoSelection.h
+usr/include/KoShapeControllerBase.h
+usr/include/KoShapeFactory.h
+usr/include/KoShape.h
+usr/include/KoShapeLoadingContext.h
+usr/include/KoShapeManager.h
 usr/include/KoShapePainter.h
+usr/include/KoShapeRegistry.h
+usr/include/KoShapeSavingContext.h
+usr/include/KoSnapData.h
 usr/include/KoStopGradient.h
 usr/include/KoStoreDevice.h
 usr/include/kostore_export.h
@@ -248,7 +260,6 @@ usr/lib/libkritabasicdynamicshapeprogram.so
 usr/lib/libkritadynamicbrush.so
 usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
-usr/lib/libkritargbf16hdr.so
 usr/lib/libkritaui.so
 usr/lib/libkrita_xyz_u16.so
 usr/lib/libkrossmodulekrita.so
@@ -258,3 +269,4 @@ usr/lib/libkwmf.so
 usr/lib/libkwordexportfilters.so
 usr/lib/libkwordprivate.so
 usr/lib/libpigmentcms.so
+usr/share/kde4/apps/cmake/modules/FindKOfficeLibs.cmake
