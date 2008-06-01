@@ -5,9 +5,9 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.8-1) experimental; urgency=low
   * Update 97_fix_target_link_libraries.diff and remove some parts merged by 
     upstream.
   * Bump build depends to beta 1: >= 4.0.80.
-  * Update installed files.
+  * Update installed files and lintian overrides.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 29 May 2008 21:08:09 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 01 Jun 2008 04:51:06 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
 

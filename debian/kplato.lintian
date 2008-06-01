@@ -1,3 +1,4 @@
+kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoclear.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoexport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoimport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/resourcesimport.py #!kross
@@ -5,4 +6,4 @@ kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/samples/sample_
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/samples/sample_project.py #!kross
 kplato: shlib-missing-in-control-file libkdeinit4_kplato.so for usr/lib/libkdeinit4_kplato.so
 kplato: shlib-missing-in-control-file libkdeinit4_kplatowork.so for usr/lib/libkdeinit4_kplatowork.so
-kplato: package-name-doesnt-match-sonames libkdeinit4-kplato libkdeinit4-kplatowork libkplatokernel5 libkplatomodels5 libkplatoprivate5 libkplatoui5 libkplatoworkfactory5
+kplato: package-name-doesnt-match-sonames libkdeinit4-kplato libkdeinit4-kplatowork libkplatokernel5 libkplatomodels5 libkplatoprivate5 libkplatoui5 libkplatoworkapp5 libkplatoworkfactory5

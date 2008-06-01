@@ -1,2 +1,2 @@
 koffice-libs: shlib-missing-in-control-file libkplatoworkapp.so for usr/lib/libkplatoworkapp.so
-koffice-libs: package-name-doesnt-match-sonames libflake5 libkisexiv2-5 libkochart5 libkoffice-graya_u16-5 libkofficegrayau8colorspace5 libkoguiutils5 libkokross5 libkomain5 libkoodf5 libkopageapp5 libkoproperty5 libkoresources5 libkotext5 libkowmf5 libkplatoworkapp libkstore5 libkwmf5 libkwordexportfilters5 libpigmentcms1
+koffice-libs: package-name-doesnt-match-sonames libflake5 libkisexiv2-5 libkochart5 libkoffice-graya_u16-5 libkofficegrayau8colorspace5 libkoguiutils5 libkokross5 libkomain5 libkoodf5 libkopageapp5 libkoproperty5 libkoresources5 libkotext5 libkowmf5 libkstore5 libkwmf5 libkwordexportfilters5 libpigmentcms1
