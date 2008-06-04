@@ -1,4 +1,4 @@
-etc/kde4/kexirc
+usr/share/kde4/config/kexirc
 usr/bin/kexi
 usr/bin/ksqlite
 usr/bin/ksqlite2to3
