@@ -1,6 +1,12 @@
+koffice (1:1.9.96.0~that.is.really.1.9.95.9-1) experimental; urgency=low
+
+  * New upstrem release 1.9.95.8, alpha 9.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed,  9 Jul 2008 18:11:08 +0200
+
 koffice (1:1.9.96.0~that.is.really.1.9.95.8-1) experimental; urgency=low
 
-  * New upstrem release 1.9.95.8.
+  * New upstream release 1.9.95.8.
   * Add new build depends on libqt4-opengl-dev and python-dev.
   * Update 97_fix_target_link_libraries.diff and remove some parts merged by 
     upstream.
@@ -11,7 +17,7 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.8-1) experimental; urgency=low
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.4-1) experimental; urgency=low
 
-  * New upstrem release 1.9.95.4.
+  * New upstream release 1.9.95.4.
   * Remove patch fix_desktop_entry, merged upstream.
   * Add patch 98_link_interfaces_library.diff to fix the CMake's 
     TARGET_LINK_LIBRARIES fields.
