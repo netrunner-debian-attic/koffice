@@ -193,7 +193,6 @@ usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-simp
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-triple.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/send_backward.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/apps/key_bindings.png
-usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/table.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/arrow-right-koffice.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/callout-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/circular-arrow-shape.png
@@ -225,9 +224,6 @@ usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/rectangle-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/smiley-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/spiral-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/star-shape.png
-usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/table.png
-usr/share/kde4/apps/koffice/icons/oxygen/32x32/actions/table.png
-usr/share/kde4/apps/koffice/icons/oxygen/48x48/actions/table.png
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_bold_active.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_bold_inactive.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_italic_active.svgz
@@ -250,7 +246,6 @@ usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_sizeup_inactive.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_underline_active.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/koffice_simple_format_underline_inactive.svgz
-usr/share/kde4/apps/koffice/icons/oxygen/scalable/actions/table.svgz
 usr/share/kde4/apps/koffice/icons/rotate.png
 usr/share/kde4/apps/koffice/icons/shear.png
 usr/share/kde4/apps/koffice/icons/zoom_in_cursor.png
