@@ -3,6 +3,7 @@ usr/lib/kde4/kritabigbrother.so
 usr/lib/kde4/kritablurfilter.so
 usr/lib/kde4/kritabracketing2hdr.so
 usr/lib/kde4/kritabumpmap.so
+usr/lib/kde4/kritachalkpaintop.so
 usr/lib/kde4/kritacimg.so
 usr/lib/kde4/kritacmykplugin.so
 usr/lib/kde4/krita_cmyk_u16_plugin.so
@@ -52,6 +53,7 @@ usr/lib/kde4/kritasmalltilesfilter.so
 usr/lib/kde4/kritasmearybrush.so
 usr/lib/kde4/kritasobelfilter.so
 usr/lib/kde4/kritaspecificcolorselector.so
+usr/lib/kde4/kritasumipaintop.so
 usr/lib/kde4/kritatogether.so
 usr/lib/kde4/kritatonemapping.so
 usr/lib/kde4/kritatoolcrop.so

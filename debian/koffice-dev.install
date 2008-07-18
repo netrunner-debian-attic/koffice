@@ -75,6 +75,7 @@ usr/include/KoColorTransformation.h
 usr/include/KoCompositeOp.h
 usr/include/KoContainerHandler.h
 usr/include/KoContextHelp.h
+usr/include/KoDataCenter.h
 usr/include/KoDockFactory.h
 usr/include/KoDocumentChild.h
 usr/include/KoDocument.h
@@ -92,6 +93,7 @@ usr/include/KoFilter.h
 usr/include/KoFilterManager.h
 usr/include/KoFlake.h
 usr/include/KoFrame.h
+usr/include/KoFrameShape.h
 usr/include/KoGeneralPropertyUi.h
 usr/include/KoGenericRegistry.h
 usr/include/KoGenericRegistryModel.h
@@ -104,6 +106,8 @@ usr/include/KoGuidesData.h
 usr/include/KoGuides.h
 usr/include/KoHistogramProducer.h
 usr/include/KoID.h
+usr/include/KoImageCollection.h
+usr/include/KoImageData.h
 usr/include/KoImageResource.h
 usr/include/KoInputDevice.h
 usr/include/KoInsets.h
@@ -183,6 +187,7 @@ usr/include/KoShapeManager.h
 usr/include/KoShapePainter.h
 usr/include/KoShapeRegistry.h
 usr/include/KoShapeSavingContext.h
+usr/include/KoShapeUserData.h
 usr/include/KoSnapData.h
 usr/include/KoStopGradient.h
 usr/include/KoStoreDevice.h

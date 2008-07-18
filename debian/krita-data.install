@@ -196,10 +196,12 @@ usr/share/kde4/apps/krita/images/brush5.png
 usr/share/kde4/apps/krita/images/brush6.png
 usr/share/kde4/apps/krita/images/filterop.png
 usr/share/kde4/apps/krita/images/krita-airbrush.png
+usr/share/kde4/apps/krita/images/krita-chalk.png
 usr/share/kde4/apps/krita/images/krita-duplicate.png
 usr/share/kde4/apps/krita/images/krita-eraser.png
 usr/share/kde4/apps/krita/images/krita-paintbrush.png
 usr/share/kde4/apps/krita/images/krita-pencil.png
+usr/share/kde4/apps/krita/images/krita-sumi.png
 usr/share/kde4/apps/krita/images/previewfilter.png
 usr/share/kde4/apps/krita/kpartplugins/scan-krita.rc
 usr/share/kde4/apps/krita/krita.rc
@@ -343,6 +345,7 @@ usr/share/kde4/services/kritablurfilter.desktop
 usr/share/kde4/services/krita_bmp_export.desktop
 usr/share/kde4/services/kritabracketing2hdr.desktop
 usr/share/kde4/services/kritabumpmapfilter.desktop
+usr/share/kde4/services/kritachalkpaintop.desktop
 usr/share/kde4/services/kritacimg.desktop
 usr/share/kde4/services/kritacmykplugin.desktop
 usr/share/kde4/services/krita_cmyk_u16_plugin.desktop
@@ -402,6 +405,7 @@ usr/share/kde4/services/kritasmalltilesfilter.desktop
 usr/share/kde4/services/kritasmearybrush.desktop
 usr/share/kde4/services/kritasobelfilter.desktop
 usr/share/kde4/services/krita_specificcolorselector.desktop
+usr/share/kde4/services/kritasumipaintop.desktop
 usr/share/kde4/services/krita_tiff_export.desktop
 usr/share/kde4/services/krita_tiff_import.desktop
 usr/share/kde4/services/kritatogether.desktop

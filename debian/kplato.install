@@ -94,6 +94,7 @@ usr/share/kde4/apps/kplatowork/kplatowork_readonly.rc
 usr/share/kde4/apps/kplatowork/templates/Simple/.directory
 usr/share/kde4/apps/kplatowork/templates/Simple/Empty.desktop
 usr/share/kde4/apps/kplatowork/templates/Simple/.source/Empty.kplatoworkt
+usr/share/kde4/config/kplatorc
 usr/share/kde4/services/kplatopart.desktop
 usr/share/kde4/services/kplatoworkpart.desktop
 usr/share/kde4/services/krossmodulekplato.desktop

@@ -104,6 +104,7 @@ usr/share/kde4/services/kword_hancomword_import.desktop
 usr/share/kde4/services/kword_html_export.desktop
 usr/share/kde4/services/kword_html_import.desktop
 usr/share/kde4/services/kword_msword_import.desktop
+usr/share/kde4/services/kword_msword-odf_import.desktop
 usr/share/kde4/services/kword_mswrite_export.desktop
 usr/share/kde4/services/kword_mswrite_import.desktop
 usr/share/kde4/services/kword_oowriter_export.desktop
