@@ -11,7 +11,8 @@ Build-Depends: cdbs, debhelper (>= 5), quilt, cmake (>= 2.4.5),
  libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
  libwv2-dev, libmysqlclient15-dev, libpoppler-qt4-dev, 
  libgsl0-dev, freetds-dev, libwpd8-dev, libwpg-dev,
- libxslt1-dev, libqt4-opengl-dev, python-dev
+ libxslt1-dev, libqt4-opengl-dev, python-dev,
+ libpqxx-dev
 Standards-Version: 3.7.3
 Homepage: http://www.koffice.org/
 

@@ -2,7 +2,7 @@ usr/bin/kexi
 usr/bin/ksqlite
 usr/bin/ksqlite2to3
 usr/lib/kde4/kexidb_mysqldriver.so
-#usr/lib/kde4/kexidb_pqxxsqldriver.so
+usr/lib/kde4/kexidb_pqxxsqldriver.so
 usr/lib/kde4/kexidb_sqlite3driver.so
 usr/lib/kde4/kexihandler_csv_importexport.so
 usr/lib/kde4/kexihandler_form.so
@@ -12,7 +12,7 @@ usr/lib/kde4/kexihandler_relation.so
 usr/lib/kde4/kexihandler_script.so
 usr/lib/kde4/kexihandler_table.so
 usr/lib/kde4/keximigrate_mysql.so
-#usr/lib/kde4/keximigrate_pqxx.so
+usr/lib/kde4/keximigrate_pqxx.so
 usr/lib/kde4/keximigrate_sybase.so
 usr/lib/kde4/kformdesigner_containers.so
 usr/lib/kde4/kformdesigner_kexidbwidgets.so
@@ -264,7 +264,7 @@ usr/share/kde4/apps/kexi/pics/cp-wiz.png
 usr/share/kde4/apps/kexi/pics/imagebox.png
 usr/share/kde4/config/kexirc
 usr/share/kde4/services/kexidb_mysqldriver.desktop
-#usr/share/kde4/services/kexidb_pqxxsqldriver.desktop
+usr/share/kde4/services/kexidb_pqxxsqldriver.desktop
 usr/share/kde4/services/kexidb_sqlite3driver.desktop
 usr/share/kde4/services/kexi/kexicsv_importexporthandler.desktop
 usr/share/kde4/services/kexi/kexiformhandler.desktop
@@ -274,7 +274,7 @@ usr/share/kde4/services/kexi/kexirelationhandler.desktop
 usr/share/kde4/services/kexi/kexiscripthandler.desktop
 usr/share/kde4/services/kexi/kexitablehandler.desktop
 usr/share/kde4/services/keximigrate_mysql.desktop
-#usr/share/kde4/services/keximigrate_pqxx.desktop
+usr/share/kde4/services/keximigrate_pqxx.desktop
 usr/share/kde4/services/keximigrate_sybase.desktop
 usr/share/kde4/services/kexi/pgzkexireporthandler.desktop
 usr/share/kde4/services/kformdesigner/kformdesigner_containers.desktop
