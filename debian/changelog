@@ -1,6 +1,8 @@
 koffice (1:1.9.96.0~that.is.really.1.9.95.9-2) experimental; urgency=low
 
   * Add back build depend on libpqxx-dev and postgresql. 
+  * Add Replaces for kpresenter and kivio to koffice 1 kpresenter-data and
+    kivio-data packages. (Closes: #491983, #476385)
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 01 Aug 2008 17:04:24 +0200
 
