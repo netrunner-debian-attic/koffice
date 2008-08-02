@@ -5,6 +5,7 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.9-2) experimental; urgency=low
     kivio-data packages. (Closes: #491983, #476385)
   * Update Build Depends versions.
   * Update lintian overrides.
+  * Replace Suggests: tetex-extra with texlive.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 01 Aug 2008 17:04:24 +0200
 

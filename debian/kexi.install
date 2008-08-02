@@ -13,7 +13,7 @@ usr/lib/kde4/kexihandler_script.so
 usr/lib/kde4/kexihandler_table.so
 usr/lib/kde4/keximigrate_mysql.so
 usr/lib/kde4/keximigrate_pqxx.so
-usr/lib/kde4/keximigrate_sybase.so
+#usr/lib/kde4/keximigrate_sybase.so
 usr/lib/kde4/kformdesigner_containers.so
 usr/lib/kde4/kformdesigner_kexidbwidgets.so
 usr/lib/kde4/kformdesigner_stdwidgets.so
@@ -275,7 +275,7 @@ usr/share/kde4/services/kexi/kexiscripthandler.desktop
 usr/share/kde4/services/kexi/kexitablehandler.desktop
 usr/share/kde4/services/keximigrate_mysql.desktop
 usr/share/kde4/services/keximigrate_pqxx.desktop
-usr/share/kde4/services/keximigrate_sybase.desktop
+#usr/share/kde4/services/keximigrate_sybase.desktop
 usr/share/kde4/services/kexi/pgzkexireporthandler.desktop
 usr/share/kde4/services/kformdesigner/kformdesigner_containers.desktop
 usr/share/kde4/services/kformdesigner/kformdesigner_kexidbfactory.desktop
