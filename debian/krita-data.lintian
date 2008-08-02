@@ -7,3 +7,4 @@ krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_pd
 krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_png.desktop krita
 krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_tiff.desktop krita
 krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_magick.desktop krita
+

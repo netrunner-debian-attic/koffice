@@ -7,3 +7,12 @@ kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/samples/sample_
 kplato: shlib-missing-in-control-file libkdeinit4_kplato.so for usr/lib/libkdeinit4_kplato.so
 kplato: shlib-missing-in-control-file libkdeinit4_kplatowork.so for usr/lib/libkdeinit4_kplatowork.so
 kplato: package-name-doesnt-match-sonames libkdeinit4-kplato libkdeinit4-kplatowork libkplatokernel5 libkplatomodels5 libkplatoprivate5 libkplatoui5 libkplatoworkapp5 libkplatoworkfactory5
+kplato: no-symbols-control-file usr/lib/libkdeinit4_kplato.so
+kplato: no-symbols-control-file usr/lib/libkplatokernel.so.5.0.0
+kplato: no-symbols-control-file usr/lib/libkplatoprivate.so.5.0.0
+kplato: no-symbols-control-file usr/lib/libkdeinit4_kplatowork.so
+kplato: no-symbols-control-file usr/lib/libkplatomodels.so.5.0.0
+kplato: no-symbols-control-file usr/lib/libkplatoworkapp.so.5.0.0
+kplato: no-symbols-control-file usr/lib/libkplatoworkfactory.so.5.0.0
+kplato: no-symbols-control-file usr/lib/libkplatoui.so.5.0.0
+

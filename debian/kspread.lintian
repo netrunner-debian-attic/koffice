@@ -1,37 +1,3 @@
 kspread: shlib-missing-in-control-file libkdeinit4_kspread.so for usr/lib/libkdeinit4_kspread.so
 kspread: package-name-doesnt-match-sonames libkdeinit4-kspread libkspreadcommon5
 
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/docker/consoledocker.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/docker/consoledocker.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/csvexport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/csvexport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/csvimport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/csvimport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/htmlexport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/htmlexport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/kexidbexport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/kexidbexport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/kexidbimport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/kexidbimport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/logger.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/logger.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/myorca.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/myorca.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/odfpyexport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/odfpyexport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/vcardimport.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/vcardimport.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/extensions/xmlviewer.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/xmlviewer.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/functions.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/functions.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/pyregexp.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/pyregexp.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/pytime.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/pytime.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/yfinance.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/yfinance.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/yweather.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/yweather.py #!kross
-kspread: script-not-executable ./usr/share/kde4/apps/kspread/scripts/functions/rpyfunctions.py
-kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/functions/rpyfunctions.py #!kross

@@ -1,2 +1,20 @@
-koffice-libs: shlib-missing-in-control-file libkplatoworkapp.so for usr/lib/libkplatoworkapp.so
-koffice-libs: package-name-doesnt-match-sonames libflake5 libkisexiv2-5 libkochart5 libkoffice-graya_u16-5 libkofficegrayau8colorspace5 libkoguiutils5 libkokross5 libkomain5 libkoodf5 libkopageapp5 libkoproperty5 libkoresources5 libkotext5 libkowmf5 libkstore5 libkwmf5 libkwordexportfilters5 libpigmentcms1
+koffice-libs: package-name-doesnt-match-sonames libflake5 libkisexiv2-5 libkochart5 libkoffice-graya-u16-5 libkofficegrayau8colorspace5 libkoguiutils5 libkokross5 libkomain5 libkoodf5 libkopageapp5 libkoproperty5 libkoresources5 libkotext5 libkowmf5 libkstore5 libkwmf5 libkwordexportfilters5 libpigmentcms1
+koffice-libs: no-symbols-control-file usr/lib/libkwmf.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoproperty.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoodf.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoresources.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkochart.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libflake.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkstore.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoffice_graya_u16.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libpigmentcms.so.1.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkotext.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkofficegrayau8colorspace.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkisexiv2.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkomain.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkokross.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkwordexportfilters.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkowmf.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoguiutils.so.5.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkopageapp.so.5.0.0
+
