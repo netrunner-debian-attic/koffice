@@ -97,8 +97,6 @@ usr/share/kde4/services/kword_abiword_import.desktop
 usr/share/kde4/services/kword_amipro_export.desktop
 usr/share/kde4/services/kword_amipro_import.desktop
 usr/share/kde4/services/kword_applixword_import.desktop
-usr/share/kde4/services/kword_ascii_export.desktop
-usr/share/kde4/services/kword_ascii_import.desktop
 usr/share/kde4/services/kword_docbook_export.desktop
 usr/share/kde4/services/kword_hancomword_import.desktop
 usr/share/kde4/services/kword_html_export.desktop

@@ -1,3 +1,4 @@
+
 ../icons/krita.xpm usr/share/pixmaps
 usr/share/applications/kde4/krita_bmp.desktop
 usr/share/applications/kde4/krita.desktop
@@ -279,6 +280,7 @@ usr/share/kde4/apps/kritaplugins/histogram.rc
 usr/share/kde4/apps/kritaplugins/imageseparate.rc
 usr/share/kde4/apps/kritaplugins/imagesize.rc
 usr/share/kde4/apps/kritaplugins/kritaglsl.rc
+usr/share/kde4/apps/kritaplugins/kritahistogramdocker.rc
 usr/share/kde4/apps/kritaplugins/layercompose.rc
 usr/share/kde4/apps/kritaplugins/metadataeditor/dublincore.rc
 usr/share/kde4/apps/kritaplugins/metadataeditor/dublincore.ui
@@ -292,6 +294,7 @@ usr/share/kde4/apps/kritaplugins/shearimage.rc
 usr/share/kde4/apps/kritaplugins/together.rc
 usr/share/kde4/apps/kritaplugins/tonemapping.rc
 usr/share/kde4/apps/kritaplugins/trianglecolorselector.rc
+usr/share/kde4/apps/krita/scripts/decorations/VanishingPoints.rb
 usr/share/kde4/apps/krita/scripts/dockers/flipbookdocker.rb
 usr/share/kde4/apps/krita/scripts/dockers/palettedocker.rb
 usr/share/kde4/apps/krita/scripts/extensions/changecs.rb
@@ -357,6 +360,7 @@ usr/share/kde4/services/krita_colorspaces_extensions_plugin.desktop
 usr/share/kde4/services/kritacomplexbrush.desktop
 usr/share/kde4/services/kritaconvolutionfilters.desktop
 usr/share/kde4/services/kritacpaintbrush.desktop
+usr/share/kde4/services/kritacubismfilter.desktop
 usr/share/kde4/services/kritadefaultpaintops.desktop
 usr/share/kde4/services/kritadefaulttools.desktop
 usr/share/kde4/services/kritadropshadow.desktop
@@ -370,6 +374,7 @@ usr/share/kde4/services/kritaglsl.desktop
 usr/share/kde4/services/kritagrayplugin.desktop
 usr/share/kde4/services/krita_gray_u16_plugin.desktop
 usr/share/kde4/services/kritahistogram.desktop
+usr/share/kde4/services/kritahistogramdocker.desktop
 usr/share/kde4/services/kritaimageenhancement.desktop
 usr/share/kde4/services/kritaimagesize.desktop
 usr/share/kde4/services/krita_jpeg_export.desktop
@@ -402,7 +407,6 @@ usr/share/kde4/services/kritashape.desktop
 usr/share/kde4/services/kritashearimage.desktop
 usr/share/kde4/services/krita_smallcolorselector.desktop
 usr/share/kde4/services/kritasmalltilesfilter.desktop
-usr/share/kde4/services/kritasmearybrush.desktop
 usr/share/kde4/services/kritasobelfilter.desktop
 usr/share/kde4/services/krita_specificcolorselector.desktop
 usr/share/kde4/services/kritasumipaintop.desktop
@@ -411,6 +415,8 @@ usr/share/kde4/services/krita_tiff_import.desktop
 usr/share/kde4/services/kritatogether.desktop
 usr/share/kde4/services/kritatonemapping.desktop
 usr/share/kde4/services/kritatoolcrop.desktop
+usr/share/kde4/services/kritatoolgrid.desktop
+usr/share/kde4/services/kritatoolperspectivegrid.desktop
 usr/share/kde4/services/kritatoolpolygon.desktop
 usr/share/kde4/services/kritatoolpolyline.desktop
 usr/share/kde4/services/kritatoolselectsimilar.desktop

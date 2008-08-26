@@ -4,6 +4,7 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
   * Update build depends:
     - Remove libeigen-dev, it needs now eigen2, not packaged yet.
     - Add libpstoedit-dev.
+  * TODO: krita moved files, now?
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 01 Aug 2008 17:04:24 +0200
 

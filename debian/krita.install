@@ -15,6 +15,7 @@ usr/lib/kde4/krita_colorspaces_extensions.so
 usr/lib/kde4/kritacomplexbrush.so
 usr/lib/kde4/kritaconvolutionfilters.so
 usr/lib/kde4/kritacpaintbrush.so
+usr/lib/kde4/kritacubismfilter.so
 usr/lib/kde4/kritadefaultpaintops.so
 usr/lib/kde4/kritadefaulttools.so
 usr/lib/kde4/kritadropshadow.so
@@ -27,6 +28,7 @@ usr/lib/kde4/kritafilterop.so
 usr/lib/kde4/kritaglsl.so
 usr/lib/kde4/kritagrayplugin.so
 usr/lib/kde4/krita_gray_u16_plugin.so
+usr/lib/kde4/kritahistogramdocker.so
 usr/lib/kde4/kritahistogram.so
 usr/lib/kde4/kritaimageenhancement.so
 usr/lib/kde4/kritaimagesize.so
@@ -50,7 +52,6 @@ usr/lib/kde4/kritashape.so
 usr/lib/kde4/kritashearimage.so
 usr/lib/kde4/kritasmallcolorselector.so
 usr/lib/kde4/kritasmalltilesfilter.so
-usr/lib/kde4/kritasmearybrush.so
 usr/lib/kde4/kritasobelfilter.so
 usr/lib/kde4/kritaspecificcolorselector.so
 usr/lib/kde4/kritasumipaintop.so
@@ -92,11 +93,11 @@ usr/lib/libkritagrayscale.so.5
 usr/lib/libkritagrayscale.so.5.0.0
 usr/lib/libkritaimage.so.5
 usr/lib/libkritaimage.so.5.0.0
+usr/lib/libkritalibpaintop.so.5
+usr/lib/libkritalibpaintop.so.5.0.0
 usr/lib/libkritaui.so.5
 usr/lib/libkritaui.so.5.0.0
 usr/lib/libkrita_xyz_u16.so.5
 usr/lib/libkrita_xyz_u16.so.5.0.0
 usr/lib/libkrossmodulekrita.so.5
 usr/lib/libkrossmodulekrita.so.5.0.0
-usr/share/kde4/services/kritatoolgrid.desktop
-usr/share/kde4/services/kritatoolperspectivegrid.desktop

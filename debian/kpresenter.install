@@ -1,6 +1,7 @@
 ../icons/kpresenter.xpm usr/share/pixmaps
 usr/bin/kpresenter
 usr/lib/kde4/kpresentereventactions.so
+usr/lib/kde4/kpresentertoolanimation.so
 usr/lib/kde4/kpr_pageeffect_barwipe.so
 usr/lib/kde4/kpr_pageeffect_clockwipe.so
 usr/lib/kde4/kpr_pageeffect_edgewipe.so
@@ -62,6 +63,7 @@ usr/share/kde4/services/Filterkpr2odf.desktop
 usr/share/kde4/services/kpresentereventactions.desktop
 usr/share/kde4/services/kpresenterpart.desktop
 usr/share/kde4/services/kpresenter_powerpoint_import.desktop
+usr/share/kde4/services/kpresentertoolanimation.desktop
 usr/share/kde4/services/kpr_pageeffect_barwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_clockwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_edgewipe.desktop

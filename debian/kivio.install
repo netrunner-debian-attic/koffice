@@ -1,3 +1,4 @@
+
 ../icons/kivio.xpm usr/share/pixmaps
 usr/bin/kivio
 usr/lib/kde4/libkiviopart.so
@@ -10,7 +11,6 @@ usr/share/kde4/apps/kivio/icons/crystalsvg/scalable/actions/template_empty.svgz
 usr/share/kde4/apps/kivio/icons/hicolor/48x48/actions/template_basicflow.png
 usr/share/kde4/apps/kivio/icons/hicolor/48x48/actions/template_empty.png
 usr/share/kde4/apps/kivio/kivio.rc
-usr/share/kde4/apps/kivio/templates/Basic/.directory
 usr/share/kde4/apps/kivio/templates/Basic/empty.desktop
 usr/share/kde4/apps/kivio/templates/Basic/.source/empty.otg
 usr/share/kde4/services/kiviopart.desktop

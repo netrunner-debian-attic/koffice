@@ -1,3 +1,4 @@
+
 ../icons/kspread.xpm usr/share/pixmaps
 usr/bin/kspread
 usr/lib/kde4/krossmodulekspread.so
@@ -10,6 +11,7 @@ usr/lib/kde4/kspreadfinancialmodule.so
 usr/lib/kde4/kspreadinformationmodule.so
 usr/lib/kde4/kspreadlogicmodule.so
 usr/lib/kde4/kspreadmathmodule.so
+usr/lib/kde4/kspread_plugin_tool_calendar.so
 usr/lib/kde4/kspreadreferencemodule.so
 usr/lib/kde4/kspreadstatisticalmodule.so
 usr/lib/kde4/kspreadtextmodule.so
@@ -22,7 +24,6 @@ usr/lib/kde4/libexcelimport.so
 usr/lib/kde4/libgnumericexport.so
 usr/lib/kde4/libgnumericimport.so
 usr/lib/kde4/libkspreadhtmlexport.so
-usr/lib/kde4/libkspreadinsertcalendar.so
 usr/lib/kde4/libkspreadlatexexport.so
 usr/lib/kde4/libkspreadpart.so
 usr/lib/kde4/libkspreadsolver.so
@@ -173,7 +174,6 @@ usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_pricequotation.
 usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_studentidcard.png
 usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_vacationchecklist.png
 usr/share/kde4/apps/kspread/icons/hicolor/48x48/actions/template_worksheet.png
-usr/share/kde4/apps/kspread/kpartplugins/insertcalendar.rc
 usr/share/kde4/apps/kspread/kpartplugins/scripting.rc
 usr/share/kde4/apps/kspread/kpartplugins/solver.rc
 usr/share/kde4/apps/kspread/kspread.notifyrc
@@ -254,10 +254,12 @@ usr/share/kde4/services/kspreadmathmodule.desktop
 usr/share/kde4/services/kspread_opencalc_export.desktop
 usr/share/kde4/services/kspread_opencalc_import.desktop
 usr/share/kde4/services/kspreadpart.desktop
+usr/share/kde4/services/kspread_plugin_tool_calendar.desktop
 usr/share/kde4/services/kspread_qpro_import.desktop
 usr/share/kde4/services/kspreadreferencemodule.desktop
 usr/share/kde4/services/kspreadstatisticalmodule.desktop
 usr/share/kde4/services/kspreadtextmodule.desktop
 usr/share/kde4/services/kspreadtrigonometrymodule.desktop
 usr/share/kde4/services/ServiceMenus/kspread_konqi.desktop
+usr/share/kde4/services/spreadsheetshape.desktop
 usr/share/kde4/servicetypes/kspread_plugin.desktop

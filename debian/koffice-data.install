@@ -137,6 +137,8 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/inline_image.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/inline_table.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/insert_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/insert_table_row.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/kotext-character.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/kotext-paragraph.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/lower.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/music-cross.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/music-dottednote.png
@@ -209,6 +211,12 @@ usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-simp
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-triple.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/send_backward.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/apps/key_bindings.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/animation-kpresenter.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-extension.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-guideline.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-intersection.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-node.png
+usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-orto.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/arrow-right-koffice.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/callout-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/circular-arrow-shape.png
@@ -225,8 +233,10 @@ usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/hexagon-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/path-break-point.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/path-break-segment.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-corner.png
+usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-curve.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-insert.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-join.png
+usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-line.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-merge.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-remove.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/pathpoint-smooth.png
@@ -286,7 +296,6 @@ usr/share/kde4/services/musicshape.desktop
 usr/share/kde4/services/pathshapes.desktop
 usr/share/kde4/services/pictureshape.desktop
 usr/share/kde4/services/spellcheck.desktop
-usr/share/kde4/services/spreadsheetshape.desktop
 usr/share/kde4/services/textshape.desktop
 usr/share/kde4/services/textvariables.desktop
 usr/share/kde4/services/thesaurustool.desktop
