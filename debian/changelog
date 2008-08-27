@@ -6,9 +6,11 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
     - Add libpstoedit-dev.
   * Ship embedded copy of eigen2 via patch embed_eigen_in_koffice2_alpha10.
     See the patch for licensing information.
+  * Update to Standards-Version 3.8.0, no changes required.
+  * Update lintian overrides.
   * TODO: krita moved files, now?
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 01 Aug 2008 17:04:24 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 27 Aug 2008 14:02:13 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.9-2) experimental; urgency=low
 
