@@ -165,6 +165,7 @@ Description: a pixel-based image manipulation program for the KDE Office Suite
 Package: krita-data
 Architecture: all
 Section: kde
+Conflicts: krita (<1:1.9.96.0~that.is.really.1.9.95.10-1)
 Description: data files for Krita painting program
  This package contains architecture-independent data files for Krita,
  the painting program shipped with the KDE Office Suite.

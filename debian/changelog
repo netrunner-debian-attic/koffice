@@ -8,9 +8,9 @@ koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
     See the patch for licensing information.
   * Update to Standards-Version 3.8.0, no changes required.
   * Update lintian overrides.
-  * TODO: krita moved files, now?
+  * Some data files got moved from krita to krita-data, add a conflict.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 27 Aug 2008 14:02:13 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 27 Aug 2008 14:21:55 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.9-2) experimental; urgency=low
 
