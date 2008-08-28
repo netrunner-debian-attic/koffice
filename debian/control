@@ -3,7 +3,7 @@ Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Raúl Sánchez Siles <rasasi78@gmail.com>
-Build-Depends: cdbs, debhelper (>= 5), quilt, cmake (>= 2.6), 
+Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6), 
  kdepimlibs5-dev (>= 4:4.1.0), libphonon-dev (>= 4:4.1.0),
  libboost-dev, libopenexr-dev,
  libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
@@ -12,7 +12,7 @@ Build-Depends: cdbs, debhelper (>= 5), quilt, cmake (>= 2.6),
  libwv2-dev, libmysqlclient15-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev, python-dev,
- libpqxx-dev, pstoedit
+ libpqxx-dev, pstoedit, 
 Standards-Version: 3.8.0
 Homepage: http://www.koffice.org/
 
@@ -20,7 +20,7 @@ Package: koffice
 Architecture: all
 Section: kde
 Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
-Suggests: koffice-i18n, koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
+Suggests: koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
  Environment.  It offers a word processor, spreadsheet, presentation
@@ -255,3 +255,12 @@ Description: common libraries for KOffice (development files)
  .
  This package is part of the KDE Office Suite.
 
+Package: koffice-dbg
+Section: libdevel
+Architecture: any
+Priority: extra
+Depends: koffice-libs (= ${binary:Version}), kdebase-runtime-dbg
+Description: debugging symbols for KOffice
+ This package contains the debugging symbols associated with KOffice.
+ They will automatically be used by gdb for debugging koffice-related
+ issues.
