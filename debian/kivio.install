@@ -1,4 +1,3 @@
-
 ../icons/kivio.xpm usr/share/pixmaps
 usr/bin/kivio
 usr/lib/kde4/libkiviopart.so
@@ -6,12 +5,6 @@ usr/lib/libkdeinit4_kivio.so
 usr/lib/libkivioprivate.so.5
 usr/lib/libkivioprivate.so.5.0.0
 usr/share/applications/kde4/kivio.desktop
-usr/share/kde4/apps/kivio/icons/crystalsvg/scalable/actions/template_basicworkflow.svgz
-usr/share/kde4/apps/kivio/icons/crystalsvg/scalable/actions/template_empty.svgz
-usr/share/kde4/apps/kivio/icons/hicolor/48x48/actions/template_basicflow.png
-usr/share/kde4/apps/kivio/icons/hicolor/48x48/actions/template_empty.png
-usr/share/kde4/apps/kivio/kivio.rc
-usr/share/kde4/apps/kivio/templates/Basic/empty.desktop
-usr/share/kde4/apps/kivio/templates/Basic/.source/empty.otg
-usr/share/kde4/services/kiviopart.desktop
+usr/share/kde4/apps/kivio/
 usr/share/kde4/services/ServiceMenus/kivio_konqi.desktop
+usr/share/kde4/services/kiviopart.desktop

@@ -5,8 +5,8 @@ usr/lib/kde4/clipartthumbnail.so
 usr/lib/kde4/defaulttools.so
 usr/lib/kde4/divineproportionshape.so
 usr/lib/kde4/kodocinfopropspage.so
-usr/lib/kde4/kofficedockers.so
 usr/lib/kde4/koffice_graya_u16_plugin.so
+usr/lib/kde4/kofficedockers.so
 usr/lib/kde4/kofficegrayau8plugin.so
 usr/lib/kde4/kofficescan.so
 usr/lib/kde4/kofficesimpletextedit.so
@@ -42,10 +42,10 @@ usr/lib/libkoodf.so.5
 usr/lib/libkoodf.so.5.0.0
 usr/lib/libkopageapp.so.5
 usr/lib/libkopageapp.so.5.0.0
-usr/lib/libkoproperty2.so.5
-usr/lib/libkoproperty2.so.5.0.0
 usr/lib/libkoproperty.so.5
 usr/lib/libkoproperty.so.5.0.0
+usr/lib/libkoproperty2.so.5
+usr/lib/libkoproperty2.so.5.0.0
 usr/lib/libkoresources.so.5
 usr/lib/libkoresources.so.5.0.0
 usr/lib/libkotext.so.5
