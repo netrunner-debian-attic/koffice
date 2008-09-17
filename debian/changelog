@@ -1,11 +1,13 @@
-koffice (1:1.9.96.0~that.is.really.1.9.95.10-2) UNRELEASED; urgency=low
+koffice (1:1.9.96.0.svn861973-1) UNRELEASED; urgency=low
 
+  * Drop patch embed_eigen_in_koffice2_alpha10.diff and 
+    build depend on libeigen2-dev.
   * Add debug package: koffice-dbg.
   * Update to debhelper compatibility 7.
   * Remove Suggests: koffice-i18n, still no translations available.
   * Rework in *.install files and use wildcards instead.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 29 Aug 2008 23:46:51 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 17 Sep 2008 21:34:36 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
 
