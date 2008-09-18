@@ -7,12 +7,11 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6),
  kdepimlibs5-dev (>= 4:4.1.0), libphonon-dev (>= 4:4.1.0),
  libboost-dev, libopenexr-dev, libeigen2-dev,
  libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
- freeglut3-dev, libglpk-dev, libexiv2-dev, 
- libgraphicsmagick1-dev, libgraphicsmagick++1-dev,
+ libexiv2-dev, libgraphicsmagick1-dev, 
  libwv2-dev, libmysqlclient15-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
- libxslt1-dev, libqt4-opengl-dev, python-dev,
- libpqxx-dev, pstoedit, 
+ libxslt1-dev, libqt4-opengl-dev, 
+ pstoedit, 
 Standards-Version: 3.8.0
 Homepage: http://www.koffice.org/
 
