@@ -19,7 +19,7 @@ Homepage: http://www.koffice.org/
 Package: koffice
 Architecture: all
 Section: kde
-Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
+Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
 Suggests: koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
@@ -249,7 +249,7 @@ Description: common shared data for the KDE Office Suite
 Package: koffice-dev
 Architecture: any
 Section: devel
-Depends: koffice-libs (>= ${source:Version}), karbon (>= ${source:Version}), kchart (>= ${source:Version}), kexi (>= ${source:Version}), kformula (>= ${source:Version}), kivio (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kthesaurus (>= ${source:Version}), kword (>= ${source:Version}), kdelibs5-dev 
+Depends: koffice-libs (>= ${source:Version}), karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kthesaurus (>= ${source:Version}), kword (>= ${source:Version}), kdelibs5-dev 
 Description: common libraries for KOffice (development files)
  This package provides the development files for the libraries that are
  shared amongst the various components of KOffice.
