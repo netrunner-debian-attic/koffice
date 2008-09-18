@@ -1,5 +1,0 @@
-kivio: shlib-missing-in-control-file libkdeinit4_kivio.so for usr/lib/libkdeinit4_kivio.so
-kivio: package-name-doesnt-match-sonames libkdeinit4-kivio libkivioprivate5
-kivio: no-symbols-control-file usr/lib/libkdeinit4_kivio.so
-kivio: no-symbols-control-file usr/lib/libkivioprivate.so.5.0.0
-

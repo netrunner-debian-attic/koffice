@@ -1,5 +1,7 @@
-koffice (1:1.9.96.0.svn861973-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.0-1) UNRELEASED; urgency=low
 
+  * New upstream release, first beta.
+  * Drop Kivio, KFormula and Kexi, they won't be released in future koffice 2.0.
   * Drop patch embed_eigen_in_koffice2_alpha10.diff and 
     build depend on libeigen2-dev.
   * Add debug package: koffice-dbg.
@@ -11,7 +13,7 @@ koffice (1:1.9.96.0.svn861973-1) UNRELEASED; urgency=low
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
 
-  * New upstrem release 1.9.95.8, alpha 10.
+  * New upstream release 1.9.95.8, alpha 10.
   * Update build depends:
     - Remove libeigen-dev, it needs now eigen2, not packaged yet.
     - Add libpstoedit-dev.
