@@ -17,8 +17,6 @@ usr/share/icons/oxygen/32x32/actions/x-shape-text.png
 usr/share/icons/oxygen/48x48/actions/table.png
 usr/share/icons/oxygen/scalable/actions/table.svgz
 usr/share/kde4/apps/koffice/
-usr/share/kde4/services/kopabackgroundtool.desktop
-usr/share/kde4/services/paragraphtool.desktop
 usr/share/kde4/apps/musicshape/fonts/Emmentaler-14.ttf
 usr/share/kde4/services/autocorrect.desktop
 usr/share/kde4/services/changecase.desktop
@@ -27,13 +25,15 @@ usr/share/kde4/services/defaulttools.desktop
 usr/share/kde4/services/divineproportionshape.desktop
 usr/share/kde4/services/generic_filter.desktop
 usr/share/kde4/services/kodocinfopropspage.desktop
-usr/share/kde4/services/koffice_graya_u16_plugin.desktop
 usr/share/kde4/services/kofficedockers.desktop
 usr/share/kde4/services/kofficegrayaplugin.desktop
+usr/share/kde4/services/koffice_graya_u16_plugin.desktop
 usr/share/kde4/services/kofficesimpletextedit.desktop
 usr/share/kde4/services/kofficethumbnail.desktop
+usr/share/kde4/services/kopabackgroundtool.desktop
 usr/share/kde4/services/kounavail.desktop
 usr/share/kde4/services/musicshape.desktop
+usr/share/kde4/services/paragraphtool.desktop
 usr/share/kde4/services/pathshapes.desktop
 usr/share/kde4/services/pictureshape.desktop
 usr/share/kde4/services/spellcheck.desktop

@@ -4,7 +4,7 @@ usr/share/color/icc/krita/
 usr/share/icons/hicolor/*/apps/krita.png
 usr/share/kde4/apps/krita/
 usr/share/kde4/apps/kritaplugins/
-usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
 usr/share/kde4/services/krita*.desktop
+usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
 usr/share/kde4/servicetypes/krita_*.desktop
 usr/share/mime/packages/krita_ora.xml

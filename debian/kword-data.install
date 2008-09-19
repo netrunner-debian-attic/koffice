@@ -3,8 +3,8 @@ usr/share/applications/kde4/kword.desktop
 usr/share/icons/hicolor/*/apps/kword.png
 usr/share/kde4/apps/kword/
 usr/share/kde4/apps/xsltfilter/export/kword/
-usr/share/kde4/services/ServiceMenus/kword_konqi.desktop
 usr/share/kde4/services/krossmodulekword.desktop
 usr/share/kde4/services/kword_*.desktop
 usr/share/kde4/services/kwordpart.desktop
+usr/share/kde4/services/ServiceMenus/kword_konqi.desktop
 usr/share/kde4/servicetypes/kwmailmerge.desktop

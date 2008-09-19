@@ -15,7 +15,7 @@ usr/share/applications/kde4/kchart.desktop
 usr/share/icons/hicolor/*/apps/kchart.png
 usr/share/kde4/apps/kchart/
 usr/share/kde4/config.kcfg/kchart.kcfg
-usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop
 usr/share/kde4/services/chartshape.desktop
 usr/share/kde4/services/kchart_*.desktop
 usr/share/kde4/services/kchartpart.desktop
+usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop

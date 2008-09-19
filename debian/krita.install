@@ -2,8 +2,6 @@ usr/bin/krita
 usr/lib/kde4/krita*.so
 usr/lib/kde4/libkrita*.so
 usr/lib/libkdeinit4_krita.so
-usr/lib/libkrita_xyz_u16.so.5
-usr/lib/libkrita_xyz_u16.so.5.0.0
 usr/lib/libkritabasicdynamiccoloringprogram.so.5
 usr/lib/libkritabasicdynamiccoloringprogram.so.5.0.0
 usr/lib/libkritabasicdynamicshapeprogram.so.5
@@ -18,5 +16,7 @@ usr/lib/libkritalibpaintop.so.5
 usr/lib/libkritalibpaintop.so.5.0.0
 usr/lib/libkritaui.so.5
 usr/lib/libkritaui.so.5.0.0
+usr/lib/libkrita_xyz_u16.so.5
+usr/lib/libkrita_xyz_u16.so.5.0.0
 usr/lib/libkrossmodulekrita.so.5
 usr/lib/libkrossmodulekrita.so.5.0.0

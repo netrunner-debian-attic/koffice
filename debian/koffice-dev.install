@@ -1,5 +1,4 @@
 usr/include/
-usr/lib/libkostore.so
 usr/lib/libchartshapelib.so
 usr/lib/libflake.so
 usr/lib/libkarboncommon.so
@@ -16,6 +15,7 @@ usr/lib/libkomain.so
 usr/lib/libkoodf.so
 usr/lib/libkopageapp.so
 usr/lib/libkoresources.so
+usr/lib/libkostore.so
 usr/lib/libkotext.so
 usr/lib/libkowmf.so
 usr/lib/libkplatokernel.so
@@ -24,7 +24,6 @@ usr/lib/libkplatoprivate.so
 usr/lib/libkplatoui.so
 usr/lib/libkplatoworkfactory.so
 usr/lib/libkpresenterprivate.so
-usr/lib/libkrita_xyz_u16.so
 usr/lib/libkritabasicdynamiccoloringprogram.so
 usr/lib/libkritabasicdynamicshapeprogram.so
 usr/lib/libkritadynamicbrush.so
@@ -32,6 +31,7 @@ usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
 usr/lib/libkritalibpaintop.so
 usr/lib/libkritaui.so
+usr/lib/libkrita_xyz_u16.so
 usr/lib/libkrossmodulekrita.so
 usr/lib/libkspreadcommon.so
 usr/lib/libkwmf.so

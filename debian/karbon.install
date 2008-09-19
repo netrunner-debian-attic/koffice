@@ -1,11 +1,11 @@
 ../icons/karbon.xpm usr/share/pixmaps
 usr/bin/karbon
+usr/lib/kde4/karbondockersplugin.so
 usr/lib/kde4/karbon_flattenpathplugin.so
 usr/lib/kde4/karbon_refinepathplugin.so
 usr/lib/kde4/karbon_roundcornersplugin.so
-usr/lib/kde4/karbon_whirlpinchplugin.so
-usr/lib/kde4/karbondockersplugin.so
 usr/lib/kde4/karbontools.so
+usr/lib/kde4/karbon_whirlpinchplugin.so
 usr/lib/kde4/libkarbon1ximport.so
 usr/lib/kde4/libkarbonepsimport.so
 usr/lib/kde4/libkarbonpart.so
@@ -22,7 +22,7 @@ usr/lib/libkarbonui.so.5.0.0
 usr/lib/libkdeinit4_karbon.so
 usr/share/applications/kde4/karbon.desktop
 usr/share/kde4/apps/karbon/
-usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
 usr/share/kde4/services/karbon*.desktop
+usr/share/kde4/services/ServiceMenus/karbon_konqi.desktop
 usr/share/kde4/services/simpletextshape.desktop
 usr/share/kde4/servicetypes/karbon_module.desktop

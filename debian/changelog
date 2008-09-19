@@ -8,6 +8,7 @@ koffice (1:1.9.98.0-1) UNRELEASED; urgency=low
   * Drop patch embed_eigen_in_koffice2_alpha10.diff and 
     build depend on libeigen2-dev.
   * Add debug package: koffice-dbg.
+  * Update install files.
   * Update to debhelper compatibility 7.
   * Remove Suggests: koffice-i18n, still no translations available.
   * Rework in *.install files and use wildcards instead.
