@@ -1,4 +1,4 @@
-koffice (1:1.9.98.0-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.0-1) experimental; urgency=low
 
   * New upstream release, first beta.
   * Drop Kivio, KFormula and Kexi, they won't be released in future koffice 2.0.
@@ -11,9 +11,9 @@ koffice (1:1.9.98.0-1) UNRELEASED; urgency=low
   * Update install files.
   * Update to debhelper compatibility 7.
   * Remove Suggests: koffice-i18n, still no translations available.
-  * Rework in *.install files and use wildcards instead.
+  * Rework in *.install files and use some wildcards instead.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 17 Sep 2008 21:34:36 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 25 Sep 2008 07:53:31 +0200
 
 koffice (1:1.9.96.0~that.is.really.1.9.95.10-1) experimental; urgency=low
 
