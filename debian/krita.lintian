@@ -9,5 +9,4 @@ krita: no-symbols-control-file usr/lib/libkdeinit4_krita.so
 krita: no-symbols-control-file usr/lib/libkritagrayscale.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkrossmodulekrita.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritaui.so.5.0.0
-krita: package-name-doesnt-match-sonames libkdeinit4-krita libkrita-xyz-u16-5 libkritabasicdynamiccoloringprogram5 libkritabasicdynamicshapeprogram5 libkritadynamicbrush5 libkritagrayscale5 libkritaimage5 libkritalibpaintop5 libkritaui5 libkrossmodulekrita5
-
+krita: package-name-doesnt-match-sonames libKritaRulerAssistantCommon libkdeinit4-krita libkrita-xyz-u16-5 libkritabasicdynamiccoloringprogram5 libkritabasicdynamicshapeprogram5 libkritadynamicbrush5 libkritagrayscale5 libkritaimage5 libkritalibpaintop5 libkritaui5 libkrossmodulekrita5
