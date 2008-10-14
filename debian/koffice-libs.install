@@ -1,4 +1,5 @@
 usr/bin/koconverter
+usr/lib/kde4/artistictextshape.so
 usr/lib/kde4/autocorrect.so
 usr/lib/kde4/changecase.so
 usr/lib/kde4/clipartthumbnail.so

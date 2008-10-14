@@ -19,6 +19,7 @@ usr/share/icons/oxygen/scalable/actions/table.svgz
 usr/share/kde4/apps/koffice/
 usr/share/kde4/apps/musicshape/fonts/Emmentaler-14.ttf
 usr/share/kde4/services/autocorrect.desktop
+usr/share/kde4/services/artistictextshape.desktop
 usr/share/kde4/services/changecase.desktop
 usr/share/kde4/services/clipartthumbnail.desktop
 usr/share/kde4/services/defaulttools.desktop

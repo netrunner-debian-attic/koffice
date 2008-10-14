@@ -1,3 +1,11 @@
+koffice (1:1.9.98.1-1) experimental; urgency=low
+
+  * New upstream release, second beta.
+  * Remove build depend on libkdcraw5-dev for now.
+  * Update installed files.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 14 Oct 2008 15:34:15 +0200
+
 koffice (1:1.9.98.0-1) experimental; urgency=low
 
   * New upstream release, first beta.

@@ -5,6 +5,8 @@ usr/lib/kde4/libabiwordimport.so
 usr/lib/kde4/libamiproexport.so
 usr/lib/kde4/libamiproimport.so
 usr/lib/kde4/libapplixwordimport.so
+usr/lib/kde4/libasciiexport.so
+usr/lib/kde4/libasciiimport.so
 usr/lib/kde4/libdocbookexport.so
 usr/lib/kde4/libhancomwordimport.so
 usr/lib/kde4/libhtmlexport.so
