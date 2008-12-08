@@ -5,12 +5,6 @@ usr/lib/libKritaRulerAssistantCommon.so
 usr/lib/libkdeinit4_krita.so
 usr/lib/libkrita_xyz_u16.so.5
 usr/lib/libkrita_xyz_u16.so.5.0.0
-usr/lib/libkritabasicdynamiccoloringprogram.so.5
-usr/lib/libkritabasicdynamiccoloringprogram.so.5.0.0
-usr/lib/libkritabasicdynamicshapeprogram.so.5
-usr/lib/libkritabasicdynamicshapeprogram.so.5.0.0
-usr/lib/libkritadynamicbrush.so.5
-usr/lib/libkritadynamicbrush.so.5.0.0
 usr/lib/libkritagrayscale.so.5
 usr/lib/libkritagrayscale.so.5.0.0
 usr/lib/libkritaimage.so.5

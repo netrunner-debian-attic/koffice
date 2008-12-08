@@ -1,3 +1,11 @@
+koffice (1:1.9.98.3-1) UNRELEASED; urgency=low
+
+  * New upstream release, fourth beta.
+  * Update install files.
+  * TODO: kchart no longer provides an app...
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 08 Dec 2008 16:15:19 +0100
+
 koffice (1:1.9.98.1-1) experimental; urgency=low
 
   * New upstream release, second beta.
