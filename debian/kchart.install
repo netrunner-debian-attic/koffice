@@ -1,4 +1,3 @@
-../icons/kchart.xpm usr/share/pixmaps
 usr/lib/kde4/chartshape.so
 usr/lib/kde4/libkchartgenericimageexport.so
 usr/lib/kde4/libkchartsvgexport.so

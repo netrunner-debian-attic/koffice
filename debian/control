@@ -71,11 +71,16 @@ Architecture: any
 Section: kde
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
-Description: a chart drawing program for the KDE Office Suite
- KChart is a chart drawing application.  It can be used to embed charts
- into KOffice documents.  KChart is easy to use and highly configurable.
+Description: chart drawing components for the KDE Office Suite
+ KChart contains the kchart drawing components.  It can be used to embed 
+ charts into KOffice documents. 
  .
  This package is part of the KDE Office Suite.
+#Description: a chart drawing program for the KDE Office Suite
+# KChart is a chart drawing application.  It can be used to embed charts
+# into KOffice documents.  KChart is easy to use and highly configurable.
+# .
+# This package is part of the KDE Office Suite.
 
 #Package: kexi
 #Architecture: any
