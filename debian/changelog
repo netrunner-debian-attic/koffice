@@ -1,4 +1,4 @@
-koffice (1:1.9.98.3-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.3-1) experimental; urgency=low
 
   * New upstream release, fourth beta.
   * Update install and lintian files.
@@ -7,7 +7,7 @@ koffice (1:1.9.98.3-1) UNRELEASED; urgency=low
     menu file and xpm icon has been removed. The description has been reworked
     as well.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 10 Dec 2008 15:29:26 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 10 Dec 2008 17:37:52 +0100
 
 koffice (1:1.9.98.1-1) experimental; urgency=low
 
