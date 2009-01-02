@@ -1,5 +1,7 @@
-koffice (1:1.9.98.3-3) UNRELEASED; urgency=low
+koffice (1:1.9.98.4-1) UNRELEASED; urgency=low
 
+  * New upstream release, likely to be built against kde 4.2 rc.
+  * TODO: move desktop files to binaries.
   * Added Vcs-* fields for koffice2 packaging.
 
  -- Raúl Sánchez Siles <rasasi78@gmail.com>  Fri, 12 Dec 2008 21:41:48 +0100
