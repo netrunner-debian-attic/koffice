@@ -1,5 +1,4 @@
 usr/include/
-usr/lib/libKritaRulerAssistantCommon.so
 usr/lib/libchartshapelib.so
 usr/lib/libflake.so
 usr/lib/libkarboncommon.so
@@ -26,6 +25,7 @@ usr/lib/libkpresenterprivate.so
 usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
 usr/lib/libkritalibpaintop.so
+usr/lib/libKritaRulerAssistantCommon.so
 usr/lib/libkritaui.so
 usr/lib/libkrita_xyz_u16.so
 usr/lib/libkrossmodulekrita.so

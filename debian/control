@@ -18,7 +18,6 @@ Homepage: http://www.koffice.org/
 
 Package: koffice
 Architecture: all
-Section: kde
 Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
 Suggests: koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
@@ -68,7 +67,6 @@ Description: a vector graphics application for the KDE Office Suite
 
 Package: kchart
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: chart drawing components for the KDE Office Suite
@@ -84,7 +82,6 @@ Description: chart drawing components for the KDE Office Suite
 
 #Package: kexi
 #Architecture: any
-#Section: kde
 #Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 #Suggests: kexi-mdb-plugin
 #Description: integrated database environment for the KDE Office Suite
@@ -104,7 +101,6 @@ Description: chart drawing components for the KDE Office Suite
 #
 #Package: kformula
 #Architecture: any
-#Section: kde
 #Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 #Suggests: khelpcenter, koffice-doc-html
 #Description: a formula editor for the KDE Office Suite
@@ -131,7 +127,6 @@ Description: chart drawing components for the KDE Office Suite
 
 Package: kplato
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: an integrated project management and planning tool
@@ -143,7 +138,6 @@ Description: an integrated project management and planning tool
 
 Package: kpresenter
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, ${perl:Depends}, koffice-libs (>= ${source:Version})
 Recommends: libkscan1
 Suggests: khelpcenter, koffice-doc-html
@@ -157,7 +151,6 @@ Description: a presentation program for the KDE Office Suite
 
 Package: krita
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, krita-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
 Recommends: dcraw
 Suggests: khelpcenter, koffice-doc-html
@@ -169,7 +162,6 @@ Description: a pixel-based image manipulation program for the KDE Office Suite
 
 Package: krita-data
 Architecture: all
-Section: kde
 Conflicts: krita (<1:1.9.96.0~that.is.really.1.9.95.10-1)
 Description: data files for Krita painting program
  This package contains architecture-independent data files for Krita,
@@ -181,7 +173,6 @@ Description: data files for Krita painting program
 
 Package: kspread
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: a spreadsheet for the KDE Office Suite
@@ -193,7 +184,6 @@ Description: a spreadsheet for the KDE Office Suite
 
 Package: kword
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, kword-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: a word processor for the KDE Office Suite
@@ -206,7 +196,6 @@ Description: a word processor for the KDE Office Suite
 
 Package: kword-data
 Architecture: all
-Section: kde
 Replaces: kword (<< 1:1.9.96.0~that.is.really.1.9.95.3-1)
 Description: data files for KWord word processor
  This package contains architecture-independent data files for KWord,
@@ -218,7 +207,6 @@ Description: data files for KWord word processor
 
 Package: kthesaurus
 Architecture: any
-Section: kde
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter, koffice-doc-html
 Description: thesaurus for the KDE Office Suite
@@ -230,7 +218,6 @@ Description: thesaurus for the KDE Office Suite
 
 Package: koffice-libs
 Architecture: any
-Section: libs
 Depends: ${shlibs:Depends}, koffice-data (>= ${source:Version})
 Recommends: latex-xft-fonts, ruby, python
 Suggests: wordnet, texlive
@@ -242,7 +229,6 @@ Description: common libraries and binaries for the KDE Office Suite
 
 Package: koffice-data
 Architecture: all
-Section: libs
 Suggests: khelpcenter, koffice-doc-html
 Conflicts: krita-data (< 1.9.96.0~that.is.really.1.9.95.10-2), karbon (< 1.9.96.0~that.is.really.1.9.95.10-2), kformula (< 1.9.96.0~that.is.really.1.9.95.10-2)
 Description: common shared data for the KDE Office Suite
@@ -253,7 +239,6 @@ Description: common shared data for the KDE Office Suite
 
 Package: koffice-dev
 Architecture: any
-Section: devel
 Depends: koffice-libs (>= ${source:Version}), karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kthesaurus (>= ${source:Version}), kword (>= ${source:Version}), kdelibs5-dev 
 Description: common libraries for KOffice (development files)
  This package provides the development files for the libraries that are

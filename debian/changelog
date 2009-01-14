@@ -5,10 +5,8 @@ koffice (1:1.9.98.5-1) UNRELEASED; urgency=low
     cmake versioned on needed 2.6.2 and force to build depend on later eigen2 
     (even if it should be fine with previous).
   * Update install files and lintian overrides.
-
-  * TODO: move desktop files to binaries.
  
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 14 Jan 2009 10:54:16 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 14 Jan 2009 17:01:35 +0100
 
 koffice (1:1.9.98.3-2) experimental; urgency=low
 
