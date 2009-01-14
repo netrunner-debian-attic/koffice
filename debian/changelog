@@ -1,12 +1,13 @@
-koffice (1:1.9.98.5-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.5-1) experimental; urgency=low
 
   * New upstream beta release. Package for usage with KDE 4.1.4.
   * Update build depends, now all needs KDE 4.1.4 and re-add libkdcraw5-dev.
     cmake versioned on needed 2.6.2 and force to build depend on later eigen2 
     (even if it should be fine with previous).
   * Update install files and lintian overrides.
+  * Improve karbon description.
  
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 14 Jan 2009 17:01:35 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 14 Jan 2009 22:36:16 +0100
 
 koffice (1:1.9.98.3-2) experimental; urgency=low
 
