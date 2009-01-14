@@ -1,7 +1,8 @@
 usr/bin/krita
 usr/lib/kde4/krita*.so
 usr/lib/kde4/libkrita*.so
-usr/lib/libKritaRulerAssistantCommon.so
+usr/lib/libKritaRulerAssistantCommon.so.5
+usr/lib/libKritaRulerAssistantCommon.so.5.0.0
 usr/lib/libkdeinit4_krita.so
 usr/lib/libkrita_xyz_u16.so.5
 usr/lib/libkrita_xyz_u16.so.5.0.0

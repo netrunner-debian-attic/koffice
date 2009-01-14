@@ -1,13 +1,10 @@
-krita: menu-icon-missing /usr/share/pixmaps/krita.xpm
-krita: shlib-missing-in-control-file libKritaRulerAssistantCommon.so for usr/lib/libKritaRulerAssistantCommon.so
 krita: shlib-missing-in-control-file libkdeinit4_krita.so for usr/lib/libkdeinit4_krita.so
 krita: no-symbols-control-file usr/lib/libkritaimage.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkrita_xyz_u16.so.5.0.0
+krita: no-symbols-control-file usr/lib/libkritalibpaintop.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkdeinit4_krita.so
+krita: no-symbols-control-file usr/lib/libKritaRulerAssistantCommon.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritagrayscale.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkrossmodulekrita.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritaui.so.5.0.0
-krita: no-symbols-control-file usr/lib/libkritalibpaintop.so.5.0.0
-krita: no-symbols-control-file usr/lib/libKritaRulerAssistantCommon.so    
-krita: package-name-doesnt-match-sonames libKritaRulerAssistantCommon libkdeinit4-krita libkrita-xyz-u16-5 libkritagrayscale5 libkritaimage5 libkritalibpaintop5 libkritaui5 libkrossmodulekrita5
-
+krita: package-name-doesnt-match-sonames libKritaRulerAssistantCommon5 libkdeinit4-krita libkrita-xyz-u16-5 libkritagrayscale5 libkritaimage5 libkritalibpaintop5 libkritaui5 libkrossmodulekrita5

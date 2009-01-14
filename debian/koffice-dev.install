@@ -1,4 +1,5 @@
 usr/include/
+usr/lib/libKritaRulerAssistantCommon.so
 usr/lib/libchartshapelib.so
 usr/lib/libflake.so
 usr/lib/libkarboncommon.so
