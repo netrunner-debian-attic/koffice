@@ -1,3 +1,20 @@
+koffice (1:1.9.98.1-2) UNRELEASED; urgency=low
+
+  +++ Changes by Modestas Vainius:
+
+  * Switch from internal debian/cdbs/kde.mk to pkg-kde-tools:
+    - build depend on pkg-kde-tools 0.4;
+    - remove debian/cdbs directory;
+    - replace debian/cdbs/kde.mk with
+      /usr/share/pkg-kde-tools/qt-kde-team/1/debian-qt-kde.mk in debian/rules.
+  * Rename debian/*.lintian to debian/*.lintian-overrides.
+
+  +++ Changes by Ana Beatriz Guerrero Lopez:
+  
+  * ...
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 24 Jan 2009 06:14:48 +0200
+
 koffice (1:1.9.98.1-1) experimental; urgency=low
 
   * New upstream release, second beta.
