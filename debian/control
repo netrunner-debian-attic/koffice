@@ -11,8 +11,8 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libwv2-dev, libmysqlclient15-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev, 
- pstoedit, 
- libkdcraw5-dev (>= 4:4.2.0)
+ pstoedit, libgmm++-dev,
+ libkdcraw7-dev (>= 4:4.2.0)
 Standards-Version: 3.8.0
 Homepage: http://www.koffice.org/
 
