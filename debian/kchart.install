@@ -1,8 +1,5 @@
-../icons/kchart.xpm usr/share/pixmaps
-usr/bin/kchart
 usr/lib/kde4/chartshape.so
 usr/lib/kde4/libkchartgenericimageexport.so
-usr/lib/kde4/libkchartpart.so
 usr/lib/kde4/libkchartsvgexport.so
 usr/lib/libchartshapelib.so.5
 usr/lib/libchartshapelib.so.5.0.0
@@ -10,11 +7,8 @@ usr/lib/libkchartcommon.so.5
 usr/lib/libkchartcommon.so.5.0.0
 usr/lib/libkdchart.so.5
 usr/lib/libkdchart.so.5.0.0
-usr/lib/libkdeinit4_kchart.so
-usr/share/applications/kde4/kchart.desktop
 usr/share/icons/hicolor/*/apps/kchart.png
 usr/share/kde4/apps/kchart/
-usr/share/kde4/config.kcfg/kchart.kcfg
 usr/share/kde4/services/chartshape.desktop
 usr/share/kde4/services/kchart_*.desktop
 usr/share/kde4/services/kchartpart.desktop

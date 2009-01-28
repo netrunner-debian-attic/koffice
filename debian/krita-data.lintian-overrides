@@ -1,9 +1,10 @@
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_bmp.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_jpeg.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_ora.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_pdf.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_png.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_tiff.desktop krita
-krita-data: desktop-command-not-in-package /usr/share/applications/kde4/krita_magick.desktop krita
-
+../icons/krita.xpm usr/share/pixmaps
+usr/share/applications/kde4/krita*.desktop
+usr/share/color/icc/krita/
+usr/share/icons/hicolor/*/apps/krita.png
+usr/share/kde4/apps/krita/
+usr/share/kde4/apps/kritaplugins/
+usr/share/kde4/services/krita*.desktop
+usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
+usr/share/kde4/servicetypes/krita_*.desktop
+usr/share/mime/packages/krita_ora.xml

@@ -7,4 +7,3 @@ usr/share/kde4/services/krossmodulekword.desktop
 usr/share/kde4/services/kword_*.desktop
 usr/share/kde4/services/kwordpart.desktop
 usr/share/kde4/services/ServiceMenus/kword_konqi.desktop
-usr/share/kde4/servicetypes/kwmailmerge.desktop

@@ -5,7 +5,6 @@ usr/lib/libkarboncommon.so
 usr/lib/libkarbonui.so
 usr/lib/libkchartcommon.so
 usr/lib/libkdchart.so
-usr/lib/libkisexiv2.so
 usr/lib/libkochart.so
 usr/lib/libkoffice_graya_u16.so
 usr/lib/libkofficegrayau8colorspace.so
@@ -22,14 +21,11 @@ usr/lib/libkplatokernel.so
 usr/lib/libkplatomodels.so
 usr/lib/libkplatoprivate.so
 usr/lib/libkplatoui.so
-usr/lib/libkplatoworkfactory.so
 usr/lib/libkpresenterprivate.so
-usr/lib/libkritabasicdynamiccoloringprogram.so
-usr/lib/libkritabasicdynamicshapeprogram.so
-usr/lib/libkritadynamicbrush.so
 usr/lib/libkritagrayscale.so
 usr/lib/libkritaimage.so
 usr/lib/libkritalibpaintop.so
+usr/lib/libKritaRulerAssistantCommon.so
 usr/lib/libkritaui.so
 usr/lib/libkrita_xyz_u16.so
 usr/lib/libkrossmodulekrita.so

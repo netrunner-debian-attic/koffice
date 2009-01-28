@@ -18,7 +18,6 @@ usr/lib/kde4/libkounavailpart.so
 usr/lib/kde4/libxsltexport.so
 usr/lib/kde4/libxsltimport.so
 usr/lib/kde4/musicshape.so
-usr/lib/kde4/paragraphtool.so
 usr/lib/kde4/pathshapes.so
 usr/lib/kde4/pictureshape.so
 usr/lib/kde4/spellcheck.so
@@ -27,8 +26,6 @@ usr/lib/kde4/textvariables.so
 usr/lib/kde4/thesaurustool.so
 usr/lib/libflake.so.5
 usr/lib/libflake.so.5.0.0
-usr/lib/libkisexiv2.so.5
-usr/lib/libkisexiv2.so.5.0.0
 usr/lib/libkochart.so.5
 usr/lib/libkochart.so.5.0.0
 usr/lib/libkoffice_graya_u16.so.5
@@ -53,7 +50,6 @@ usr/lib/libkotext.so.5
 usr/lib/libkotext.so.5.0.0
 usr/lib/libkowmf.so.5
 usr/lib/libkowmf.so.5.0.0
-usr/lib/libkplatoworkapp.so
 usr/lib/libkwmf.so.5
 usr/lib/libkwmf.so.5.0.0
 usr/lib/libkwordexportfilters.so.5
