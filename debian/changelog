@@ -11,7 +11,9 @@ koffice (1:1.9.98.5-2) UNRELEASED; urgency=low
 
   +++ Changes by Ana Beatriz Guerrero Lopez:
   
-  * ...
+  * Update packaging for usage with KDE 4.2.0:
+    - Bump build depends to 4.2.0.
+    - Bump phonon build depends to 4.3.0.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 24 Jan 2009 06:14:48 +0200
 
