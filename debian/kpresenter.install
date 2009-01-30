@@ -11,7 +11,6 @@ usr/lib/kde4/kpr_pageeffect_slidewipe.so
 usr/lib/kde4/kpr_shapeanimation_example.so
 usr/lib/kde4/libFilterkpr2odf.so
 usr/lib/kde4/libkpresenterpart.so
-usr/lib/kde4/libpowerpointimport.so
 usr/lib/libkdeinit4_kpresenter.so
 usr/lib/libkpresenterprivate.so.5
 usr/lib/libkpresenterprivate.so.5.0.0
@@ -22,7 +21,6 @@ usr/share/kde4/services/Filterkpr2odf.desktop
 usr/share/kde4/services/kpr_*.desktop
 usr/share/kde4/services/kpresentereventactions.desktop
 usr/share/kde4/services/kpresenterpart.desktop
-usr/share/kde4/services/kpresenter_powerpoint_import.desktop
 usr/share/kde4/services/kpresentertoolanimation.desktop
 usr/share/kde4/services/ServiceMenus/kpresenter_konqi.desktop
 usr/share/kde4/servicetypes/kpr_*.desktop
