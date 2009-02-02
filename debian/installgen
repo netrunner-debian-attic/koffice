@@ -1,14 +1,14 @@
 [karbon]
-from:/karbon/
+dst:/karbon/
 
 [kchart]
-from:/kchart/
+dst:/kchart/
 
 [kplato]
-from:/kplato/
+dst:/kplato/
 
 [kpresenter]
-from:/kpresenter/
+dst:/kpresenter/
 
 [krita-data]
 skip from:/krita/ dst:usr/share/.*\.desktop$
@@ -31,13 +31,13 @@ from:/kword/
 from:/kword/
 
 [koffice-data]
-from:/koffice/
+dst:usr/share/icons/oxygen/
 
 [koffice-dev]
-from:/usr/include/
+dst:usr/include/
 
 [koffice-doc-html]
-from:/usr/share/doc/kde4/HTML/
+dst:usr/share/doc/kde4/HTML/
 
 [koffice-libs]
 from:/usr/lib/
