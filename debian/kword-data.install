@@ -1,5 +1,4 @@
 ../icons/kword.xpm usr/share/pixmaps
-usr/share/applications/kde4/kword.desktop
 usr/share/icons/hicolor/16x16/apps/kword.png
 usr/share/icons/hicolor/22x22/apps/kword.png
 usr/share/icons/hicolor/32x32/apps/kword.png
@@ -90,31 +89,3 @@ usr/share/kde4/apps/kword/templates/Normal/.source/TwoColumnsLetter.kwt
 usr/share/kde4/apps/kword/templates/Normal/TwoColumns.desktop
 usr/share/kde4/apps/kword/templates/Normal/TwoColumnsLetter.desktop
 usr/share/kde4/apps/xsltfilter/export/kword/
-usr/share/kde4/services/krossmodulekword.desktop
-usr/share/kde4/services/kword_abiword_export.desktop
-usr/share/kde4/services/kword_abiword_import.desktop
-usr/share/kde4/services/kword_amipro_export.desktop
-usr/share/kde4/services/kword_amipro_import.desktop
-usr/share/kde4/services/kword_applixword_import.desktop
-usr/share/kde4/services/kword_ascii_export.desktop
-usr/share/kde4/services/kword_ascii_import.desktop
-usr/share/kde4/services/kword_docbook_export.desktop
-usr/share/kde4/services/kword_hancomword_import.desktop
-usr/share/kde4/services/kword_html_export.desktop
-usr/share/kde4/services/kword_html_import.desktop
-usr/share/kde4/services/kword_msword_import.desktop
-usr/share/kde4/services/kword_msword-odf_import.desktop
-usr/share/kde4/services/kword_mswrite_export.desktop
-usr/share/kde4/services/kword_mswrite_import.desktop
-usr/share/kde4/services/kword_oowriter_export.desktop
-usr/share/kde4/services/kword_oowriter_import.desktop
-usr/share/kde4/services/kword_palmdoc_export.desktop
-usr/share/kde4/services/kword_palmdoc_import.desktop
-usr/share/kde4/services/kwordpart.desktop
-usr/share/kde4/services/kword_rtf_export.desktop
-usr/share/kde4/services/kword_rtf_import.desktop
-usr/share/kde4/services/kword_wml_export.desktop
-usr/share/kde4/services/kword_wml_import.desktop
-usr/share/kde4/services/kword_wp_export.desktop
-usr/share/kde4/services/kword_wp_import.desktop
-usr/share/kde4/services/ServiceMenus/kword_konqi.desktop
