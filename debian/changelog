@@ -2,13 +2,13 @@ koffice (1:1.9.98.6-1) UNRELEASED; urgency=low
 
   * New upstream beta release.
   * Remove rev907760_thumbnail.patch, merged upstream.
-  * Add installgen. (WIP)
-  * Stop using wildcard is in install files, it ended not being so good idea.
-  * TODO: Move *.desktop files from -data packages to binary packages for
-    krita, ... Add Replaces with previous -data packages. (krita and kword)
-  * TODO: lintian ovrrides..
+  * Stop using wildcard in install files, it ended not being so good idea.
+    I will be moving to installgen in the near future.
+  * Move *.desktop files from -data packages to binary packages for
+    krita and kword. Add Replaces with previous -data packages.
+  * Update installed files and lintian overrides.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 02 Feb 2009 05:21:22 +0000
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 03 Feb 2009 14:14:09 +0100
 
 koffice (1:1.9.98.5-2) experimental; urgency=low
 
