@@ -6,6 +6,8 @@ koffice (1:1.9.98.6-1) UNRELEASED; urgency=low
     I will be moving to installgen in the near future.
   * Move *.desktop files from -data packages to binary packages for
     krita and kword. Add Replaces with previous -data packages.
+  * Update khelpcenter suggests to khelpcenter4.
+  * Remove koffice-doc and koffice-dev from the metapackage Suggests.
   * Add not-installed file shipping leftovers of not distributed apps.
   * Update installed files and lintian overrides.
 

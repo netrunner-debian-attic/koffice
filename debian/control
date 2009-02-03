@@ -18,7 +18,7 @@ Homepage: http://www.koffice.org/
 Package: koffice
 Architecture: all
 Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}), kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}), kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
-Suggests: koffice-dev (>= ${source:Version}), koffice-doc (>= ${source:Version}), koffice-doc-html (>= ${source:Version})
+Suggests: koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
  Environment.  It offers a word processor, spreadsheet, presentation
@@ -69,7 +69,7 @@ Description: a vector graphics application for the KDE Office Suite
 Package: kchart
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Description: chart drawing components for the KDE Office Suite
  KChart contains the kchart drawing components.  It can be used to embed 
  charts into KOffice documents. 
@@ -104,7 +104,7 @@ Description: chart drawing components for the KDE Office Suite
 #Package: kformula
 #Architecture: any
 #Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-#Suggests: khelpcenter, koffice-doc-html
+#Suggests: khelpcenter4, koffice-doc-html
 #Description: a formula editor for the KDE Office Suite
 # KFormula is a formula editor that provides the basic input facilities
 # and the support functionality expected of a KOffice application.
@@ -130,7 +130,7 @@ Description: chart drawing components for the KDE Office Suite
 Package: kplato
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Description: an integrated project management and planning tool
  KPlato is a project management application, allowing for the planning and
  scheduling of projects. It is in the very early stages of development.
@@ -142,7 +142,7 @@ Package: kpresenter
 Architecture: any
 Depends: ${shlibs:Depends}, ${perl:Depends}, koffice-libs (>= ${source:Version})
 Recommends: libkscan1
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Replaces: kpresenter-data (<< 1:1.9.90)
 Description: a presentation program for the KDE Office Suite
  KPresenter is a fully-featured presentation program.  Presentations can
@@ -155,7 +155,8 @@ Package: krita
 Architecture: any
 Depends: ${shlibs:Depends}, krita-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
 Recommends: dcraw
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
+Replaces: krita-data (<< 1:1.9.98.6)
 Description: a pixel-based image manipulation program for the KDE Office Suite
  Krita is a painting and image editing application for KOffice. Krita contains
  both ease-of-use and fun features like guided painting.
@@ -176,7 +177,7 @@ Description: data files for Krita painting program
 Package: kspread
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Description: a spreadsheet for the KDE Office Suite
  KSpread is a powerful spreadsheet application.  It is scriptable and
  provides both table-oriented sheets and support for complex mathematical
@@ -187,7 +188,8 @@ Description: a spreadsheet for the KDE Office Suite
 Package: kword
 Architecture: any
 Depends: ${shlibs:Depends}, kword-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
+Replaces: kword-data (<< 1:1.9.98.6)
 Description: a word processor for the KDE Office Suite
  KWord is a FrameMaker-like word processing and desktop publishing
  application.  KWord is capable of creating demanding and professional
@@ -210,7 +212,7 @@ Description: data files for KWord word processor
 Package: kthesaurus
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Description: thesaurus for the KDE Office Suite
  KThesaurus lists words related to a given term and offers a user interface
  to WordNet, a powerful lexical reference system. By default, only the English
@@ -231,7 +233,7 @@ Description: common libraries and binaries for the KDE Office Suite
 
 Package: koffice-data
 Architecture: all
-Suggests: khelpcenter, koffice-doc-html
+Suggests: khelpcenter4, koffice-doc-html
 Conflicts: krita-data (< 1.9.96.0~that.is.really.1.9.95.10-2), karbon (< 1.9.96.0~that.is.really.1.9.95.10-2), kformula (< 1.9.96.0~that.is.really.1.9.95.10-2)
 Description: common shared data for the KDE Office Suite
  This package provides the architecture-independent data that is shared
