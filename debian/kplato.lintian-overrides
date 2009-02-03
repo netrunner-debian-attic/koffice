@@ -1,4 +1,3 @@
-kplato: shlib-missing-in-control-file libkdeinit4_kplato.so for usr/lib/libkdeinit4_kplato.so
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoclear.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoexport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoimport.py #!kross

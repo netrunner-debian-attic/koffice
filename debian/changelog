@@ -1,4 +1,4 @@
-koffice (1:1.9.98.6-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.6-1) experimental; urgency=low
 
   * New upstream beta release.
   * Remove rev907760_thumbnail.patch, merged upstream.
