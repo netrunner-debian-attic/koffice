@@ -26,15 +26,6 @@ Description: KDE Office Suite
  .
  This package provides all the components of KOffice.
 
-Package: koffice-doc
-Section: doc
-Architecture: all
-Description: developer documentation for the KDE Office Suite
- This package contains documentation for the KDE Office Suite, of
- use more for developers creating applications than regular users.
- .
- This package is part of the KDE Office Suite.
-
 Package: koffice-doc-html
 Architecture: all
 Section: doc

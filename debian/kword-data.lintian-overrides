@@ -17,5 +17,3 @@ kword-data: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/samp
 kword-data: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_text.py #!kross
 kword-data: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_toolactions.py #!kross
 kword-data: unusual-interpreter ./usr/share/kde4/apps/kword/scripts/samples/sample_variables.py #!kross
-kword-data: desktop-command-not-in-package /usr/share/applications/kde4/kword.desktop kword
-

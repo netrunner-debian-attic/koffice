@@ -1,4 +1,4 @@
-karbon: shlib-without-versioned-soname usr/lib/libkdeinit4_karbon.so libkdeinit4_karbon.so
+karbon: shlib-missing-in-control-file libkdeinit4_karbon.so for usr/lib/libkdeinit4_karbon.so
 karbon: package-name-doesnt-match-sonames libkarboncommon5 libkarbonui5 libkdeinit4-karbon
 karbon: no-symbols-control-file usr/lib/libkdeinit4_karbon.so
 karbon: no-symbols-control-file usr/lib/libkarboncommon.so.5.0.0
