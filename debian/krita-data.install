@@ -1,3 +1,4 @@
+
 ../icons/krita.xpm usr/share/pixmaps
 usr/share/color/icc/krita/Adobe.icm
 usr/share/color/icc/krita/Apple.icm
@@ -192,6 +193,12 @@ usr/share/kde4/apps/krita/images/previewfilter.png
 usr/share/kde4/apps/krita/kpartplugins/scan-krita.rc
 usr/share/kde4/apps/krita/krita.rc
 usr/share/kde4/apps/krita/krita_readonly.rc
+usr/share/kde4/apps/krita/metadata/schemas/dc.schema
+usr/share/kde4/apps/krita/metadata/schemas/exif.schema
+usr/share/kde4/apps/krita/metadata/schemas/mkn.schema
+usr/share/kde4/apps/krita/metadata/schemas/tiff.schema
+usr/share/kde4/apps/krita/metadata/schemas/xmprights.schema
+usr/share/kde4/apps/krita/metadata/schemas/xmp.schema
 usr/share/kde4/apps/krita/palettes/40_Colors.gpl
 usr/share/kde4/apps/krita/palettes/Named_Colors.gpl
 usr/share/kde4/apps/krita/palettes/new_kde.gpl
@@ -313,15 +320,14 @@ usr/share/kde4/apps/krita/pics/tool_star.png
 usr/share/kde4/apps/krita/pics/unlinked.png
 usr/share/kde4/apps/krita/pics/unlocked.png
 usr/share/kde4/apps/krita/pics/visible.png
-usr/share/kde4/apps/kritaplugins/bigbrother.rc
 usr/share/kde4/apps/kritaplugins/bracketing2hdr.rc
 usr/share/kde4/apps/kritaplugins/colorrange.rc
 usr/share/kde4/apps/kritaplugins/colorspaceconversion.rc
 usr/share/kde4/apps/kritaplugins/dropshadow.rc
+usr/share/kde4/apps/kritaplugins/dynamicbrush.rc
 usr/share/kde4/apps/kritaplugins/histogram.rc
 usr/share/kde4/apps/kritaplugins/imageseparate.rc
 usr/share/kde4/apps/kritaplugins/imagesize.rc
-usr/share/kde4/apps/kritaplugins/kritaglsl.rc
 usr/share/kde4/apps/kritaplugins/kritahistogramdocker.rc
 usr/share/kde4/apps/kritaplugins/layercompose.rc
 usr/share/kde4/apps/kritaplugins/metadataeditor/dublincore.rc
@@ -387,4 +393,5 @@ usr/share/kde4/apps/krita/templates/rgb/white_1024x768.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_1280x1024.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_1600x1200.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_640x480.desktop
+usr/share/kde4/services/kritadynamicbrush.desktop
 usr/share/mime/packages/krita_ora.xml

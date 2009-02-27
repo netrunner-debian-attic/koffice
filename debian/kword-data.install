@@ -1,3 +1,4 @@
+
 ../icons/kword.xpm usr/share/pixmaps
 usr/share/icons/hicolor/16x16/apps/kword.png
 usr/share/icons/hicolor/22x22/apps/kword.png
@@ -54,6 +55,7 @@ usr/share/kde4/apps/kword/scripts/samples/sample_text.py
 usr/share/kde4/apps/kword/scripts/samples/sample_toolactions.py
 usr/share/kde4/apps/kword/scripts/samples/sample_variables.py
 usr/share/kde4/apps/kword/scripts/scripts.rc
+usr/share/kde4/apps/kword/styles/defaultstyles.xml
 usr/share/kde4/apps/kword/templates/CardsAndLabels/BusinessCards10.desktop
 usr/share/kde4/apps/kword/templates/CardsAndLabels/.directory
 usr/share/kde4/apps/kword/templates/CardsAndLabels/LabelsL16.desktop
