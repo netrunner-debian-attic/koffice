@@ -1,4 +1,4 @@
-koffice (1:1.9.98.7-1) UNRELEASED; urgency=low
+koffice (1:1.9.98.7-1) experimental; urgency=low
 
   * New upstream beta release.
   * Update install files.
