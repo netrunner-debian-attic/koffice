@@ -3,8 +3,10 @@ koffice (1:1.9.98.7-1) UNRELEASED; urgency=low
   * New upstream beta release.
   * Update install files.
   * Remove file installed by accident. (Closes: #514806)
+  * Remove Recommends: libkscan1 from kpresenter (this came from KDE3).
+  * Remove Debian menu files and icon of not shipped binaries.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 26 Feb 2009 23:56:43 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 27 Feb 2009 19:35:09 +0100
 
 koffice (1:1.9.98.6-1) experimental; urgency=low
 

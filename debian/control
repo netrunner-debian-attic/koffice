@@ -132,7 +132,6 @@ Description: an integrated project management and planning tool
 Package: kpresenter
 Architecture: any
 Depends: ${shlibs:Depends}, ${perl:Depends}, koffice-libs (>= ${source:Version})
-Recommends: libkscan1
 Suggests: khelpcenter4, koffice-doc-html
 Replaces: kpresenter-data (<< 1:1.9.90)
 Description: a presentation program for the KDE Office Suite
