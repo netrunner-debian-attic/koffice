@@ -194,7 +194,6 @@ usr/share/kde4/services/kritatrianglecolorselector.desktop
 usr/share/kde4/services/kritaunsharpfilter.desktop
 usr/share/kde4/services/kritawavefilter.desktop
 usr/share/kde4/services/krita_xyz_u16_plugin.desktop
-usr/share/kde4/services/ServiceMenus/kivio_konqi.desktop
 usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
 usr/share/kde4/servicetypes/krita_dock.desktop
 usr/share/kde4/servicetypes/krita_filter.desktop
