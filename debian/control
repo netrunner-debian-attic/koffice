@@ -1,5 +1,4 @@
 Source: koffice
-Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Raúl Sánchez Siles <rasasi78@gmail.com>
@@ -211,6 +210,7 @@ Description: thesaurus for the KDE Office Suite
  This package is part of the KDE Office Suite.
 
 Package: koffice-libs
+Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-data (>= ${source:Version})
 Recommends: latex-xft-fonts, ruby, python
@@ -222,6 +222,7 @@ Description: common libraries and binaries for the KDE Office Suite
  This package is part of the KDE Office Suite.
 
 Package: koffice-data
+Section: libs
 Architecture: all
 Suggests: khelpcenter4, koffice-doc-html
 Conflicts: krita-data (< 1.9.96.0~that.is.really.1.9.95.10-2), karbon (< 1.9.96.0~that.is.really.1.9.95.10-2), kformula (< 1.9.96.0~that.is.really.1.9.95.10-2)
