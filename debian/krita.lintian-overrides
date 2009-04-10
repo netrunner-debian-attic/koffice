@@ -4,5 +4,4 @@ krita: no-symbols-control-file usr/lib/libkritalibpaintop.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkdeinit4_krita.so
 krita: no-symbols-control-file usr/lib/libKritaRulerAssistantCommon.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritagrayscale.so.5.0.0
-krita: no-symbols-control-file usr/lib/libkrossmodulekrita.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritaui.so.5.0.0
