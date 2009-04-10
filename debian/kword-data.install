@@ -91,3 +91,4 @@ usr/share/kde4/apps/kword/templates/Normal/TwoColumns.desktop
 usr/share/kde4/apps/kword/templates/Normal/TwoColumnsLetter.desktop
 usr/share/kde4/apps/xsltfilter/export/kword/xslfo/kword2xslfo-table.xsl
 usr/share/kde4/apps/xsltfilter/export/kword/xslfo/main.xsl
+usr/share/kde4/config/kwordrc

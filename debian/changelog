@@ -1,8 +1,10 @@
-koffice (1:1.9.98.7-2) UNRELEASED; urgency=low
+koffice (1:1.9.99.0-1) UNRELEASED; urgency=low
 
-  * ... 
+  * New upstream release.
+  * Needs qt 4.5, versioned depend of libqt4-opengl-dev on (>= 4.5.0).
+  * Update install files.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 01 Mar 2009 17:20:48 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Fri, 10 Apr 2009 08:36:43 +0200
 
 koffice (1:1.9.98.7-1) experimental; urgency=low
 

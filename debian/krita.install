@@ -28,7 +28,6 @@ usr/lib/kde4/kritahistogramdocker.so
 usr/lib/kde4/kritahistogram.so
 usr/lib/kde4/kritaimageenhancement.so
 usr/lib/kde4/kritaimagesize.so
-usr/lib/kde4/kritakscolorspacesplugin.so
 usr/lib/kde4/kritalayercompose.so
 usr/lib/kde4/kritalenscorrectionfilter.so
 usr/lib/kde4/kritalevelfilter.so
@@ -36,8 +35,6 @@ usr/lib/kde4/kritametadataeditor.so
 usr/lib/kde4/kritamodifyselection.so
 usr/lib/kde4/kritanoisefilter.so
 usr/lib/kde4/kritaoilpaintfilter.so
-usr/lib/kde4/kritapainterlymixer.so
-usr/lib/kde4/kritapanorama.so
 usr/lib/kde4/kritapixelizefilter.so
 usr/lib/kde4/kritaraindropsfilter.so
 usr/lib/kde4/kritarandompickfilter.so
@@ -45,7 +42,6 @@ usr/lib/kde4/kritarotateimage.so
 usr/lib/kde4/kritaroundcornersfilter.so
 usr/lib/kde4/kritarulerassistanttool.so
 usr/lib/kde4/kritarulerassistantview.so
-usr/lib/kde4/kritascripting.so
 usr/lib/kde4/kritaselectiontools.so
 usr/lib/kde4/kritaseparatechannels.so
 usr/lib/kde4/kritashearimage.so
@@ -93,6 +89,8 @@ usr/lib/libkritagrayscale.so.5
 usr/lib/libkritagrayscale.so.5.0.0
 usr/lib/libkritaimage.so.5
 usr/lib/libkritaimage.so.5.0.0
+usr/lib/libkritalibbrush.so.5
+usr/lib/libkritalibbrush.so.5.0.0
 usr/lib/libkritalibpaintop.so.5
 usr/lib/libkritalibpaintop.so.5.0.0
 usr/lib/libKritaRulerAssistantCommon.so.5
@@ -101,8 +99,6 @@ usr/lib/libkritaui.so.5
 usr/lib/libkritaui.so.5.0.0
 usr/lib/libkrita_xyz_u16.so.5
 usr/lib/libkrita_xyz_u16.so.5.0.0
-usr/lib/libkrossmodulekrita.so.5
-usr/lib/libkrossmodulekrita.so.5.0.0
 usr/share/applications/kde4/krita_bmp.desktop
 usr/share/applications/kde4/krita.desktop
 usr/share/applications/kde4/krita_jpeg.desktop
@@ -143,7 +139,6 @@ usr/share/kde4/services/kritaimageenhancement.desktop
 usr/share/kde4/services/kritaimagesize.desktop
 usr/share/kde4/services/krita_jpeg_export.desktop
 usr/share/kde4/services/krita_jpeg_import.desktop
-usr/share/kde4/services/kritakscolorspacesplugin.desktop
 usr/share/kde4/services/kritalayercompose.desktop
 usr/share/kde4/services/kritalenscorrectionfilter.desktop
 usr/share/kde4/services/kritalevelfilter.desktop
@@ -155,8 +150,6 @@ usr/share/kde4/services/kritanoisefilter.desktop
 usr/share/kde4/services/kritaoilpaintfilter.desktop
 usr/share/kde4/services/krita_ora_export.desktop
 usr/share/kde4/services/krita_ora_import.desktop
-usr/share/kde4/services/kritapainterlymixer.desktop
-usr/share/kde4/services/kritapanorama.desktop
 usr/share/kde4/services/kritapart.desktop
 usr/share/kde4/services/krita_pdf_import.desktop
 usr/share/kde4/services/kritapixelizefilter.desktop
@@ -169,7 +162,6 @@ usr/share/kde4/services/kritarotateimage.desktop
 usr/share/kde4/services/kritaroundcornersfilter.desktop
 usr/share/kde4/services/kritarulerassistanttool.desktop
 usr/share/kde4/services/kritarulerassistantview.desktop
-usr/share/kde4/services/kritascripting.desktop
 usr/share/kde4/services/kritaselectiontools.desktop
 usr/share/kde4/services/kritaseparatechannels.desktop
 usr/share/kde4/services/kritashearimage.desktop
@@ -195,6 +187,7 @@ usr/share/kde4/services/kritaunsharpfilter.desktop
 usr/share/kde4/services/kritawavefilter.desktop
 usr/share/kde4/services/krita_xyz_u16_plugin.desktop
 usr/share/kde4/services/ServiceMenus/krita_konqi.desktop
+usr/share/kde4/servicetypes/krita_brush.desktop
 usr/share/kde4/servicetypes/krita_dock.desktop
 usr/share/kde4/servicetypes/krita_filter.desktop
 usr/share/kde4/servicetypes/krita_generator.desktop

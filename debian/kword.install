@@ -22,6 +22,8 @@ usr/lib/kde4/libpalmdocexport.so
 usr/lib/kde4/libpalmdocimport.so
 usr/lib/kde4/librtfexport.so
 usr/lib/kde4/librtfimport.so
+usr/lib/kde4/libwmfexport.so
+usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwmlexport.so
 usr/lib/kde4/libwmlimport.so
 usr/lib/kde4/libwpexport.so
