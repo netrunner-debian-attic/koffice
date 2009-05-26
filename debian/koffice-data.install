@@ -1,9 +1,6 @@
 usr/share/applications/kde4/koffice.desktop
 usr/share/color/icc/pigment/CMY.icm                                              
 usr/share/color/icc/pigment/cmyk.icm                                             
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-attach-path.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-detach-path.png
-usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-tool.png
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-center-koffice.png
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-left-koffice.png
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-right-koffice.png
@@ -94,6 +91,9 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/arrow-left-up.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/arrow-right-down.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/arrow-right-up.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/arrow-up.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-attach-path.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-detach-path.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/artistictext-tool.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/borderbottom.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/borderleft.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/borderoutline.png
