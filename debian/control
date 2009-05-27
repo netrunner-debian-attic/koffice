@@ -12,7 +12,7 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
  pstoedit, libgmm++-dev,
-Standards-Version: 3.8.0
+Standards-Version: 3.8.1
 Homepage: http://www.koffice.org/
 
 Package: koffice
@@ -243,7 +243,7 @@ Description: common libraries for KOffice (development files)
  This package is part of the KDE Office Suite.
 
 Package: koffice-dbg
-Section: libdevel
+Section: debug
 Architecture: any
 Priority: extra
 Depends: koffice-libs (= ${binary:Version}), kdebase-runtime-dbg
