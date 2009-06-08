@@ -1,3 +1,10 @@
+koffice (1:2.0.0-2) experimental; urgency=low
+
+  * TODO: /usr/lib/kde4/libwmfexport.so and /usr/lib/kde4/libwmfimport.so in
+  kword are using  using libkarboncommon.so.5 and libkarbonui.so.5 from karbon
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 08 Jun 2009 21:33:51 +0200
+
 koffice (1:2.0.0-1) experimental; urgency=low
 
   * New upstream release. First final release of the koffice 2 series.
