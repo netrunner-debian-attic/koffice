@@ -100,6 +100,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/borderoutline.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/borderright.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/bordertop.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/bring_forward.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/calligraphy.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/cancel.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/char.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/clipart_from_file.png
@@ -161,6 +162,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/music-tiednote.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/neonpen.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/ok.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/page.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/pattern.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/raise.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/select.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/send_backward.png
@@ -213,6 +215,7 @@ usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-intersection.png
 usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-node.png
 usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-orto.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/arrow-right-koffice.png
+usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/backgroundtool.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/callout-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/circular-arrow-shape.png
 usr/share/kde4/apps/koffice/icons/oxygen/22x22/actions/convert-to-path.png
