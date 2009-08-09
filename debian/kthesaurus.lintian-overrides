@@ -1,3 +1,4 @@
+kthesaurus: shlib-without-versioned-soname usr/lib/libkdeinit4_kthesaurus.so libkdeinit4_kthesaurus.so
 kthesaurus: postinst-must-call-ldconfig usr/lib/libkdeinit4_kthesaurus.so
 kthesaurus: postrm-should-call-ldconfig usr/lib/libkdeinit4_kthesaurus.so
 kthesaurus: package-name-doesnt-match-sonames libkdeinit4-kthesaurus

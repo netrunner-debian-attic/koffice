@@ -10,4 +10,5 @@ kplato: no-symbols-control-file usr/lib/libkplatokernel.so.5.0.0
 kplato: no-symbols-control-file usr/lib/libkplatoprivate.so.5.0.0
 kplato: no-symbols-control-file usr/lib/libkplatomodels.so.5.0.0
 kplato: no-symbols-control-file usr/lib/libkplatoui.so.5.0.0
+kplato: shlib-without-versioned-soname usr/lib/libkdeinit4_kplato.so libkdeinit4_kplato.so
 

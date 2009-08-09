@@ -2,4 +2,5 @@ karbon: package-name-doesnt-match-sonames libkarboncommon5 libkarbonui5 libkdein
 karbon: no-symbols-control-file usr/lib/libkdeinit4_karbon.so
 karbon: no-symbols-control-file usr/lib/libkarboncommon.so.5.0.0
 karbon: no-symbols-control-file usr/lib/libkarbonui.so.5.0.0
+karbon: shlib-without-versioned-soname usr/lib/libkdeinit4_karbon.so libkdeinit4_karbon.so
 

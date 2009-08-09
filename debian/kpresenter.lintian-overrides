@@ -1,4 +1,5 @@
 kpresenter: package-name-doesnt-match-sonames libkdeinit4-kpresenter libkpresenterprivate5
 kpresenter: no-symbols-control-file usr/lib/libkpresenterprivate.so.5.0.0
 kpresenter: no-symbols-control-file usr/lib/libkdeinit4_kpresenter.so
+kpresenter: shlib-without-versioned-soname usr/lib/libkdeinit4_kpresenter.so libkdeinit4_kpresenter.so
 

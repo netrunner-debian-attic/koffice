@@ -1,14 +1,13 @@
-koffice (1:2.0.2-1) UNRELEASED; urgency=low
+koffice (1:2.0.2-1) experimental; urgency=low
 
   * New upstream release.
-  * Update installed files.
+  * Update installed files and lintian overrides.
   * Update to Standards-Version 3.8.2, no changes required.
   * Bump build depends to KDE 4.3.0.
+  * Move /usr/lib/kde4/libwmfexport.so and /usr/lib/kde4/libwmfimport.so to
+    karbon package from kword. Add appropriate Conflicts/Replaces.
 
-  * TODO: /usr/lib/kde4/libwmfexport.so and /usr/lib/kde4/libwmfimport.so in
-  kword are using  using libkarboncommon.so.5 and libkarbonui.so.5 from karbon
-
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 08 Aug 2009 16:17:02 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 09 Aug 2009 21:42:33 +0200
 
 koffice (1:2.0.0-1) experimental; urgency=low
 

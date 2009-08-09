@@ -1,3 +1,4 @@
+kspread: shlib-without-versioned-soname usr/lib/libkdeinit4_kspread.so libkdeinit4_kspread.so
 kspread: package-name-doesnt-match-sonames libkdeinit4-kspread libkspreadcommon5
 kspread: no-symbols-control-file usr/lib/libkdeinit4_kspread.so
 kspread: no-symbols-control-file usr/lib/libkspreadcommon.so.5.0.0

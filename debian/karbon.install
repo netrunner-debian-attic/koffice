@@ -12,6 +12,8 @@ usr/lib/kde4/libkarbonpart.so
 usr/lib/kde4/libkarbonpngexport.so
 usr/lib/kde4/libkarbonsvgexport.so
 usr/lib/kde4/libkarbonsvgimport.so
+usr/lib/kde4/libwmfexport.so
+usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwpgimport.so
 usr/lib/libkarboncommon.so.5
 usr/lib/libkarboncommon.so.5.0.0
