@@ -1,3 +1,5 @@
+krita: no-symbols-control-file usr/lib/libkritadynamicbrush.so.5.0.0
+krita: no-symbols-control-file usr/lib/libkritabasicdynamicshapeprogram.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritaimage.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkrita_xyz_u16.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritalibpaintop.so.5.0.0
@@ -7,6 +9,5 @@ krita: no-symbols-control-file usr/lib/libkritagrayscale.so.5.0.0
 krita: no-symbols-control-file usr/lib/libkritaui.so.5.0.0
 krita: shlib-without-versioned-soname usr/lib/libkdeinit4_krita.so libkdeinit4_krita.so
 krita: no-symbols-control-file usr/lib/libkritabasicdynamiccoloringprogram.so.5.0.0
-krita: no-symbols-control-file usr/lib/libkritadynamicbrush.so.5.0.0 I: krita: no-symbols-control-file usr/lib/libkritabasicdynamicshapeprogram.so.5.0.0 
 krita: no-symbols-control-file usr/lib/libkritalibbrush.so.5.0.0
 krita: package-name-doesnt-match-sonames libKritaRulerAssistantCommon5 libkdeinit4-krita libkrita-xyz-u16-5 libkritabasicdynamiccoloringprogram5 libkritabasicdynamicshapeprogram5 libkritadynamicbrush5 libkritagrayscale5 libkritaimage5 libkritalibbrush5 libkritalibpaintop5 libkritaui5

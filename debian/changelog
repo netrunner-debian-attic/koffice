@@ -7,7 +7,7 @@ koffice (1:2.0.2-1) experimental; urgency=low
   * Move /usr/lib/kde4/libwmfexport.so and /usr/lib/kde4/libwmfimport.so to
     karbon package from kword. Add appropriate Conflicts/Replaces.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 09 Aug 2009 21:42:33 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 10 Aug 2009 00:18:16 +0200
 
 koffice (1:2.0.0-1) experimental; urgency=low
 
