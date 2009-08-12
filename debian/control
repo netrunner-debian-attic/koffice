@@ -8,7 +8,7 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libboost-dev, libopenexr-dev, libeigen2-dev (>= 2.0~beta6),
  libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
  libexiv2-dev, libgraphicsmagick1-dev, 
- libwv2-dev, libmysqlclient15-dev, libpoppler-qt4-dev, 
+ libwv2-dev, libmysqlclient-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
  pstoedit, libgmm++-dev,

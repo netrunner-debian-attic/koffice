@@ -1,3 +1,9 @@
+koffice (1:2.0.2-2) experimental; urgency=low
+
+  * Update build depend from libmysqlclient15-dev to libmysqlclient-dev.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 12 Aug 2009 17:34:11 +0200
+
 koffice (1:2.0.2-1) experimental; urgency=low
 
   * New upstream release.
