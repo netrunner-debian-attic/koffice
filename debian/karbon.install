@@ -15,15 +15,14 @@ usr/lib/kde4/libkarbonsvgimport.so
 usr/lib/kde4/libwmfexport.so
 usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwpgimport.so
-usr/lib/libkarboncommon.so.5
-usr/lib/libkarboncommon.so.5.0.0
-usr/lib/libkarbonui.so.5
-usr/lib/libkarbonui.so.5.0.0
+usr/lib/libkarboncommon.so.6
+usr/lib/libkarboncommon.so.6.0.0
+usr/lib/libkarbonui.so.6
+usr/lib/libkarbonui.so.6.0.0
 usr/lib/libkdeinit4_karbon.so
 usr/share/applications/kde4/karbon.desktop
 usr/share/kde4/apps/karbon/gradients/allcolors.kgr
 usr/share/kde4/apps/karbon/gradients/simple.kgr
-usr/share/kde4/apps/karbon/icons/crystalsvg/scalable/actions/template_empty.svgz
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/14_layer_deletelayer.png
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/14_layer_lowerlayer.png
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/14_layer_newlayer.png
@@ -74,6 +73,7 @@ usr/share/kde4/apps/karbon/icons/hicolor/22x22/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/32x32/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/48x48/actions/template_empty.png
 usr/share/kde4/apps/karbon/icons/hicolor/48x48/apps/karbon.png
+usr/share/kde4/apps/karbon/icons/hicolor/scalable/actions/template_empty.svgz
 usr/share/kde4/apps/karbon/icons/hicolor/scalable/apps/karbon.svgz
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_novisible.png
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_visible.png
