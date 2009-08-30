@@ -1,0 +1,9 @@
+
+usr/bin/kformula
+usr/lib/libkdeinit_kformula.so
+usr/lib/libkformulalib.so.6
+usr/lib/libkformulalib.so.6.0.0
+usr/lib/libkformulaprivate.so.6
+usr/lib/libkformulaprivate.so.6.0.0
+usr/share/applications/kde4/kformula.desktop
+usr/share/kde4/services/kformulapart.desktop
