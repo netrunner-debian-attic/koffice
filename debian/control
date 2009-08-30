@@ -93,21 +93,21 @@ Description: chart drawing components for the KDE Office Suite
 # across many operating systems and hardware platforms.
 # .
 # This package is part of the KDE Office Suite.
-#
-#Package: kformula
-#Architecture: any
-#Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-#Suggests: khelpcenter4, koffice-doc-html
-#Description: a formula editor for the KDE Office Suite
-# KFormula is a formula editor that provides the basic input facilities
-# and the support functionality expected of a KOffice application.
-# .
-# Features include easy Greek letter insertion, intelligent cursor
-# movement, advanced syntax highlighting, multi-level undo support,
-# LaTeX export and MathML import.
-# .
-# This package is part of the KDE Office Suite.
-#
+
+Package: kformula
+Architecture: any
+Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
+Suggests: khelpcenter4, koffice-doc-html
+Description: a formula editor for the KDE Office Suite
+ KFormula is a formula editor that provides the basic input facilities
+ and the support functionality expected of a KOffice application.
+ .
+ Features include easy Greek letter insertion, intelligent cursor
+ movement, advanced syntax highlighting, multi-level undo support,
+ LaTeX export and MathML import.
+ .
+ This package is part of the KDE Office Suite.
+
 #Package: kivio
 #Architecture: any
 #Section: graphics
