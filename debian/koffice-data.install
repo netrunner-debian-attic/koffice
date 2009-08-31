@@ -1,6 +1,6 @@
 usr/share/applications/kde4/koffice.desktop
 usr/share/color/icc/pigment/CMY.icm                                              
-usr/share/color/icc/pigment/cmyk.icm                                             
+usr/share/color/icc/pigment/fogra27l.icm
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-center-koffice.png
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-left-koffice.png
 usr/share/icons/oxygen/16x16/actions/object-align-horizontal-right-koffice.png
@@ -28,11 +28,6 @@ usr/share/icons/oxygen/scalable/actions/shape-choose.svgz
 usr/share/icons/oxygen/scalable/actions/table.svgz
 usr/share/kde4/apps/koffice/autocorrect/autocorrect.xml
 usr/share/kde4/apps/koffice/autocorrect/en_US.xml
-usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/bring_forward.svgz
-usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/format-line-spacing-double.svgz
-usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/format-line-spacing-normal.svgz
-usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/format-line-spacing-triple.svgz
-usr/share/kde4/apps/koffice/icons/crystalsvg/scalable/actions/send_backward.svgz
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/borderoutline.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/bring_forward.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_butt.png
@@ -208,6 +203,11 @@ usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-simp
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/format-line-spacing-triple.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/send_backward.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/apps/key_bindings.png
+usr/share/kde4/apps/koffice/icons/hicolor/scalable/actions/bring_forward.svgz
+usr/share/kde4/apps/koffice/icons/hicolor/scalable/actions/format-line-spacing-double.svgz
+usr/share/kde4/apps/koffice/icons/hicolor/scalable/actions/format-line-spacing-normal.svgz
+usr/share/kde4/apps/koffice/icons/hicolor/scalable/actions/format-line-spacing-triple.svgz
+usr/share/kde4/apps/koffice/icons/hicolor/scalable/actions/send_backward.svgz
 usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/animation-kpresenter.png
 usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-extension.png
 usr/share/kde4/apps/koffice/icons/oxygen/16x16/actions/snap-guideline.png
@@ -293,6 +293,7 @@ usr/share/kde4/services/kofficethumbnail.desktop
 usr/share/kde4/services/kopabackgroundtool.desktop
 usr/share/kde4/services/kounavail.desktop
 usr/share/kde4/services/musicshape.desktop
+usr/share/kde4/services/paragraphtool.desktop
 usr/share/kde4/services/pathshapes.desktop
 usr/share/kde4/services/pictureshape.desktop
 usr/share/kde4/services/spellcheck.desktop
@@ -301,6 +302,7 @@ usr/share/kde4/services/textvariables.desktop
 usr/share/kde4/services/thesaurustool.desktop
 usr/share/kde4/services/xslt_export.desktop
 usr/share/kde4/services/xslt_import.desktop
+usr/share/kde4/servicetypes/filtereffect.desktop
 usr/share/kde4/servicetypes/flake.desktop
 usr/share/kde4/servicetypes/flakedevice.desktop
 usr/share/kde4/servicetypes/flakeshape.desktop
