@@ -11,10 +11,14 @@ usr/lib/kde4/kpr_pageeffect_slidewipe.so
 usr/lib/kde4/kpr_shapeanimation_example.so
 usr/lib/kde4/libFilterkpr2odf.so
 usr/lib/kde4/libkpresenterpart.so
+usr/lib/kde4/libpowerpointimport.so
 usr/lib/libkdeinit4_kpresenter.so
 usr/lib/libkpresenterprivate.so.6
 usr/lib/libkpresenterprivate.so.6.0.0
 usr/share/applications/kde4/kpresenter.desktop
+usr/share/icons/hicolor/16x16/actions/black.png
+usr/share/icons/hicolor/16x16/actions/highlight.png
+usr/share/icons/hicolor/16x16/actions/pen.png
 usr/share/icons/hicolor/16x16/apps/kpresenter.png
 usr/share/icons/hicolor/22x22/apps/kpresenter.png
 usr/share/icons/hicolor/32x32/apps/kpresenter.png
@@ -62,9 +66,11 @@ usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscape.desktop
 usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscapeWide.desktop
 usr/share/kde4/apps/kpresenter/templates/Screen/.source/emptyLandscape.otp
 usr/share/kde4/apps/kpresenter/templates/Screen/.source/emptyLandscapeWide.otp
+usr/share/kde4/config/kpresenterrc
 usr/share/kde4/services/Filterkpr2odf.desktop
 usr/share/kde4/services/kpresentereventactions.desktop
 usr/share/kde4/services/kpresenterpart.desktop
+usr/share/kde4/services/kpresenter_powerpoint_import.desktop
 usr/share/kde4/services/kpresentertoolanimation.desktop
 usr/share/kde4/services/kpr_pageeffect_barwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_clockwipe.desktop
