@@ -1,0 +1,13 @@
+Disable kformula until it is decided whether will be shipped in Koffice 2.1 or
+not.
+--- koffice-2.0.81.orig/CMakeLists.txt
++++ koffice-2.0.81/CMakeLists.txt
+@@ -391,6 +391,8 @@
+     macro_optional_add_subdirectory(kword)
+ endif(SHOULD_BUILD_KWORD)
+ 
++# Disable kformula for now
++set(SHOULD_BUILD_KFORMULA FALSE)
+ if (SHOULD_BUILD_KFORMULA)
+     macro_optional_add_subdirectory(kformula)
+ endif (SHOULD_BUILD_KFORMULA)

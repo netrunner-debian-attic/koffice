@@ -12,7 +12,7 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
  pstoedit, libgmm++-dev,
-Standards-Version: 3.8.2
+Standards-Version: 3.8.3
 Homepage: http://www.koffice.org/
 
 Package: koffice
@@ -94,19 +94,19 @@ Description: chart drawing components for the KDE Office Suite
 # .
 # This package is part of the KDE Office Suite.
 
-Package: kformula
-Architecture: any
-Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter4, koffice-doc-html
-Description: a formula editor for the KDE Office Suite
- KFormula is a formula editor that provides the basic input facilities
- and the support functionality expected of a KOffice application.
- .
- Features include easy Greek letter insertion, intelligent cursor
- movement, advanced syntax highlighting, multi-level undo support,
- LaTeX export and MathML import.
- .
- This package is part of the KDE Office Suite.
+#Package: kformula
+#Architecture: any
+#Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
+#Suggests: khelpcenter4, koffice-doc-html
+#Description: a formula editor for the KDE Office Suite
+# KFormula is a formula editor that provides the basic input facilities
+# and the support functionality expected of a KOffice application.
+# .
+# Features include easy Greek letter insertion, intelligent cursor
+# movement, advanced syntax highlighting, multi-level undo support,
+# LaTeX export and MathML import.
+# .
+# This package is part of the KDE Office Suite.
 
 #Package: kivio
 #Architecture: any
