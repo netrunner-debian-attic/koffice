@@ -1,6 +1,7 @@
 usr/bin/kplato
 usr/bin/kplatowork
 usr/lib/kde4/krossmodulekplato.so
+usr/lib/kde4/libicalendarexport.so
 usr/lib/kde4/libkplatopart.so
 usr/lib/kde4/libkplatoworkpart.so
 usr/lib/libkdeinit4_kplato.so

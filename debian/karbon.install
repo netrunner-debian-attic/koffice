@@ -10,6 +10,7 @@ usr/lib/kde4/karbon_whirlpinchplugin.so
 usr/lib/kde4/libkarbon1ximport.so
 usr/lib/kde4/libkarbonepsimport.so
 usr/lib/kde4/libkarbonpart.so
+usr/lib/kde4/libkarbonpdfimport.so
 usr/lib/kde4/libkarbonpngexport.so
 usr/lib/kde4/libkarbonsvgexport.so
 usr/lib/kde4/libkarbonsvgimport.so
