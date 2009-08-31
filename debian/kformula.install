@@ -1,9 +1,25 @@
 
 usr/bin/kformula
+usr/lib/kde4/formulashape.so
+usr/lib/kde4/libkformulapart.so
 usr/lib/libkdeinit_kformula.so
 usr/lib/libkformulalib.so.6
 usr/lib/libkformulalib.so.6.0.0
 usr/lib/libkformulaprivate.so.6
 usr/lib/libkformulaprivate.so.6.0.0
 usr/share/applications/kde4/kformula.desktop
+usr/share/icons/hicolor/16x16/apps/kformula.png
+usr/share/icons/hicolor/22x22/apps/kformula.png
+usr/share/icons/hicolor/32x32/apps/kformula.png
+usr/share/icons/hicolor/48x48/apps/kformula.png
+usr/share/kde4/apps/formulashape/fonts/ArevBd.ttf
+usr/share/kde4/apps/formulashape/fonts/ArevBI.ttf
+usr/share/kde4/apps/formulashape/fonts/ArevIt.ttf
+usr/share/kde4/apps/formulashape/fonts/Arev.ttf
+usr/share/kde4/apps/formulashape/fonts/cmex10.ttf
+usr/share/kde4/apps/kformula/kformula.rc
+usr/share/kde4/apps/kformula/kformula_readonly.rc
+usr/share/kde4/apps/kformula/tips
+usr/share/kde4/services/formulashape.desktop
 usr/share/kde4/services/kformulapart.desktop
+usr/share/kde4/services/ServiceMenus/kformula_konqi.desktop

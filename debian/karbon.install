@@ -1,6 +1,7 @@
 ../icons/karbon.xpm usr/share/pixmaps
 usr/bin/karbon
 usr/lib/kde4/karbondockersplugin.so
+usr/lib/kde4/karbonfiltereffects.so
 usr/lib/kde4/karbon_flattenpathplugin.so
 usr/lib/kde4/karbon_refinepathplugin.so
 usr/lib/kde4/karbon_roundcornersplugin.so
@@ -90,7 +91,9 @@ usr/share/kde4/config/karbonrc
 usr/share/kde4/services/karbon_1x_import.desktop
 usr/share/kde4/services/karbondockersplugin.desktop
 usr/share/kde4/services/karbon_eps_import.desktop
+usr/share/kde4/services/karbonfiltereffects.desktop
 usr/share/kde4/services/karbonpart.desktop
+usr/share/kde4/services/karbon_pdf_import.desktop
 usr/share/kde4/services/karbon_png_export.desktop
 usr/share/kde4/services/karbon_svg_export.desktop
 usr/share/kde4/services/karbon_svg_import.desktop
