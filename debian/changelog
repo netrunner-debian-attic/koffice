@@ -1,11 +1,11 @@
 koffice (1:2.0.81-1) UNRELEASED; urgency=low
 
   * New upstream release, KDE 2.1 first beta.
-  * Re-add kformula.
+  * TODO: Re-add kformula ? No sure it is ready, at least the binary is not.
   * Update installed files.
   * Update not-installed files: remove kformula files.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 24 Aug 2009 20:54:04 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 31 Aug 2009 16:01:35 +0200
 
 koffice (1:2.0.2-2) experimental; urgency=low
 
