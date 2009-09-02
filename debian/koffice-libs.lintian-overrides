@@ -1,17 +1,31 @@
-koffice-libs: package-name-doesnt-match-sonames libflake6 libkochart5 libkoffice-graya-u16-5 libkofficegrayau8colorspace5 libkoguiutils5 libkokross5 libkomain5 libkoodf5 libkopageapp5 libkoresources5 libkostore5 libkotext5 libkowmf5 libkwmf5 libkwordexportfilters5 libpigmentcms5
+koffice-libs: package-name-doesnt-match-sonames libflake6 libkoaction6 libkoaspectbutton6 libkobase6 libkocharacterselectiondialog6 libkocolorwidgets6 libkocvsimport6 libkodocumentsectionbox6 libkoffice-graya-u16-6 libkofficegrayau8colorspace6 libkoinput6 libkokross6 libkolinestyleselector6 libkomain6 libkoodf6 libkoopenpane6 libkopageapp6 libkopagelayout6 libkopicture6 libkoplugin6 libkoprogress6 libkoresources6 libkoresourcewidget6 libkostore6 libkotext6 libkowmf6 libkozoomaction6 libkwmf6 libpigmentcms6
 koffice-libs: no-symbols-control-file usr/lib/libkwmf.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoodf.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoresources.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkochart.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libflake.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoffice_graya_u16.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkotext.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkofficegrayau8colorspace.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkomain.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkokross.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkwordexportfilters.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkowmf.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkoguiutils.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkopageapp.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkostore.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libpigmentcms.so.6.0.0 
+koffice-libs: no-symbols-control-file usr/lib/libkolinestyleselector.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkocharacterselectiondialog.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoplugin.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoaspectbutton.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkopicture.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoresourcewidget.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkodocumentsectionbox.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoinput.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoprogress.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkocolorwidgets.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkopagelayout.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkocvsimport.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkobase.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkozoomaction.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoaction.so.6.0.0
+koffice-libs: no-symbols-control-file usr/lib/libkoopenpane.so.6.0.0
+

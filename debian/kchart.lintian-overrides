@@ -1,4 +1,4 @@
 kchart: no-symbols-control-file usr/lib/libkdchart.so.6.0.0
 kchart: no-symbols-control-file usr/lib/libkchartcommon.so.6.0.0
 kchart: no-symbols-control-file usr/lib/libchartshapelib.so.6.0.0
-kchart: package-name-doesnt-match-sonames libchartshapelib6 libkchartcommon5 libkdchart6
+kchart: package-name-doesnt-match-sonames libchartshapelib6 libkchartcommon6 libkdchart6 libkochart6
