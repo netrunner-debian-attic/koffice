@@ -60,13 +60,12 @@ usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/add_milestone.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/add_sub_task.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/add_task.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/gantt_chart.png
-usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/indent_task.png
-usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/move_task_down.png
-usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/move_task_up.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/pert_chart.png
+usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/project-baseline-add.png
+usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/project-baselined.png
+usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/project-baseline-remove.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/project_calculate.png
 usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/resources.png
-usr/share/kde4/apps/kplato/icons/hicolor/22x22/actions/unindent_task.png
 usr/share/kde4/apps/kplato/icons/hicolor/48x48/actions/template_timechart.png
 usr/share/kde4/apps/kplato/icons/hicolor/scalable/actions/template_timechart.svgz
 usr/share/kde4/apps/kplato/kpartplugins/scripting.rc
