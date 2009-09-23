@@ -1,10 +1,11 @@
 koffice (1:2.0.82-1) experimental; urgency=low
 
   * New upstream release, KOffice 2.1 second beta.
+  * Remove disable_kformula patch, kformula dir has been removed.
   * Update installed files.
   * Add versioned build-depend on wv2 (>= 0.4.0).
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 21 Sep 2009 01:22:08 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 23 Sep 2009 12:19:36 +0200
 
 koffice (1:2.0.81-1) experimental; urgency=low
 
