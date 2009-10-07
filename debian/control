@@ -216,7 +216,7 @@ Package: koffice-libs
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-data (>= ${source:Version})
-Recommends: latex-xft-fonts, ruby, python
+Recommends: ttf-lyx, ruby, python
 Suggests: wordnet, texlive
 Description: common libraries and binaries for the KDE Office Suite
  This package provides the libraries and binaries that are shared amongst
