@@ -1,10 +1,16 @@
-koffice (1:2.0.82-2) UNRELEASED; urgency=low
+koffice (1:2.0.83-1) UNRELEASED; urgency=low
+
+  * New upstream release, KOffice 2.1 third beta.
 
   +++ Changes by Pino Toscano:
 
   * Switch from the transitional latex-xft-fonts to ttf-lyx. (Closes: #539533)
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 05 Oct 2009 11:56:28 +0200
+  +++ Changes by Ana Beatriz Guerrero Lopez:
+  
+  * Add versioned build-depend on wv2 (>= 0.4.0).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 12 Oct 2009 00:55:09 +0200
 
 koffice (1:2.0.82-1) experimental; urgency=low
 
