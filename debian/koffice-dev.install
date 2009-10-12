@@ -89,6 +89,7 @@ usr/include/KoCopyController.h
 usr/include/KoCutController.h
 usr/include/KoDataCenter.h
 usr/include/KoDockFactory.h
+usr/include/KoDockRegistry.h
 usr/include/KoDocumentEntry.h
 usr/include/KoDocument.h
 usr/include/KoDocumentInfoDlg.h
@@ -332,7 +333,6 @@ usr/lib/libkritalibbrush.so
 usr/lib/libkritalibpaintop.so
 usr/lib/libkritaui.so
 usr/lib/libkrita_xyz_u16.so
-usr/lib/libkrossmodulekrita.so
 usr/lib/libkspreadcommon.so
 usr/lib/libkwmf.so
 usr/lib/libkwordexportfilters.so

@@ -12,14 +12,8 @@ koffice-libs: no-symbols-control-file usr/lib/libkowmf.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkopageapp.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkostore.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libpigmentcms.so.6.0.0 
-koffice-libs: no-symbols-control-file usr/lib/libkolinestyleselector.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoplugin.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkopicture.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkoresourcewidget.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkoprogress.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkocolorwidgets.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkopagelayout.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkobase.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoaction.so.6.0.0
-koffice-libs: no-symbols-control-file usr/lib/libkoopenpane.so.6.0.0
 
