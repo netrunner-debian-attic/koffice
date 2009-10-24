@@ -3,3 +3,4 @@ kword: no-symbols-control-file usr/lib/libkwordprivate.so.6.0.0
 kword: no-symbols-control-file usr/lib/libkdeinit4_kword.so
 kword: shlib-without-versioned-soname usr/lib/libkdeinit4_kword.so libkdeinit4_kword.so
 kword: package-name-doesnt-match-sonames libkdeinit4-kword libkwordexportfilters6 libkwordprivate6
+kword: no-symbols-control-file usr/lib/libkwordexportfilters.so.6.0.0

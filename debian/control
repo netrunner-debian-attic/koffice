@@ -3,11 +3,11 @@ Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Raúl Sánchez Siles <rasasi78@gmail.com>
-Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>= 0.4.1),
+Build-Depends: cdbs, debhelper (>= 7), cmake (>= 2.6.2), pkg-kde-tools (>= 0.4.1),
  kdepimlibs5-dev (>= 4:4.3.0), libkdcraw7-dev (>= 4:4.3.0), libphonon-dev (>= 4:4.3.0),
  libboost-dev, libopenexr-dev, libeigen2-dev (>= 2.0~beta6),
  libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
- libexiv2-dev, libgraphicsmagick1-dev, 
+ libexiv2-dev, libpng12-dev, liblcms1-dev, libtiff4-dev, libjpeg62-dev, 
  libwv2-dev (>= 0.4.1), libmysqlclient-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 

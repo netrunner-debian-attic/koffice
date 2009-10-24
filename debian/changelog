@@ -1,3 +1,15 @@
+koffice (1:2.0.91-1) experimental; urgency=low
+
+  * New upstream release, KOffice 2.1 Release Candidate 1.
+  * Update build depends:
+   - Remove libgraphicsmagick1-dev, only older versions works for krita.
+   - Add libpng12-dev, liblcms1-dev, libtiff4-dev, libjpeg62-dev. They were
+     pulled by libgraphicsmagick1-dev before.
+  * Update installed files. 
+  * Update lintian overrides.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 24 Oct 2009 20:35:53 +0200
+
 koffice (1:2.0.83-1) experimental; urgency=low
 
   * New upstream release, KOffice 2.1 third beta.

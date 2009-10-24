@@ -10,7 +10,6 @@ usr/lib/kde4/kofficedockers.so
 usr/lib/kde4/koffice_graya_u16_plugin.so
 usr/lib/kde4/kofficegrayau8plugin.so
 usr/lib/kde4/kofficescan.so
-usr/lib/kde4/kofficesimpletextedit.so
 usr/lib/kde4/kofficethumbnail.so
 usr/lib/kde4/kopabackgroundtool.so
 usr/lib/kde4/libgenerickofilter.so

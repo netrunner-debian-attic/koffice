@@ -16,4 +16,4 @@ koffice-libs: no-symbols-control-file usr/lib/libkoplugin.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkocolorwidgets.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkobase.so.6.0.0
 koffice-libs: no-symbols-control-file usr/lib/libkoaction.so.6.0.0
-
+koffice-libs: no-symbols-control-file usr/lib/libkowidgets.so.6.0.0
