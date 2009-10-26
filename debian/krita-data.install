@@ -283,6 +283,7 @@ usr/share/kde4/apps/krita/pics/deletelayer.png
 usr/share/kde4/apps/krita/pics/krita_draw_path.png
 usr/share/kde4/apps/krita/pics/krita_tool_color_fill.png
 usr/share/kde4/apps/krita/pics/krita_tool_color_picker.png
+usr/share/kde4/apps/krita/pics/krita_tool_dyna.png
 usr/share/kde4/apps/krita/pics/krita_tool_ellipse.png
 usr/share/kde4/apps/krita/pics/krita_tool_freehand.png
 usr/share/kde4/apps/krita/pics/krita_tool_gradient.png
@@ -293,6 +294,7 @@ usr/share/kde4/apps/krita/pics/krita_tool_move.png
 usr/share/kde4/apps/krita/pics/krita_tool_pan.png
 usr/share/kde4/apps/krita/pics/krita_tool_rectangle.png
 usr/share/kde4/apps/krita/pics/krita_tool_ruler_assistant.png
+usr/share/kde4/apps/krita/pics/krita_tool_transform.png
 usr/share/kde4/apps/krita/pics/linked.png
 usr/share/kde4/apps/krita/pics/locked.png
 usr/share/kde4/apps/krita/pics/lowerlayer.png
@@ -390,4 +392,5 @@ usr/share/kde4/apps/krita/templates/rgb/white_1280x1024.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_1600x1200.desktop
 usr/share/kde4/apps/krita/templates/rgb/white_640x480.desktop
 usr/share/kde4/config/kritarc
+usr/share/kde4/services/kritadefaultdockers.desktop
 usr/share/mime/packages/krita_ora.xml
