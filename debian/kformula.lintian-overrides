@@ -1,0 +1,2 @@
+kformula: shlib-without-versioned-soname usr/lib/libkdeinit_kformula.so libkdeinit_kformula.so
+kformula: package-name-doesnt-match-sonames libkdeinit-kformula libkformulalib6 libkformulaprivate6

@@ -53,6 +53,7 @@ usr/include/kobase_export.h
 usr/include/KoBasicHistogramProducers.h
 usr/include/KoBookmark.h
 usr/include/KoBookmarkManager.h
+usr/include/KoBorder.h
 usr/include/KoCanvasBase.h
 usr/include/KoCanvasController.h
 usr/include/KoCanvasObserver.h
@@ -304,6 +305,8 @@ usr/lib/libkarboncommon.so
 usr/lib/libkarbonui.so
 usr/lib/libkchartcommon.so
 usr/lib/libkdchart.so
+usr/lib/libkformulalib.so
+usr/lib/libkformulaprivate.so
 usr/lib/libkoaction.so
 usr/lib/libkobase.so
 usr/lib/libkochart.so
