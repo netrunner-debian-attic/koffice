@@ -3,9 +3,8 @@ koffice (1:2.1.0-1) experimental; urgency=low
   * New upstream release, KOffice 2.1.
   * Switch to 3.0 (quilt) source format.
   * Updated installed filed and lintian overrides.
-  * Add kformula shape.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 25 Nov 2009 00:06:44 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 26 Nov 2009 00:47:41 +0100
 
 koffice (1:2.0.91-1) experimental; urgency=low
 

@@ -19,7 +19,7 @@ Package: koffice
 Architecture: all
 Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}),
  kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}),
- kword (>= ${source:Version}), kthesaurus (>= ${source:Version}), kformula (>= ${source:Version})
+ kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
 Suggests: koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
@@ -96,19 +96,19 @@ Description: chart drawing components for the KDE Office Suite
 # .
 # This package is part of the KDE Office Suite.
 
-Package: kformula
-Architecture: any
-Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
-Suggests: khelpcenter4, koffice-doc-html
-Description: formula drawings for the KDE Office Suite
- KFormula contains the formula drawing components.  It can be used to embed
- formulas into KOffice documents.
- .
- Features include easy Greek letter insertion, intelligent cursor
- movement, advanced syntax highlighting, multi-level undo support,
- LaTeX export and MathML import.
- .
- This package is part of the KDE Office Suite.
+#Package: kformula
+#Architecture: any
+#Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
+#Suggests: khelpcenter4, koffice-doc-html
+#Description: formula drawings for the KDE Office Suite
+# KFormula contains the formula drawing components.  It can be used to embed
+# formulas into KOffice documents.
+# .
+# Features include easy Greek letter insertion, intelligent cursor
+# movement, advanced syntax highlighting, multi-level undo support,
+# LaTeX export and MathML import.
+# .
+# This package is part of the KDE Office Suite.
 # KFormula is a formula editor that provides the basic input facilities
 # and the support functionality expected of a KOffice application.
 # .
