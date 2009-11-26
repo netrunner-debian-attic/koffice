@@ -305,8 +305,6 @@ usr/lib/libkarboncommon.so
 usr/lib/libkarbonui.so
 usr/lib/libkchartcommon.so
 usr/lib/libkdchart.so
-usr/lib/libkformulalib.so
-usr/lib/libkformulaprivate.so
 usr/lib/libkoaction.so
 usr/lib/libkobase.so
 usr/lib/libkochart.so
