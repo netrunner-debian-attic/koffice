@@ -1,6 +1,13 @@
 koffice (1:2.1.82-1) UNRELEASED; urgency=low
 
-  * New upstream release, KOffice 2.2 XX
+  * New upstream release, KOffice 2.2 XX:
+    - fixes connecters not moving back to their old position on undo.
+      (Closes: #431581)
+    - autocorrection now retains capitalisation when replacing words.
+      (Closes: #522132)
+    - fixes handling of JPEG files with unicode characters in path.
+      (Closes: #573322)
+    
   * Update build depends:
     - Add kdelibs5-dev and with kdepimlibs5-dev, update versioned depend to 
       KDE 4.4.2.
