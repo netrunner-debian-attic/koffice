@@ -6,15 +6,16 @@ Uploaders: Ana Beatriz Guerrero Lopez <ana@debian.org>, Raúl Sánchez Siles <ra
 Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>= 0.4.1),
  kdelibs5-dev (>= 4:4.4.2), kdepimlibs5-dev (>= 4:4.4.2), libkdcraw-dev (>= 4:4.4.2), 
  libphonon-dev (>= 4:4.6.0really4.4.0),
- shared-mime-info,
+ shared-mime-info, 
  libboost-dev, libopenexr-dev, libeigen2-dev (>= 2.0~beta6),
  libqimageblitz-dev, libqca2-dev, libglew1.5-dev,
- libexiv2-dev, libpng12-dev, liblcms1-dev, libtiff4-dev, libjpeg62-dev, 
+ libexiv2-dev, libpng12-dev, liblcms1-dev, libtiff4-dev, libjpeg62-dev,
+ libgif-dev, libopenjpeg-dev,
  libwv2-dev (>= 0.4.1), libmysqlclient-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
- pstoedit, libgmm++-dev, libsqlite3-dev
-Standards-Version: 3.8.3
+ pstoedit, libgmm++-dev, libsqlite3-dev, libfftw3-dev
+Standards-Version: 3.8.4
 Homepage: http://www.koffice.org/
 
 Package: koffice
