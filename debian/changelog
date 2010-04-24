@@ -19,6 +19,7 @@ koffice (1:2.1.91-1) UNRELEASED; urgency=low
     - Add libsqlite3-dev for kexi.
     - Add libgif-dev, libopenjpeg-dev and libfftw3-dev.
   * Update to Standards-Version 3.8.4, no changes required.
+  * Remove README.Debian, koffice 2 is not so unstable anymore.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 25 Apr 2010 00:42:33 +0200
 
