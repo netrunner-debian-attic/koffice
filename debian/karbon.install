@@ -1,6 +1,5 @@
 ../icons/karbon.xpm usr/share/pixmaps
 usr/bin/karbon
-usr/lib/kde4/karbondockersplugin.so
 usr/lib/kde4/karbonfiltereffects.so
 usr/lib/kde4/karbon_flattenpathplugin.so
 usr/lib/kde4/karbon_refinepathplugin.so
@@ -17,12 +16,17 @@ usr/lib/kde4/libkarbonsvgimport.so
 usr/lib/kde4/libwmfexport.so
 usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwpgimport.so
-usr/lib/libkarboncommon.so.6
-usr/lib/libkarboncommon.so.6.0.0
-usr/lib/libkarbonui.so.6
-usr/lib/libkarbonui.so.6.0.0
+usr/lib/libkarboncommon.so.7
+usr/lib/libkarboncommon.so.7.0.0
+usr/lib/libkarbonui.so.7
+usr/lib/libkarbonui.so.7.0.0
 usr/lib/libkdeinit4_karbon.so
 usr/share/applications/kde4/karbon.desktop
+usr/share/icons/hicolor/16x16/apps/karbon.png
+usr/share/icons/hicolor/22x22/apps/karbon.png
+usr/share/icons/hicolor/32x32/apps/karbon.png
+usr/share/icons/hicolor/48x48/apps/karbon.png
+usr/share/icons/hicolor/scalable/apps/karbon.svgz
 usr/share/kde4/apps/karbon/gradients/allcolors.kgr
 usr/share/kde4/apps/karbon/gradients/simple.kgr
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/14_layer_deletelayer.png
@@ -42,7 +46,6 @@ usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/strokedocker.png
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/tooloptions.png
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/translate.png
 usr/share/kde4/apps/karbon/icons/hicolor/16x16/actions/unlocked.png
-usr/share/kde4/apps/karbon/icons/hicolor/16x16/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_ellipse.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_flatten.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/14_gradient.png
@@ -71,12 +74,8 @@ usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/linestyle.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/outlinedlg.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/pagesetup.png
 usr/share/kde4/apps/karbon/icons/hicolor/22x22/actions/solidfilldlg.png
-usr/share/kde4/apps/karbon/icons/hicolor/22x22/apps/karbon.png
-usr/share/kde4/apps/karbon/icons/hicolor/32x32/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/48x48/actions/template_empty.png
-usr/share/kde4/apps/karbon/icons/hicolor/48x48/apps/karbon.png
 usr/share/kde4/apps/karbon/icons/hicolor/scalable/actions/template_empty.svgz
-usr/share/kde4/apps/karbon/icons/hicolor/scalable/apps/karbon.svgz
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_novisible.png
 usr/share/kde4/apps/karbon/icons/oxygen/16x16/actions/14_layer_visible.png
 usr/share/kde4/apps/karbon/karbon.rc
@@ -90,7 +89,6 @@ usr/share/kde4/apps/karbon/templates/Basic/empty.desktop
 usr/share/kde4/apps/karbon/templates/Basic/.source/empty.odg
 usr/share/kde4/config/karbonrc
 usr/share/kde4/services/karbon_1x_import.desktop
-usr/share/kde4/services/karbondockersplugin.desktop
 usr/share/kde4/services/karbon_eps_import.desktop
 usr/share/kde4/services/karbonfiltereffects.desktop
 usr/share/kde4/services/karbonpart.desktop
