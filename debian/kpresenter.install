@@ -12,9 +12,10 @@ usr/lib/kde4/kpr_shapeanimation_example.so
 usr/lib/kde4/libFilterkpr2odf.so
 usr/lib/kde4/libkpresenterpart.so
 usr/lib/kde4/libpowerpointimport.so
+usr/lib/kde4/libpptximport.so
 usr/lib/libkdeinit4_kpresenter.so
-usr/lib/libkpresenterprivate.so.6
-usr/lib/libkpresenterprivate.so.6.0.0
+usr/lib/libkpresenterprivate.so.7
+usr/lib/libkpresenterprivate.so.7.0.0
 usr/share/applications/kde4/kpresenter.desktop
 usr/share/icons/hicolor/16x16/actions/black.png
 usr/share/icons/hicolor/16x16/actions/highlight.png
@@ -71,6 +72,7 @@ usr/share/kde4/services/Filterkpr2odf.desktop
 usr/share/kde4/services/kpresentereventactions.desktop
 usr/share/kde4/services/kpresenterpart.desktop
 usr/share/kde4/services/kpresenter_powerpoint_import.desktop
+usr/share/kde4/services/kpresenter_pptx_import.desktop
 usr/share/kde4/services/kpresentertoolanimation.desktop
 usr/share/kde4/services/kpr_pageeffect_barwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_clockwipe.desktop
@@ -79,6 +81,7 @@ usr/share/kde4/services/kpr_pageeffect_iriswipe.desktop
 usr/share/kde4/services/kpr_pageeffect_matrixwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_slidewipe.desktop
 usr/share/kde4/services/kpr_shapeanimation_example.desktop
+usr/share/kde4/services/kprvariables.desktop
 usr/share/kde4/services/ServiceMenus/kpresenter_konqi.desktop
 usr/share/kde4/servicetypes/kpr_pageeffect.desktop
 usr/share/kde4/servicetypes/kpr_shapeanimation.desktop
