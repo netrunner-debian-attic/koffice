@@ -1,6 +1,6 @@
 koffice (1:2.1.91-1) UNRELEASED; urgency=low
 
-  * New upstream release, KOffice 2.2 XX:
+  * New upstream release, KOffice 2.2 RC1:
     - fixes connecters in Kivio not moving back to their old position on undo.
       (Closes: #431581)
     - KWord autocorrection now retains capitalisation when replacing words.
@@ -20,7 +20,7 @@ koffice (1:2.1.91-1) UNRELEASED; urgency=low
     - Add libgif-dev, libopenjpeg-dev and libfftw3-dev.
   * Update to Standards-Version 3.8.4, no changes required.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 24 Apr 2010 22:07:57 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 25 Apr 2010 00:42:33 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 
