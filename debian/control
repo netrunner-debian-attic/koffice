@@ -14,7 +14,8 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libwv2-dev (>= 0.4.1), libmysqlclient-dev, libpoppler-qt4-dev, 
  libgsl0-dev, libwpd8-dev, libwpg-dev,
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
- pstoedit, libgmm++-dev, libsqlite3-dev, libfftw3-dev
+ pstoedit, libgmm++-dev, libfftw3-dev,
+ libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev
 Standards-Version: 3.8.4
 Homepage: http://www.koffice.org/
 
@@ -22,7 +23,8 @@ Package: koffice
 Architecture: all
 Depends: karbon (>= ${source:Version}), kchart (>= ${source:Version}), kplato (>= ${source:Version}),
  kpresenter (>= ${source:Version}), krita (>= ${source:Version}), kspread (>= ${source:Version}),
- kword (>= ${source:Version}), kthesaurus (>= ${source:Version})
+ kword (>= ${source:Version}), kthesaurus (>= ${source:Version}),
+ kexi (>= ${source:Version}), kformula (>= ${source:Version})
 Suggests: koffice-doc-html (>= ${source:Version})
 Description: KDE Office Suite
  KOffice is an integrated office suite for KDE, the K Desktop
@@ -105,46 +107,46 @@ Description: chart drawing components for the KDE Office Suite
 # This package is part of the KDE Office Suite.
 
 
-#Package: kexi
-#Architecture: any
-#Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
+Package: kexi
+Architecture: any
+Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 #Suggests: kexi-mdb-plugin
-#Description: integrated database environment for the KDE Office Suite
-# Kexi is an integrated data management application. It can be used for
-# creating database schemas, inserting data, performing queries, and
-# processing data. Forms can be created to provide a custom interface to
-# your data. All database objects - tables, queries and forms - are stored
-# in the database, making it easy to share data and design.
-# .
-# Kexi is considered as a long awaited Open Source competitor for MS Access,
-# Filemaker and Oracle Forms. Its development is motivated by the lack of
-# Rapid Application Development (RAD) tools for database systems that are
-# sufficiently powerful, inexpensive, open standards driven and portable
-# across many operating systems and hardware platforms.
-# .
-# This package is part of the KDE Office Suite.
+Description: integrated database environment for the KDE Office Suite
+ Kexi is an integrated data management application. It can be used for
+ creating database schemas, inserting data, performing queries, and
+ processing data. Forms can be created to provide a custom interface to
+ your data. All database objects - tables, queries and forms - are stored
+ in the database, making it easy to share data and design.
+ .
+ Kexi is considered as a long awaited Open Source competitor for MS Access,
+ Filemaker and Oracle Forms. Its development is motivated by the lack of
+ Rapid Application Development (RAD) tools for database systems that are
+ sufficiently powerful, inexpensive, open standards driven and portable
+ across many operating systems and hardware platforms.
+ .
+ This package is part of the KDE Office Suite.
 
-#Package: kformula
-#Architecture: any
-#Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
+Package: kformula
+Architecture: any
+Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 #Suggests: khelpcenter4, koffice-doc-html
-#Description: formula drawings for the KDE Office Suite
-# KFormula contains the formula drawing components.  It can be used to embed
-# formulas into KOffice documents.
-# .
-# Features include easy Greek letter insertion, intelligent cursor
-# movement, advanced syntax highlighting, multi-level undo support,
-# LaTeX export and MathML import.
-# .
-# This package is part of the KDE Office Suite.
-# KFormula is a formula editor that provides the basic input facilities
-# and the support functionality expected of a KOffice application.
-# .
-# Features include easy Greek letter insertion, intelligent cursor
-# movement, advanced syntax highlighting, multi-level undo support,
-# LaTeX export and MathML import.
-# .
-# This package is part of the KDE Office Suite.
+Description: formula drawings for the KDE Office Suite
+ KFormula contains the formula drawing components.  It can be used to embed
+ formulas into KOffice documents.
+ .
+ Features include easy Greek letter insertion, intelligent cursor
+ movement, advanced syntax highlighting, multi-level undo support,
+ LaTeX export and MathML import.
+ .
+ This package is part of the KDE Office Suite.
+ KFormula is a formula editor that provides the basic input facilities
+ and the support functionality expected of a KOffice application.
+ .
+ Features include easy Greek letter insertion, intelligent cursor
+ movement, advanced syntax highlighting, multi-level undo support,
+ LaTeX export and MathML import.
+ .
+ This package is part of the KDE Office Suite.
 
 #Package: kivio
 #Architecture: any
