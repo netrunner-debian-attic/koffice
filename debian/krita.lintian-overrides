@@ -1,9 +1,2 @@
-krita: no-symbols-control-file usr/lib/libkritaimage.so.6.0.0
-krita: no-symbols-control-file usr/lib/libkrita_xyz_u16.so.6.0.0
-krita: no-symbols-control-file usr/lib/libkritalibpaintop.so.6.0.0
-krita: no-symbols-control-file usr/lib/libkdeinit4_krita.so
-krita: no-symbols-control-file usr/lib/libkritagrayscale.so.6.0.0
-krita: no-symbols-control-file usr/lib/libkritaui.so.6.0.0
-krita: shlib-without-versioned-soname usr/lib/libkdeinit4_krita.so libkdeinit4_krita.so
-krita: no-symbols-control-file usr/lib/libkritalibbrush.so.6.0.0
-krita: package-name-doesnt-match-sonames libkdeinit4-krita libkrita-xyz-u16-6 libkritagrayscale6 libkritaimage6 libkritalibbrush6 libkritalibpaintop6 libkritaui6
+krita: package-name-doesnt-match-sonames libkritaimage7 libkritalibbrush7 libkritalibpaintop7 libkritaui7 libkrossmodulekrita7
+

@@ -1,6 +1,1 @@
-karbon: package-name-doesnt-match-sonames libkarboncommon6 libkarbonui6 libkdeinit4-karbon
-karbon: no-symbols-control-file usr/lib/libkdeinit4_karbon.so
-karbon: no-symbols-control-file usr/lib/libkarboncommon.so.6.0.0
-karbon: no-symbols-control-file usr/lib/libkarbonui.so.6.0.0
-karbon: shlib-without-versioned-soname usr/lib/libkdeinit4_karbon.so libkdeinit4_karbon.so
-
+karbon: package-name-doesnt-match-sonames libkarboncommon7 libkarbonui7

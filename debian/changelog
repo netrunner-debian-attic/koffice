@@ -1,4 +1,4 @@
-koffice (1:2.1.91-1) UNRELEASED; urgency=low
+koffice (1:2.1.91-1~pre1) UNRELEASED; urgency=low
 
   * New upstream release, KOffice 2.2 RC1:
     - fixes connecters in Kivio not moving back to their old position on undo.
@@ -19,10 +19,11 @@ koffice (1:2.1.91-1) UNRELEASED; urgency=low
     - Add shared-mime-info.
     - Add libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev for kexi.
     - Add libgif-dev, libopenjpeg-dev and libfftw3-dev.
+  * Update installed files and lintian overrides.
   * Update to Standards-Version 3.8.4, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 25 Apr 2010 15:14:56 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 25 Apr 2010 20:43:50 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 

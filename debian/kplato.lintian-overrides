@@ -1,17 +1,8 @@
+kplato: package-name-doesnt-match-sonames libkplatokernel7 libkplatomodels7 libkplatoprivate7 libkplatoui7 libkplatoworkapp7 libkplatoworkfactory7
+kplato: desktop-entry-lacks-main-category /usr/share/applications/kde4/kplatowork.desktop
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoclear.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoexport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoimport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/resourcesimport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/samples/sample_busyinfocheck.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/samples/sample_project.py #!kross
-kplato: no-symbols-control-file usr/lib/libkplatoworkfactory.so.6.0.0
-kplato: no-symbols-control-file usr/lib/libkplatoworkapp.so.6.0.0
-kplato: no-symbols-control-file usr/lib/libkdeinit4_kplatowork.so
-kplato: no-symbols-control-file usr/lib/libkdeinit4_kplato.so
-kplato: no-symbols-control-file usr/lib/libkplatokernel.so.6.0.0
-kplato: no-symbols-control-file usr/lib/libkplatoprivate.so.6.0.0
-kplato: no-symbols-control-file usr/lib/libkplatomodels.so.6.0.0
-kplato: no-symbols-control-file usr/lib/libkplatoui.so.6.0.0
-kplato: shlib-without-versioned-soname usr/lib/libkdeinit4_kplato.so libkdeinit4_kplato.so
-kplato: shlib-without-versioned-soname usr/lib/libkdeinit4_kplatowork.so libkdeinit4_kplatowork.so
-kplato: package-name-doesnt-match-sonames libkdeinit4-kplato libkdeinit4-kplatowork libkplatokernel6 libkplatomodels6 libkplatoprivate6 libkplatoui6 libkplatoworkapp6 libkplatoworkfactory6
