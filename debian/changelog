@@ -1,4 +1,4 @@
-koffice (1:2.1.91-1~pre1) UNRELEASED; urgency=low
+koffice (1:2.1.91-1~pre2) UNRELEASED; urgency=low
 
   * New upstream release, KOffice 2.2 RC1:
     - fixes connecters in Kivio not moving back to their old position on undo.
@@ -10,7 +10,7 @@ koffice (1:2.1.91-1~pre1) UNRELEASED; urgency=low
     - Kivio now allows uninteractive printing from the command line.
       (Closes: #396907)
   
-  * Readd Kexi and Kformula.
+  * Readd Kexi and KFormula (only shape).
   * Update build depends:
     - Add kdelibs5-dev and with kdepimlibs5-dev, update versioned depend to 
       KDE 4.4.2.
@@ -23,7 +23,7 @@ koffice (1:2.1.91-1~pre1) UNRELEASED; urgency=low
   * Update to Standards-Version 3.8.4, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 25 Apr 2010 20:43:50 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 29 Apr 2010 01:31:27 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 

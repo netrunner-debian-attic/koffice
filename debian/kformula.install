@@ -1,7 +1,5 @@
-usr/bin/kformula
 usr/lib/kde4/formulashape.so
 usr/lib/kde4/libkformulapart.so
-usr/lib/libkdeinit_kformula.so
 usr/lib/libkformulalib.so.7
 usr/lib/libkformulalib.so.7.0.0
 usr/lib/libkformulaprivate.so.7
