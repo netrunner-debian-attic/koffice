@@ -23,7 +23,10 @@ koffice (1:2.1.91-1~pre2) UNRELEASED; urgency=low
   * Update to Standards-Version 3.8.4, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 29 Apr 2010 01:31:27 +0200
+  [ Pino Toscano ]
+  * Few touches to the descriptions.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 17 May 2010 10:12:23 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 
