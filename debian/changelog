@@ -1,4 +1,4 @@
-koffice (1:2.1.91-1~pre2) UNRELEASED; urgency=low
+koffice (1:2.2.0-1~pre0) UNRELEASED; urgency=low
 
   * New upstream release, KOffice 2.2 RC1:
     - fixes connecters in Kivio not moving back to their old position on undo.
@@ -26,7 +26,7 @@ koffice (1:2.1.91-1~pre2) UNRELEASED; urgency=low
   [ Pino Toscano ]
   * Few touches to the descriptions.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 17 May 2010 10:12:23 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 24 May 2010 17:46:12 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 
