@@ -33,6 +33,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/bring_forward.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_butt.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_round.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/cap_square.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/checkbox.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_fill.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/color_line.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/delete_table_col.png
@@ -59,6 +60,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/join_miter.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/join_round.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/kdb_form.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/kdb_table.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/line.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/linewidth.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/send_backward.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_first.png
@@ -66,6 +68,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_last.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_left.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_right.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/textcolor.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-barcode.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_orientation.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-sort-ascending.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-sort-descending.png
@@ -98,6 +101,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/bring_forward.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/calligraphy.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/cancel.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/char.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/checkbox.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/clipart_from_file.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/clipart.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/color_fill.png
@@ -128,6 +132,8 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/insert_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/insert_table_row.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/kotext-character.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/kotext-paragraph.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/label.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/line.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/lower.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/music-cross.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/music-dottednote.png
@@ -175,6 +181,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/slide.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/spreadsheetshape.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/toggle_docbrowser.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/ungroup.png
+usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-barcode.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-sort-ascending.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/view-sort-descending.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-page.png
@@ -182,6 +189,7 @@ usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-pixels.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-two-pages.png
 usr/share/kde4/apps/koffice/icons/hicolor/22x22/actions/zoom-width.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/bring_forward.png
+usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/checkbox.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/delete_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/delete_table_row.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/format-font-size-less.png
@@ -193,7 +201,9 @@ usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/grid.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/insert_table_col.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/insert_table_row.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/send_backward.png
+usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/shapes.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/spreadsheetshape.png
+usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/view-barcode.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/view-sort-ascending.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/apps/go.png
 usr/share/kde4/apps/koffice/icons/hicolor/48x48/actions/bring_forward.png
