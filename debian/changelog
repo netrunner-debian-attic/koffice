@@ -22,8 +22,8 @@ koffice (1:2.2.0-1~pre1) experimental; urgency=low
   * Update installed files and lintian overrides.
   * Update to Standards-Version 3.8.4, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
-
-  * TODO: doc/kde4 -> doc/kde
+  * Bump pkg-kde-tools build dependency to (>= 0.9) for HTML_INSTALL_DIR, move
+    documentation from usr/share/doc/kde4 references to usr/share/doc/kde.
 
   [ Pino Toscano ]
   * Few touches to the descriptions.
