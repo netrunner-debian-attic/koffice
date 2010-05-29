@@ -23,6 +23,8 @@ koffice (1:2.2.0-1~pre1) experimental; urgency=low
   * Update to Standards-Version 3.8.4, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
 
+  * TODO: doc/kde4 -> doc/kde
+
   [ Pino Toscano ]
   * Few touches to the descriptions.
 
