@@ -15,6 +15,7 @@ koffice (1:2.2.0-1~pre1) experimental; urgency=low
     - Add kdelibs5-dev and with kdepimlibs5-dev, update versioned depend to 
       KDE 4.4.3.
     - Replace libkdcraw7-dev with libkdcraw-dev also versioned to KDE 4.4.3.
+      (Closes: #580782)
     - Update phonon version to 4:4.6.0really4.4.0, from the new split phonon.
     - Add shared-mime-info.
     - Add libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev for kexi.
@@ -28,7 +29,7 @@ koffice (1:2.2.0-1~pre1) experimental; urgency=low
   [ Pino Toscano ]
   * Few touches to the descriptions.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 25 May 2010 17:46:47 +0200
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 02 Jun 2010 11:14:48 +0200
 
 koffice (1:2.1.1-1) experimental; urgency=low
 
