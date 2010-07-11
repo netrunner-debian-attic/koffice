@@ -124,7 +124,6 @@ usr/share/kde4/apps/krita/images/krita-duplicate.png
 usr/share/kde4/apps/krita/images/krita-dyna.png
 usr/share/kde4/apps/krita/images/krita-eraser.png
 usr/share/kde4/apps/krita/images/krita-filterop.png
-usr/share/kde4/apps/krita/images/krita-mixing.png
 usr/share/kde4/apps/krita/images/krita-paintbrush.png
 usr/share/kde4/apps/krita/images/krita-pencil.png
 usr/share/kde4/apps/krita/images/krita-smudgebrush.png
@@ -250,6 +249,8 @@ usr/share/kde4/apps/krita/pics/lowerlayer.png
 usr/share/kde4/apps/krita/pics/newlayer.png
 usr/share/kde4/apps/krita/pics/novisible.png
 usr/share/kde4/apps/krita/pics/openhand_cursor.xpm
+usr/share/kde4/apps/krita/pics/paintop_settings_01.png
+usr/share/kde4/apps/krita/pics/paintop_settings_02.png
 usr/share/kde4/apps/krita/pics/polyline.png
 usr/share/kde4/apps/krita/pics/raiselayer.png
 usr/share/kde4/apps/krita/pics/rotate_cursor.xpm
