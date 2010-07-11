@@ -21,8 +21,10 @@ koffice (1:2.2.1-1) experimental; urgency=low
     - Add libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev for kexi.
     - Add libgif-dev, libopenjpeg-dev and libfftw3-dev.
   * Update installed files and lintian overrides.
-  * Update to Standards-Version 3.8.4, no changes required.
+  * Update to Standards-Version 3.9.0, no changes required.
   * Remove README.Debian, koffice 2 is not so unstable anymore.
+  * Update debian/copyright, years and remove reference to BSD license, include
+    BSD license instead.
   * Bump pkg-kde-tools build dependency to (>= 0.9) for HTML_INSTALL_DIR, move
     documentation from usr/share/doc/kde4 references to usr/share/doc/kde.
 

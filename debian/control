@@ -16,7 +16,7 @@ Build-Depends: cdbs, debhelper (>= 7), quilt, cmake (>= 2.6.2), pkg-kde-tools (>
  libxslt1-dev, libqt4-opengl-dev (>= 4.5.0), 
  pstoedit, libgmm++-dev, libfftw3-dev,
  libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev
-Standards-Version: 3.8.4
+Standards-Version: 3.9.0
 Homepage: http://www.koffice.org/
 
 Package: koffice
