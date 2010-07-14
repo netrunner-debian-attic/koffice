@@ -1,3 +1,10 @@
+koffice (1:2.2.1-3) UNRELEASED; urgency=low
+
+  * Fix build in armel, backport rev 1124896 from upstream.
+  * TODO: kformula description (Closes: #589066)
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Wed, 14 Jul 2010 20:55:40 +0200
+
 koffice (1:2.2.1-2) unstable; urgency=low
 
   * Upload to unstable. 
