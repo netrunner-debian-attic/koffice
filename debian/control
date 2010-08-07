@@ -132,7 +132,7 @@ Package: kformula
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 #Suggests: khelpcenter4, koffice-doc-html
-Description: formula drawings for the KDE Office Suite
+Description: formula drawing component for the KDE Office Suite
  KFormula contains the formula drawing components.  It can be used to embed
  formulas into KOffice documents.
  .
@@ -141,14 +141,14 @@ Description: formula drawings for the KDE Office Suite
  LaTeX export and MathML import.
  .
  This package is part of the KDE Office Suite.
- KFormula is a formula editor that provides the basic input facilities
- and the support functionality expected of a KOffice application.
- .
- Features include easy Greek letter insertion, intelligent cursor
- movement, advanced syntax highlighting, multi-level undo support,
- LaTeX export and MathML import.
- .
- This package is part of the KDE Office Suite.
+# KFormula is a formula editor that provides the basic input facilities
+# and the support functionality expected of a KOffice application.
+# .
+# Features include easy Greek letter insertion, intelligent cursor
+# movement, advanced syntax highlighting, multi-level undo support,
+# LaTeX export and MathML import.
+# .
+# This package is part of the KDE Office Suite.
 
 #Package: kivio
 #Architecture: any
