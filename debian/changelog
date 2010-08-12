@@ -1,7 +1,8 @@
 koffice (1:2.2.1-3) UNRELEASED; urgency=low
 
   [ Ana Beatriz Guerrero Lopez ]
-  * Fix build in armel, backport rev 1124896 from upstream.
+  * Fix build in armel, backport commits from upstream. 
+    Patch fixes_arm.diff.
 
   [ Raúl Sánchez Siles ]
   * Fix "koffice-doc-html should conflict with old kpresenter data"

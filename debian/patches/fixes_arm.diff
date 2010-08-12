@@ -1,0 +1,277 @@
+--- a/krita/plugins/tools/defaulttools/kis_tool_gradient.cc
++++ b/krita/plugins/tools/defaulttools/kis_tool_gradient.cc
+@@ -437,7 +437,7 @@ void KisToolGradient::slotSetReverse(boo
+     m_reverse = state;
+ }
+ 
+-void KisToolGradient::slotSetAntiAliasThreshold(double value)
++void KisToolGradient::slotSetAntiAliasThreshold(qreal value)
+ {
+     m_antiAliasThreshold = value;
+ }
+--- a/krita/plugins/filters/colors/kis_color_to_alpha.cpp
++++ b/krita/plugins/filters/colors/kis_color_to_alpha.cpp
+@@ -97,7 +97,7 @@ void KisFilterColorToAlpha::process(KisC
+         if (srcIt.isSelected()) {
+             quint8 d = cs->difference(color, srcIt.oldRawData());
+             if (d >= threshold) {
+-                cs->setOpacity(dstIt.rawData(), 1.0, 1);
++                cs->setOpacity(dstIt.rawData(), qreal(1.0), 1);
+             } else {
+                 cs->setOpacity(dstIt.rawData(), d / thresholdF, 1);
+             }
+--- a/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_distance.cc
++++ b/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_distance.cc
+@@ -30,7 +30,7 @@ KisDynamicSensorDistance::KisDynamicSens
+ 
+ }
+ 
+-double KisDynamicSensorDistance::parameter(const KisPaintInformation&  pi)
++qreal KisDynamicSensorDistance::parameter(const KisPaintInformation&  pi)
+ {
+     m_time += pi.movement().norm();
+     if (m_time > m_length) {
+--- a/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_distance.h
++++ b/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_distance.h
+@@ -33,7 +33,7 @@ public:
+ 
+     KisDynamicSensorDistance();
+     virtual ~KisDynamicSensorDistance() { }
+-    virtual double parameter(const KisPaintInformation&);
++    virtual qreal parameter(const KisPaintInformation&);
+     virtual void reset();
+     virtual QWidget* createConfigurationWidget(QWidget* parent, KisSensorSelector*);
+ public slots:
+--- a/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_time.cc
++++ b/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_time.cc
+@@ -30,7 +30,7 @@ KisDynamicSensorTime::KisDynamicSensorTi
+ 
+ }
+ 
+-double KisDynamicSensorTime::parameter(const KisPaintInformation&  pi)
++qreal KisDynamicSensorTime::parameter(const KisPaintInformation&  pi)
+ {
+     m_time += pi.currentTime() - m_lastTime;
+     m_lastTime = pi.currentTime();
+--- a/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_time.h
++++ b/krita/plugins/paintops/libpaintop/sensors/kis_dynamic_sensor_time.h
+@@ -33,7 +33,7 @@ public:
+ 
+     KisDynamicSensorTime();
+     virtual ~KisDynamicSensorTime() { }
+-    virtual double parameter(const KisPaintInformation&);
++    virtual qreal parameter(const KisPaintInformation&);
+     virtual void reset();
+     virtual QWidget* createConfigurationWidget(QWidget* parent, KisSensorSelector*);
+ public slots:
+--- a/krita/image/kis_cubic_curve.cpp
++++ b/krita/image/kis_cubic_curve.cpp
+@@ -293,7 +293,7 @@ qreal KisCubicCurve::Data::value(qreal x
+      */
+     x = qBound(spline.begin(), x, spline.end());
+     qreal y = spline.getValue(x);
+-    return qBound(0.0, y, 1.0);
++    return qBound(qreal(0.0), y, qreal(1.0));
+ }
+ 
+ template<typename _T_, typename _T2_>
+--- a/krita/image/kis_rect_mask_generator.h
++++ b/krita/image/kis_rect_mask_generator.h
+@@ -34,10 +34,10 @@ class KRITAIMAGE_EXPORT KisRectangleMask
+ 
+ public:
+ 
+-    KisRectangleMaskGenerator(double radius, double ratio, double fh, double fv, int spikes);
++    KisRectangleMaskGenerator(qreal radius, qreal ratio, qreal fh, qreal fv, int spikes);
+     virtual ~KisRectangleMaskGenerator();
+ 
+-    virtual quint8 valueAt(double x, double y) const;
++    virtual quint8 valueAt(qreal x, qreal y) const;
+ 
+     virtual void toXML(QDomDocument& , QDomElement&) const;
+ 
+--- a/krita/image/kis_circle_mask_generator.cpp
++++ b/krita/image/kis_circle_mask_generator.cpp
+@@ -28,7 +28,7 @@ struct KisCircleMaskGenerator::Private {
+     double cachedSpikesAngle;
+ };
+ 
+-KisCircleMaskGenerator::KisCircleMaskGenerator(double radius, double ratio, double fh, double fv, int spikes)
++KisCircleMaskGenerator::KisCircleMaskGenerator(qreal radius, qreal ratio, qreal fh, qreal fv, int spikes)
+         : KisMaskGenerator(radius, ratio, fh, fv, spikes, CIRCLE), d(new Private)
+ {
+     d->xcoef = 2.0 / width();
+@@ -43,7 +43,7 @@ KisCircleMaskGenerator::~KisCircleMaskGe
+     delete d;
+ }
+ 
+-quint8 KisCircleMaskGenerator::valueAt(double x, double y) const
++quint8 KisCircleMaskGenerator::valueAt(qreal x, qreal y) const
+ {
+     if (KisMaskGenerator::d->m_empty) return 255;
+     double xr = (x /*- m_xcenter*/);
+--- a/krita/image/kis_base_mask_generator.cpp
++++ b/krita/image/kis_base_mask_generator.cpp
+@@ -25,7 +25,7 @@
+ #include "kis_circle_mask_generator.h"
+ #include "kis_rect_mask_generator.h"
+ 
+-KisMaskGenerator::KisMaskGenerator(double radius, double ratio, double fh, double fv, int spikes, Type type) : d(new Private)
++KisMaskGenerator::KisMaskGenerator(qreal radius, qreal ratio, qreal fh, qreal fv, int spikes, Type type) : d(new Private)
+ {
+     d->m_radius = radius;
+     d->m_ratio = ratio;
+@@ -75,12 +75,12 @@ KisMaskGenerator* KisMaskGenerator::from
+     }
+ }
+ 
+-double KisMaskGenerator::width() const
++qreal KisMaskGenerator::width() const
+ {
+     return d->m_radius;
+ }
+ 
+-double KisMaskGenerator::height() const
++qreal KisMaskGenerator::height() const
+ {
+     if (d->m_spikes == 2) {
+         return d->m_radius * d->m_ratio;
+--- a/krita/image/kis_rect_mask_generator.cpp
++++ b/krita/image/kis_rect_mask_generator.cpp
+@@ -26,7 +26,7 @@ struct KisRectangleMaskGenerator::Privat
+     double m_c;
+ };
+ 
+-KisRectangleMaskGenerator::KisRectangleMaskGenerator(double radius, double ratio, double fh, double fv, int spikes)
++KisRectangleMaskGenerator::KisRectangleMaskGenerator(qreal radius, qreal ratio, qreal fh, qreal fv, int spikes)
+         : KisMaskGenerator(radius, ratio, fh, fv, spikes, RECTANGLE), d(new Private)
+ {
+     if (KisMaskGenerator::d->m_fv == 0 &&
+@@ -43,7 +43,7 @@ KisRectangleMaskGenerator::~KisRectangle
+     delete d;
+ }
+ 
+-quint8 KisRectangleMaskGenerator::valueAt(double x, double y) const
++quint8 KisRectangleMaskGenerator::valueAt(qreal x, qreal y) const
+ {
+ 
+     if (KisMaskGenerator::d->m_empty) return 255;
+--- a/krita/ui/kis_autogradient.cc
++++ b/krita/ui/kis_autogradient.cc
+@@ -139,7 +139,7 @@ void KisAutogradient::slotChangedLeftOpa
+     KoGradientSegment* segment = gradientSlider->selectedSegment();
+     if (segment) {
+         KoColor c(segment->startColor().toQColor(), segment->startColor().colorSpace());
+-        c.setOpacity(value / 100.0);
++        c.setOpacity(qreal(value) / qreal(100.0));
+         segment->setStartColor(c);
+     }
+     gradientSlider->repaint();
+--- a/krita/plugins/paintops/softbrush/kis_soft_paintop.cpp
++++ b/krita/plugins/paintops/softbrush/kis_soft_paintop.cpp
+@@ -81,8 +81,8 @@ KisSoftPaintOp::KisSoftPaintOp(const Kis
+     m_color = painter->paintColor();
+ 
+     // compute spacing for brush
+-    m_xSpacing = qMax(0.5,m_sizeProperties.spacing * m_sizeProperties.diameter * m_sizeProperties.scale);
+-    m_ySpacing = qMax(0.5,m_sizeProperties.spacing * m_sizeProperties.diameter * m_sizeProperties.aspect * m_sizeProperties.scale);
++    m_xSpacing = qMax(qreal(0.5),m_sizeProperties.spacing * m_sizeProperties.diameter * m_sizeProperties.scale);
++    m_ySpacing = qMax(qreal(0.5),m_sizeProperties.spacing * m_sizeProperties.diameter * m_sizeProperties.aspect * m_sizeProperties.scale);
+     m_spacing = qMax(m_xSpacing, m_ySpacing);
+     
+ #ifdef BENCHMARK
+--- a/krita/plugins/paintops/dynadraw/dyna_brush.cpp
++++ b/krita/plugins/paintops/dynadraw/dyna_brush.cpp
+@@ -134,7 +134,7 @@ void DynaBrush::drawSegment(KisPainter &
+         qreal screenX = m_cursorFilter.velocityX() * m_image->width();
+         qreal screenY = m_cursorFilter.velocityY() * m_image->height();
+         qreal speed = sqrt(screenX * screenX + screenY * screenY);
+-        speed = qBound(0.0, speed , m_properties->circleRadius * 2.0);
++        speed = qBound(qreal(0.0), speed , qreal(m_properties->circleRadius * 2.0));
+ 
+         drawCircle(painter, prev.x(), prev.y() , m_properties->circleRadius + speed, 2 * m_properties->circleRadius  + speed);
+         //painter.paintEllipse(prevl.x(), prevl.y(), qAbs((prevl - prevr).x()), qAbs((prevl - prevr).y()) );
+--- a/krita/plugins/paintops/deform/deform_brush.cpp
++++ b/krita/plugins/paintops/deform/deform_brush.cpp
+@@ -265,8 +265,8 @@ void DeformBrush::paintMask(KisFixedPain
+         for (int x = 0; x < dstWidth; x++){
+             maskX = x - m_centerX;
+             maskY = y - m_centerY;
+-            double rmaskX = cosa * maskX - sina * maskY;
+-            double rmaskY = sina * maskX + cosa * maskY;
++            qreal rmaskX = cosa * maskX - sina * maskY;
++            qreal rmaskY = sina * maskX + cosa * maskY;
+ 
+ 
+             distance = norme(rmaskX * m_majorAxis, rmaskY * m_minorAxis);
+--- a/karbon/plugins/filtereffects/ColorMatrixEffect.cpp	(revision 1151889)
++++ b/karbon/plugins/filtereffects/ColorMatrixEffect.cpp	(revision 1151890)
+@@ -83,7 +83,7 @@
+ void ColorMatrixEffect::setSaturate(qreal value)
+ {
+     m_type = Saturate;
+-    m_value = qBound(0.0, value, 1.0);
++    m_value = qBound(qreal(0.0), value, qreal(1.0));
+ 
+     setIdentity();
+ 
+@@ -190,10 +190,10 @@
+             da *= 255.0;
+ 
+             // set pre-multiplied color values on destination image
+-            dst[row*w+col] = qRgba(static_cast<quint8>(qBound(0.0, dr * da, 255.0)),
+-                                   static_cast<quint8>(qBound(0.0, dg * da, 255.0)),
+-                                   static_cast<quint8>(qBound(0.0, db * da, 255.0)),
+-                                   static_cast<quint8>(qBound(0.0, da, 255.0)));
++            dst[row*w+col] = qRgba(static_cast<quint8>(qBound(qreal(0.0), dr * da, qreal(255.0))),
++                                   static_cast<quint8>(qBound(qreal(0.0), dg * da, qreal(255.0))),
++                                   static_cast<quint8>(qBound(qreal(0.0), db * da, qreal(255.0))),
++                                   static_cast<quint8>(qBound(qreal(0.0), da, qreal(255.0))));
+         }
+     }
+ 
+--- a/karbon/plugins/filtereffects/ComponentTransferEffect.cpp	(revision 1151889)
++++ b/karbon/plugins/filtereffects/ComponentTransferEffect.cpp	(revision 1151890)
+@@ -144,10 +144,10 @@
+             da *= 255.0;
+ 
+             // set pre-multiplied color values on destination image
+-            dst[pixel] = qRgba(static_cast<quint8>(qBound(0.0, dr * da, 255.0)),
+-                               static_cast<quint8>(qBound(0.0, dg * da, 255.0)),
+-                               static_cast<quint8>(qBound(0.0, db * da, 255.0)),
+-                               static_cast<quint8>(qBound(0.0, da, 255.0)));
++            dst[pixel] = qRgba(static_cast<quint8>(qBound(qreal(0.0), dr * da, qreal(255.0))),
++                               static_cast<quint8>(qBound(qreal(0.0), dg * da, qreal(255.0))),
++                               static_cast<quint8>(qBound(qreal(0.0), db * da, qreal(255.0))),
++                               static_cast<quint8>(qBound(qreal(0.0), da, qreal(255.0))));
+         }
+     }
+ 
+--- a/karbon/plugins/filtereffects/CompositeEffect.cpp	(revision 1151889)
++++ b/karbon/plugins/filtereffects/CompositeEffect.cpp	(revision 1151890)
+@@ -109,10 +109,10 @@
+                 da *= 255.0;
+ 
+                 // set pre-multiplied color values on destination image
+-                d = qRgba(static_cast<quint8>(qBound(0.0, dr * da, 255.0)),
+-                          static_cast<quint8>(qBound(0.0, dg * da, 255.0)),
+-                          static_cast<quint8>(qBound(0.0, db * da, 255.0)),
+-                          static_cast<quint8>(qBound(0.0, da, 255.0)));
++                d = qRgba(static_cast<quint8>(qBound(qreal(0.0), dr * da, qreal(255.0))),
++                          static_cast<quint8>(qBound(qreal(0.0), dg * da, qreal(255.0))),
++                          static_cast<quint8>(qBound(qreal(0.0), db * da, qreal(255.0))),
++                          static_cast<quint8>(qBound(qreal(0.0), da, qreal(255.0))));
+             }
+         }
+     } else {
+--- a/libs/flake/tools/KoPathSegmentChangeStrategy.cpp	2010-07-19 22:04:05.000000000 +0000
++++ b/libs/flake/tools/KoPathSegmentChangeStrategy.cpp	2010-07-19 22:04:13.000000000 +0000
+@@ -39,7 +39,7 @@
+ {
+     const qreal eps = std::numeric_limits<qreal>::epsilon();
+     // force segment parameter range to avoid division by zero
+-    m_segmentParam = qBound(eps, m_segmentParam, 1.0-eps);
++    m_segmentParam = qBound(eps, m_segmentParam, qreal(1.0-eps));
+     
+     m_path = segment.pathShape;
+     m_segment = m_path->segmentByIndex(segment.pointIndex);
