@@ -204,9 +204,9 @@
  
  
              distance = norme(rmaskX * m_majorAxis, rmaskY * m_minorAxis);
---- a/karbon/plugins/filtereffects/ColorMatrixEffect.cpp	(revision 1151889)
-+++ b/karbon/plugins/filtereffects/ColorMatrixEffect.cpp	(revision 1151890)
-@@ -83,7 +83,7 @@
+--- a/karbon/plugins/filtereffects/ColorMatrixEffect.cpp
++++ b/karbon/plugins/filtereffects/ColorMatrixEffect.cpp
+@@ -83,7 +83,7 @@ void ColorMatrixEffect::setColorMatrix(c
  void ColorMatrixEffect::setSaturate(qreal value)
  {
      m_type = Saturate;
@@ -215,7 +215,7 @@
  
      setIdentity();
  
-@@ -190,10 +190,10 @@
+@@ -190,10 +190,10 @@ QImage ColorMatrixEffect::processImage(c
              da *= 255.0;
  
              // set pre-multiplied color values on destination image
@@ -230,9 +230,9 @@
          }
      }
  
---- a/karbon/plugins/filtereffects/ComponentTransferEffect.cpp	(revision 1151889)
-+++ b/karbon/plugins/filtereffects/ComponentTransferEffect.cpp	(revision 1151890)
-@@ -144,10 +144,10 @@
+--- a/karbon/plugins/filtereffects/ComponentTransferEffect.cpp
++++ b/karbon/plugins/filtereffects/ComponentTransferEffect.cpp
+@@ -144,10 +144,10 @@ QImage ComponentTransferEffect::processI
              da *= 255.0;
  
              // set pre-multiplied color values on destination image
@@ -247,9 +247,9 @@
          }
      }
  
---- a/karbon/plugins/filtereffects/CompositeEffect.cpp	(revision 1151889)
-+++ b/karbon/plugins/filtereffects/CompositeEffect.cpp	(revision 1151890)
-@@ -109,10 +109,10 @@
+--- a/karbon/plugins/filtereffects/CompositeEffect.cpp
++++ b/karbon/plugins/filtereffects/CompositeEffect.cpp
+@@ -109,10 +109,10 @@ QImage CompositeEffect::processImages(co
                  da *= 255.0;
  
                  // set pre-multiplied color values on destination image
@@ -264,9 +264,9 @@
              }
          }
      } else {
---- a/libs/flake/tools/KoPathSegmentChangeStrategy.cpp	2010-07-19 22:04:05.000000000 +0000
-+++ b/libs/flake/tools/KoPathSegmentChangeStrategy.cpp	2010-07-19 22:04:13.000000000 +0000
-@@ -39,7 +39,7 @@
+--- a/libs/flake/tools/KoPathSegmentChangeStrategy.cpp
++++ b/libs/flake/tools/KoPathSegmentChangeStrategy.cpp
+@@ -39,7 +39,7 @@ KoPathSegmentChangeStrategy::KoPathSegme
  {
      const qreal eps = std::numeric_limits<qreal>::epsilon();
      // force segment parameter range to avoid division by zero
@@ -275,3 +275,89 @@
      
      m_path = segment.pathShape;
      m_segment = m_path->segmentByIndex(segment.pointIndex);
+--- a/filters/libmsooxml/MsooXmlUtils.cpp
++++ b/filters/libmsooxml/MsooXmlUtils.cpp
+@@ -704,7 +704,7 @@ QLocale Utils::localeForLangId( int lang
+     return QLocale( s_LangIdToLocaleMapping->value( langid ) );
+ }
+ 
+-double Utils::ST_Percentage_to_double(const QString& val, bool& ok)
++qreal Utils::ST_Percentage_to_double(const QString& val, bool& ok)
+ {
+     if (!val.endsWith('%')) {
+         ok = false;
+@@ -715,16 +715,16 @@ double Utils::ST_Percentage_to_double(co
+     return result.toDouble(&ok);
+ }
+ 
+-double Utils::ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok)
++qreal Utils::ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok)
+ {
+-    const double result = ST_Percentage_to_double(val, ok);
++    const qreal result = ST_Percentage_to_double(val, ok);
+     if (ok)
+         return result;
+     // MSOOXML fix: the format is int({ST_Percentage}*1000)
+     const int resultInt = val.toInt(&ok);
+     if (!ok)
+         return 0.0;
+-    return double(resultInt) / 1000.0;
++    return qreal(resultInt) / 1000.0;
+ }
+ 
+ QColor Utils::colorForLuminance(const QColor& color, const DoubleModifier& modulation, const DoubleModifier& offset)
+@@ -990,7 +990,7 @@ QString Utils::TWIP_to_ODF(const QString
+     if (twip == 0)
+         return QLatin1String("0cm");
+     QString res;
+-    return res.sprintf("%3.3fcm", TWIP_TO_CM(double(twip)));
++    return res.sprintf("%3.3fcm", TWIP_TO_CM(qreal(twip)));
+ }
+ 
+ QString Utils::ST_EighthPointMeasure_to_ODF(const QString& value)
+@@ -1050,7 +1050,7 @@ static bool isUnitAcceptable(const QStri
+ }
+ 
+ static QString ST_TwipsMeasure_to_ODF_with_unit(const QString& value,
+-                                                double (*convertFromTwips)(double), const char* unit)
++                                                qreal (*convertFromTwips)(qreal), const char* unit)
+ {
+     if (value.isEmpty())
+         return QString();
+--- a/filters/libmsooxml/MsooXmlUtils.h
++++ b/filters/libmsooxml/MsooXmlUtils.h
+@@ -216,12 +216,12 @@ MSOOXML_EXPORT QLocale localeForLangId(
+ 
+ //! Converts value for 22.9.2.9 ST_Percentage (Percentage Value with Sign) from string
+ //! Sets @arg ok to true on success.
+-MSOOXML_EXPORT double ST_Percentage_to_double(const QString& val, bool& ok);
++MSOOXML_EXPORT qreal ST_Percentage_to_double(const QString& val, bool& ok);
+ 
+ //! Converts value for 22.9.2.9 ST_Percentage (Percentage Value with Sign) from string
+ //! If "%" suffix is not present (MSOOXML violation of OOXML), the format is expected to be int({ST_Percentage}*1000).
+ //! Sets @arg ok to true on success.
+-MSOOXML_EXPORT double ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok);
++MSOOXML_EXPORT qreal ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok);
+ 
+ struct MSOOXML_EXPORT DoubleModifier {
+     DoubleModifier(double v) : value(v), valid(true) {}
+--- a/filters/libmsooxml/MsooXmlCommonReaderDrawingMLImpl.h
++++ b/filters/libmsooxml/MsooXmlCommonReaderDrawingMLImpl.h
+@@ -1302,7 +1302,7 @@ KoFilter::ConversionStatus MSOOXML_CURRE
+         TRY_READ_ATTR_WITHOUT_NS(r, l)
+         TRY_READ_ATTR_WITHOUT_NS(r, r)
+         TRY_READ_ATTR_WITHOUT_NS(r, t)*/
+-//MSOOXML_EXPORT double ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok);
++//MSOOXML_EXPORT qreal ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok);
+ 
+     //m_fillImageRenderingStyle = QLatin1String("stretch");
+     while (!atEnd()) {
+@@ -1474,7 +1474,7 @@ KoFilter::ConversionStatus MSOOXML_CURRE
+  Complex type: CT_RelativeRect, p. 4545
+ 
+  const QXmlStreamAttributes attrs( attributes() );
+- use double ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok)....
++ use qreal ST_Percentage_withMsooxmlFix_to_double(const QString& val, bool& ok)....
+ */
+ 
+ 

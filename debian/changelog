@@ -1,4 +1,4 @@
-koffice (1:2.2.1-3) UNRELEASED; urgency=low
+koffice (1:2.2.1-3) unstable; urgency=low
 
   [ Ana Beatriz Guerrero Lopez ]
   * Fix build in armel, backport commits from upstream. 
