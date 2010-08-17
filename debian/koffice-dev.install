@@ -375,3 +375,7 @@ usr/lib/libkwordprivate.so
 usr/lib/libmsooxml.so
 usr/lib/libpigmentcms.so
 usr/share/kde4/apps/cmake/modules/FindKOfficeLibs.cmake
+usr/lib/libchartshapelib.so
+usr/lib/libkdchart.so
+usr/lib/kde4/chartshape.so
+usr/lib/libkochart.so

@@ -317,3 +317,7 @@ usr/share/templates/.source/SpreadSheet.kst
 usr/share/templates/.source/TextDocument.kwt
 usr/share/templates/SpreadSheet.desktop
 usr/share/templates/TextDocument.desktop
+usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop
+usr/share/kde4/services/chartshape.desktop
+usr/share/kde4/servicetypes/kochart.desktop
+

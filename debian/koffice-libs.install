@@ -51,3 +51,10 @@ usr/lib/libmsooxml.so.7
 usr/lib/libmsooxml.so.7.0.0
 usr/lib/libpigmentcms.so.7
 usr/lib/libpigmentcms.so.7.0.0
+usr/lib/libkochart.so.7.0.0
+usr/lib/libkochart.so.7
+usr/lib/libchartshapelib.so.7.0.0
+usr/lib/libchartshapelib.so.7
+usr/lib/libkdchart.so.7.0.0
+usr/lib/libkdchart.so.7
+usr/lib/kde4/koreport_chartplugin.so
