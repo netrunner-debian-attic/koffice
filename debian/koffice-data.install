@@ -320,4 +320,8 @@ usr/share/templates/TextDocument.desktop
 usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop
 usr/share/kde4/services/chartshape.desktop
 usr/share/kde4/servicetypes/kochart.desktop
+usr/share/kde4/servicetypes/koreport_itemplugin.desktop
+usr/share/kde4/services/koreport_chartplugin.desktop
+usr/share/kde4/services/koreport_barcodeplugin.desktop
+usr/share/kde4/services/koreport_shapeplugin.desktop
 
