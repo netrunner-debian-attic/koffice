@@ -329,7 +329,6 @@ usr/lib/libchartshapelib.so
 usr/lib/libflake.so
 usr/lib/libkarboncommon.so
 usr/lib/libkarbonui.so
-usr/lib/libkchartcommon.so
 usr/lib/libkdchart.so
 usr/lib/libkexicore.so
 usr/lib/libkexidatatable.so
