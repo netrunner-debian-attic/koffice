@@ -115,6 +115,7 @@ usr/share/kde4/apps/krita/gradients/Wood_2.ggr
 usr/share/kde4/apps/krita/gradients/Yellow_Contrast.ggr
 usr/share/kde4/apps/krita/gradients/Yellow_Orange.ggr
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_cmyk_empty.png
+usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_comics_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_gray_empty.png
 usr/share/kde4/apps/krita/icons/hicolor/48x48/actions/template_rgb_empty.png
 usr/share/kde4/apps/krita/images/krita-chalk.png
@@ -124,9 +125,14 @@ usr/share/kde4/apps/krita/images/krita-duplicate.png
 usr/share/kde4/apps/krita/images/krita-dyna.png
 usr/share/kde4/apps/krita/images/krita-eraser.png
 usr/share/kde4/apps/krita/images/krita-filterop.png
+usr/share/kde4/apps/krita/images/krita-grid.png
+usr/share/kde4/apps/krita/images/krita-hatching.png
+usr/share/kde4/apps/krita/images/krita-mixing.png
+usr/share/kde4/apps/krita/images/krita-mypaint.png
 usr/share/kde4/apps/krita/images/krita-paintbrush.png
 usr/share/kde4/apps/krita/images/krita-pencil.png
 usr/share/kde4/apps/krita/images/krita-smudgebrush.png
+usr/share/kde4/apps/krita/images/krita-soft.png
 usr/share/kde4/apps/krita/images/krita-spray.png
 usr/share/kde4/apps/krita/images/krita-sumi.png
 usr/share/kde4/apps/krita/images/previewfilter.png
@@ -226,6 +232,10 @@ usr/share/kde4/apps/krita/pics/arrow_south_west.png
 usr/share/kde4/apps/krita/pics/arrow_west.png
 usr/share/kde4/apps/krita/pics/closedhand_cursor.xpm
 usr/share/kde4/apps/krita/pics/deletelayer.png
+usr/share/kde4/apps/krita/pics/extended_color_selector.png
+usr/share/kde4/apps/krita/pics/kis_colselng_color_patches.png
+usr/share/kde4/apps/krita/pics/kis_colselng_color_triangle.png
+usr/share/kde4/apps/krita/pics/kis_colselng_my_paint_shade_selector.png
 usr/share/kde4/apps/krita/pics/krita_draw_path.png
 usr/share/kde4/apps/krita/pics/krita_tool_color_fill.png
 usr/share/kde4/apps/krita/pics/krita_tool_color_picker.png
@@ -234,6 +244,7 @@ usr/share/kde4/apps/krita/pics/krita_tool_ellipse.png
 usr/share/kde4/apps/krita/pics/krita_tool_freehand.png
 usr/share/kde4/apps/krita/pics/krita_tool_gradient.png
 usr/share/kde4/apps/krita/pics/krita_tool_grid.png
+usr/share/kde4/apps/krita/pics/krita_tool_knife.png
 usr/share/kde4/apps/krita/pics/krita_tool_line.png
 usr/share/kde4/apps/krita/pics/krita_tool_measure.png
 usr/share/kde4/apps/krita/pics/krita_tool_move.png
@@ -251,6 +262,7 @@ usr/share/kde4/apps/krita/pics/novisible.png
 usr/share/kde4/apps/krita/pics/openhand_cursor.xpm
 usr/share/kde4/apps/krita/pics/paintop_settings_01.png
 usr/share/kde4/apps/krita/pics/paintop_settings_02.png
+usr/share/kde4/apps/krita/pics/paintop_settings_disabled.png
 usr/share/kde4/apps/krita/pics/polyline.png
 usr/share/kde4/apps/krita/pics/raiselayer.png
 usr/share/kde4/apps/krita/pics/rotate_cursor.xpm
@@ -356,6 +368,9 @@ usr/share/kde4/apps/krita/shaders/square_gradient.frag
 usr/share/kde4/apps/krita/templates/cmyk/.directory
 usr/share/kde4/apps/krita/templates/cmyk/.source/white_2000x800.kra
 usr/share/kde4/apps/krita/templates/cmyk/white_2000x800.desktop
+usr/share/kde4/apps/krita/templates/comics/a4_waffle_grid.desktop
+usr/share/kde4/apps/krita/templates/comics/.directory
+usr/share/kde4/apps/krita/templates/comics/.source/a4_waffle_grid.kra
 usr/share/kde4/apps/krita/templates/gray/.directory
 usr/share/kde4/apps/krita/templates/gray/.source/white_640x480.kra
 usr/share/kde4/apps/krita/templates/gray/white_640x480.desktop
