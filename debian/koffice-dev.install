@@ -325,10 +325,13 @@ usr/include/styles/KoTableColumnStyle.h
 usr/include/styles/KoTableFormat.h
 usr/include/styles/KoTableRowFormat.h
 usr/include/styles/KoTableRowStyle.h
+usr/lib/kde4/chartshape.so
+usr/lib/libchartshapelib.so
 usr/lib/libchartshapelib.so
 usr/lib/libflake.so
 usr/lib/libkarboncommon.so
 usr/lib/libkarbonui.so
+usr/lib/libkdchart.so
 usr/lib/libkdchart.so
 usr/lib/libkexicore.so
 usr/lib/libkexidatatable.so
@@ -374,7 +377,3 @@ usr/lib/libkwordprivate.so
 usr/lib/libmsooxml.so
 usr/lib/libpigmentcms.so
 usr/share/kde4/apps/cmake/modules/FindKOfficeLibs.cmake
-usr/lib/libchartshapelib.so
-usr/lib/libkdchart.so
-usr/lib/kde4/chartshape.so
-usr/lib/libkochart.so

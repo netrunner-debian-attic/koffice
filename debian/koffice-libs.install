@@ -9,6 +9,9 @@ usr/lib/kde4/kofficescan.so
 usr/lib/kde4/kofficethumbnail.so
 usr/lib/kde4/kolcmsengine.so
 usr/lib/kde4/kopabackgroundtool.so
+usr/lib/kde4/koreport_barcodeplugin.so
+usr/lib/kde4/koreport_chartplugin.so
+usr/lib/kde4/koreport_shapeplugin.so
 usr/lib/kde4/libgenerickofilter.so
 usr/lib/kde4/libkounavailpart.so
 usr/lib/kde4/libxsltexport.so
@@ -23,8 +26,14 @@ usr/lib/kde4/textvariables.so
 usr/lib/kde4/thesaurustool.so
 usr/lib/kde4/vectorshape.so
 usr/lib/kde4/videoshape.so
+usr/lib/libchartshapelib.so.7
+usr/lib/libchartshapelib.so.7.0.0
 usr/lib/libflake.so.7
 usr/lib/libflake.so.7.0.0
+usr/lib/libkdchart.so.7
+usr/lib/libkdchart.so.7.0.0
+usr/lib/libkochart.so.7
+usr/lib/libkochart.so.7.0.0
 usr/lib/libkokross.so.7
 usr/lib/libkokross.so.7.0.0
 usr/lib/libkomain.so.7
@@ -51,10 +60,3 @@ usr/lib/libmsooxml.so.7
 usr/lib/libmsooxml.so.7.0.0
 usr/lib/libpigmentcms.so.7
 usr/lib/libpigmentcms.so.7.0.0
-usr/lib/libkochart.so.7.0.0
-usr/lib/libkochart.so.7
-usr/lib/libchartshapelib.so.7.0.0
-usr/lib/libchartshapelib.so.7
-usr/lib/libkdchart.so.7.0.0
-usr/lib/libkdchart.so.7
-usr/lib/kde4/koreport_chartplugin.so
