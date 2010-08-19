@@ -5,9 +5,12 @@ usr/lib/kde4/kpresentertoolanimation.so
 usr/lib/kde4/kpr_pageeffect_barwipe.so
 usr/lib/kde4/kpr_pageeffect_clockwipe.so
 usr/lib/kde4/kpr_pageeffect_edgewipe.so
+usr/lib/kde4/kpr_pageeffect_fade.so
 usr/lib/kde4/kpr_pageeffect_iriswipe.so
 usr/lib/kde4/kpr_pageeffect_matrixwipe.so
 usr/lib/kde4/kpr_pageeffect_slidewipe.so
+usr/lib/kde4/kpr_pageeffect_spacerotation.so
+usr/lib/kde4/kpr_pageeffect_swapeffect.so
 usr/lib/kde4/kpr_shapeanimation_example.so
 usr/lib/kde4/kprvariables.so
 usr/lib/kde4/libFilterkpr2odf.so
@@ -63,6 +66,9 @@ usr/share/kde4/apps/kpresenter/pics/rotate/trdn.png
 usr/share/kde4/apps/kpresenter/pics/rotate/tr.png
 usr/share/kde4/apps/kpresenter/pics/webslideshow-sidebar.png
 usr/share/kde4/apps/kpresenter/styles/defaultstyles.xml
+usr/share/kde4/apps/kpresenter/templates/exportHTML/slides.html
+usr/share/kde4/apps/kpresenter/templates/exportHTML/templates/Default.zip
+usr/share/kde4/apps/kpresenter/templates/exportHTML/toc.html
 usr/share/kde4/apps/kpresenter/templates/Screen/.directory
 usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscape.desktop
 usr/share/kde4/apps/kpresenter/templates/Screen/emptyLandscapeWide.desktop
@@ -78,9 +84,12 @@ usr/share/kde4/services/kpresentertoolanimation.desktop
 usr/share/kde4/services/kpr_pageeffect_barwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_clockwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_edgewipe.desktop
+usr/share/kde4/services/kpr_pageeffect_fade.desktop
 usr/share/kde4/services/kpr_pageeffect_iriswipe.desktop
 usr/share/kde4/services/kpr_pageeffect_matrixwipe.desktop
 usr/share/kde4/services/kpr_pageeffect_slidewipe.desktop
+usr/share/kde4/services/kpr_pageeffect_spacerotation.desktop
+usr/share/kde4/services/kpr_pageeffect_swapeffect.desktop
 usr/share/kde4/services/kpr_shapeanimation_example.desktop
 usr/share/kde4/services/kprvariables.desktop
 usr/share/kde4/services/ServiceMenus/kpresenter_konqi.desktop
