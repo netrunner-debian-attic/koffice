@@ -138,6 +138,7 @@ usr/share/kde4/services/krita_colorspaces_extensions_plugin.desktop
 usr/share/kde4/services/kritacomplexbrush.desktop
 usr/share/kde4/services/kritaconvolutionfilters.desktop
 usr/share/kde4/services/kritacurvepaintop.desktop
+usr/share/kde4/services/kritadefaultdockers.desktop
 usr/share/kde4/services/kritadefaultpaintops.desktop
 usr/share/kde4/services/kritadefaulttools.desktop
 usr/share/kde4/services/kritadeformpaintop.desktop
