@@ -25,5 +25,6 @@ usr/share/icons/hicolor/48x48/apps/krita.png
 usr/share/icons/hicolor/64x64/apps/krita.png
 usr/share/kde4/apps/krita/
 usr/share/kde4/apps/kritaplugins/
+usr/share/kde4/config/krita.knsrc
 usr/share/kde4/config/kritarc
 usr/share/mime/packages/krita_ora.xml
