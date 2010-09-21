@@ -59,7 +59,6 @@ usr/lib/kde4/kritasketchpaintop.so
 usr/lib/kde4/kritasmallcolorselector.so
 usr/lib/kde4/kritasmalltilesfilter.so
 usr/lib/kde4/kritasobelfilter.so
-usr/lib/kde4/kritasoftpaintop.so
 usr/lib/kde4/kritaspecificcolorselector.so
 usr/lib/kde4/kritaspraypaintop.so
 usr/lib/kde4/kritatogether.so
@@ -199,7 +198,6 @@ usr/share/kde4/services/kritasketchpaintop.desktop
 usr/share/kde4/services/krita_smallcolorselector.desktop
 usr/share/kde4/services/kritasmalltilesfilter.desktop
 usr/share/kde4/services/kritasobelfilter.desktop
-usr/share/kde4/services/kritasoftpaintop.desktop
 usr/share/kde4/services/krita_specificcolorselector.desktop
 usr/share/kde4/services/kritaspraypaintop.desktop
 usr/share/kde4/services/krita_tiff_export.desktop
