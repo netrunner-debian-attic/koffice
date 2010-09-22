@@ -13,9 +13,7 @@ usr/share/kde4/apps/formulashape/fonts/ArevBI.ttf
 usr/share/kde4/apps/formulashape/fonts/ArevIt.ttf
 usr/share/kde4/apps/formulashape/fonts/Arev.ttf
 usr/share/kde4/apps/formulashape/fonts/cmex10.ttf
-usr/share/kde4/apps/kformula/kformula.rc
-usr/share/kde4/apps/kformula/kformula_readonly.rc
-usr/share/kde4/apps/kformula/tips
+usr/share/kde4/apps/kformula/
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/abs.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/brackets.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/frac.png
