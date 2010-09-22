@@ -35,6 +35,8 @@ usr/lib/kde4/spreadsheetshape.so
 usr/lib/libkdeinit4_kspread.so
 usr/lib/libkspreadcommon.so.7
 usr/lib/libkspreadcommon.so.7.0.0
+usr/lib/libkspreadodf.so.7
+usr/lib/libkspreadodf.so.7.0.0
 usr/share/applications/kde4/kspread.desktop
 usr/share/icons/hicolor/16x16/apps/kspread.png
 usr/share/icons/hicolor/22x22/apps/kspread.png
