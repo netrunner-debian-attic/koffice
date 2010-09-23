@@ -2,6 +2,7 @@ usr/bin/koconverter
 usr/lib/kde4/artistictextshape.so
 usr/lib/kde4/autocorrect.so
 usr/lib/kde4/changecase.so
+usr/lib/kde4/commentshape.so
 usr/lib/kde4/defaulttools.so
 usr/lib/kde4/divineproportionshape.so
 usr/lib/kde4/kofficedockers.so
@@ -20,10 +21,12 @@ usr/lib/kde4/musicshape.so
 usr/lib/kde4/paragraphtool.so
 usr/lib/kde4/pathshapes.so
 usr/lib/kde4/pictureshape.so
+usr/lib/kde4/pluginshape.so
 usr/lib/kde4/spellcheck.so
 usr/lib/kde4/textshape.so
 usr/lib/kde4/textvariables.so
 usr/lib/kde4/thesaurustool.so
+usr/lib/kde4/treeshape.so
 usr/lib/kde4/vectorshape.so
 usr/lib/kde4/videoshape.so
 usr/lib/libchartshapelib.so.7
