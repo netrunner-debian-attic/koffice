@@ -68,6 +68,9 @@ usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_last.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_left.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tab_right.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/textcolor.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tool-changetracking.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tool-paragraph.png
+usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/tool-text.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-barcode.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view_orientation.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/view-sort-ascending.png
