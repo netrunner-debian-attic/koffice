@@ -50,13 +50,7 @@ usr/share/kde4/services/kexidb_mysqldriver.desktop
 usr/share/kde4/services/kexidb_pqxxsqldriver.desktop
 usr/share/kde4/services/kexidb_sqlite3driver.desktop
 usr/share/kde4/services/kexidb_xbasedriver.desktop
-usr/share/kde4/services/kexi/kexicsv_importexporthandler.desktop
-usr/share/kde4/services/kexi/kexiformhandler.desktop
-usr/share/kde4/services/kexi/keximigrationhandler.desktop
-usr/share/kde4/services/kexi/kexiqueryhandler.desktop
-usr/share/kde4/services/kexi/kexireporthandler.desktop
-usr/share/kde4/services/kexi/kexiscripthandler.desktop
-usr/share/kde4/services/kexi/kexitablehandler.desktop
+usr/share/kde4/services/kexi/
 usr/share/kde4/services/keximigrate_kspread.desktop
 usr/share/kde4/services/keximigrate_mdb.desktop
 usr/share/kde4/services/keximigrate_mysql.desktop
@@ -64,9 +58,7 @@ usr/share/kde4/services/keximigrate_pqxx.desktop
 usr/share/kde4/services/keximigrate_txt.desktop
 usr/share/kde4/services/keximigrate_xbase.desktop
 usr/share/kde4/services/kexirelationdesignshape.desktop
-usr/share/kde4/services/kformdesigner/kformdesigner_containers.desktop
-usr/share/kde4/services/kformdesigner/kformdesigner_kexidbfactory.desktop
-usr/share/kde4/services/kformdesigner/kformdesigner_stdwidgets.desktop
+usr/share/kde4/services/kformdesigner/
 usr/share/kde4/servicetypes/kexidb_driver.desktop
 usr/share/kde4/servicetypes/kexihandler.desktop
 usr/share/kde4/servicetypes/keximigration_driver.desktop
