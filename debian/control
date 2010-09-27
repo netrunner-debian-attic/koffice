@@ -128,6 +128,58 @@ Description: integrated database environment for the KDE Office Suite
  .
  This package is part of the KDE Office Suite.
 
+Package: kexi-plugin-kspread
+Architecture: any
+Depends: ${shlibs:Depends}, kexi (>= ${source:Version}),
+ kspread (>= ${source:Version})
+Description: Plugins for integrated database environment for KDE Office Suite
+ Kexi is an integrated data management application. It can be used for
+ creating database schemas, inserting data, performing queries, and
+ processing data. Forms can be created to provide a custom interface to
+ your data. All database objects - tables, queries and forms - are stored
+ in the database, making it easy to share data and design.
+ .
+ This package is part of the KDE Office Suite and provides KSpread
+ plugin for Kexi.
+
+Package: kexi-plugin-mysql
+Architecture: any
+Depends: ${shlibs:Depends}, kexi (>= ${source:Version}), libmysqlclient16
+Description: Plugins for integrated database environment for KDE Office Suite
+ Kexi is an integrated data management application. It can be used for
+ creating database schemas, inserting data, performing queries, and
+ processing data. Forms can be created to provide a custom interface to
+ your data. All database objects - tables, queries and forms - are stored
+ in the database, making it easy to share data and design.
+ .
+ This package is part of the KDE Office Suite and provides mysql plugin for Kexi.
+
+Package: kexi-plugin-postrgresql
+Architecture: any
+Depends: ${shlibs:Depends}, kexi (>= ${source:Version}), libpqxx-3.0
+Description: Plugins for integrated database environment for KDE Office Suite
+ Kexi is an integrated data management application. It can be used for
+ creating database schemas, inserting data, performing queries, and
+ processing data. Forms can be created to provide a custom interface to
+ your data. All database objects - tables, queries and forms - are stored
+ in the database, making it easy to share data and design.
+ .
+ This package is part of the KDE Office Suite and provides PostgreSQL 
+ plugin for Kexi.
+
+Package: kexi-plugin-xbase
+Architecture: any
+Depends: ${shlibs:Depends}, kexi (>= ${source:Version}), libxbase2.0-0
+Description: Plugins for integrated database environment for KDE Office Suite
+ Kexi is an integrated data management application. It can be used for
+ creating database schemas, inserting data, performing queries, and
+ processing data. Forms can be created to provide a custom interface to
+ your data. All database objects - tables, queries and forms - are stored
+ in the database, making it easy to share data and design.
+ .
+ This package is part of the KDE Office Suite and provides XBase 
+ plugin for Kexi.
+
 Package: kformula
 Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
