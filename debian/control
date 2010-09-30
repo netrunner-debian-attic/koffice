@@ -155,7 +155,7 @@ Description: Plugins for integrated database environment for KDE Office Suite
  This package is part of the KDE Office Suite and provides mysql
  plugin for Kexi.
 
-Package: kexi-plugin-postrgresql
+Package: kexi-plugin-postgresql
 Architecture: any
 Depends: ${shlibs:Depends}, kexi (>= ${source:Version}), libpqxx-3.0
 Description: Plugins for integrated database environment for KDE Office Suite
