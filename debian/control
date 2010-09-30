@@ -152,7 +152,8 @@ Description: Plugins for integrated database environment for KDE Office Suite
  your data. All database objects - tables, queries and forms - are stored
  in the database, making it easy to share data and design.
  .
- This package is part of the KDE Office Suite and provides mysql plugin for Kexi.
+ This package is part of the KDE Office Suite and provides mysql
+ plugin for Kexi.
 
 Package: kexi-plugin-postrgresql
 Architecture: any
