@@ -1,3 +1,4 @@
+../icons/kword.xpm usr/share/pixmaps
 usr/bin/kword
 usr/lib/kde4/krossmodulekword.so
 usr/lib/kde4/libabiwordexport.so
