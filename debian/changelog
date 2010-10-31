@@ -1,4 +1,4 @@
-koffice (1:2.2.80-1) UNRELEASED; urgency=low
+koffice (1:2.2.82-1) UNRELEASED; urgency=low
 
   * New upstream test-build.
   	- Removed fixes_arm.diff patch. Included upstream.
@@ -9,7 +9,7 @@ koffice (1:2.2.80-1) UNRELEASED; urgency=low
   * Replace and conflict koffice-lib with older kchart packages.
   * Move menu icons to application binary package.
 
- -- Raúl Sánchez Siles <rasasi78@gmail.com>  Sun, 31 Oct 2010 21:33:16 +0100
+ -- Raúl Sánchez Siles <rasasi78@gmail.com>  Sun, 31 Oct 2010 21:38:34 +0100
 
 koffice (1:2.2.1-3) unstable; urgency=low
 
