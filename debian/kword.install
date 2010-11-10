@@ -13,6 +13,7 @@ usr/lib/kde4/libdocximport.so
 usr/lib/kde4/libhancomwordimport.so
 usr/lib/kde4/libhtmlexport.so
 usr/lib/kde4/libhtmlimport.so
+usr/lib/kde4/libhtmlodf_export.so
 usr/lib/kde4/libkwordkword1dot3import.so
 usr/lib/kde4/libkwordpart.so
 usr/lib/kde4/libmswordodf_import.so
@@ -47,6 +48,7 @@ usr/share/kde4/services/kword_docx_import.desktop
 usr/share/kde4/services/kword_hancomword_import.desktop
 usr/share/kde4/services/kword_html_export.desktop
 usr/share/kde4/services/kword_html_import.desktop
+usr/share/kde4/services/html-odf_export.desktop
 usr/share/kde4/services/kword_msword-odf_import.desktop
 usr/share/kde4/services/kword_oowriter_export.desktop
 usr/share/kde4/services/kword_oowriter_import.desktop
