@@ -1,10 +1,10 @@
 usr/bin/kformula
 usr/lib/kde4/formulashape.so
 usr/lib/kde4/libkformulapart.so
-usr/lib/libkformulalib.so.7
-usr/lib/libkformulalib.so.7.0.0
-usr/lib/libkformulaprivate.so.7
-usr/lib/libkformulaprivate.so.7.0.0
+usr/lib/libkformulalib.so.8
+usr/lib/libkformulalib.so.8.0.0
+usr/lib/libkformulaprivate.so.8
+usr/lib/libkformulaprivate.so.8.0.0
 usr/lib/libkdeinit_kformula.so
 usr/share/applications/kde4/kformula.desktop
 usr/share/icons/hicolor/16x16/apps/kformula.png

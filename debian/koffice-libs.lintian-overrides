@@ -1,1 +1,1 @@
-koffice-libs: package-name-doesnt-match-sonames libflake7 libkokross7 libkomain7 libkoodf7 libkopageapp7 libkoplugin7 libkoproperty7 libkoreport7 libkotext7 libkowidgets7 libkowmf7 libkwmf7 libmsooxml7 libpigmentcms7 libkochart7 libchartshapelib7 libkdchart7
+koffice-libs: package-name-doesnt-match-sonames libflake8 libkokross8 libkomain8 libkoodf8 libkopageapp8 libkoplugin8 libkoproperty8 libkoreport8 libkotext8 libkowidgets8 libkowmf8 libkwmf8 libmsooxml8 libpigmentcms8 libkochart8 libchartshapelib8 libkdchart8

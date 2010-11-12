@@ -16,10 +16,10 @@ usr/lib/kde4/libkarbonsvgimport.so
 usr/lib/kde4/libwmfexport.so
 usr/lib/kde4/libwmfimport.so
 usr/lib/kde4/libwpgimport.so
-usr/lib/libkarboncommon.so.7
-usr/lib/libkarboncommon.so.7.0.0
-usr/lib/libkarbonui.so.7
-usr/lib/libkarbonui.so.7.0.0
+usr/lib/libkarboncommon.so.8
+usr/lib/libkarboncommon.so.8.0.0
+usr/lib/libkarbonui.so.8
+usr/lib/libkarbonui.so.8.0.0
 usr/lib/libkdeinit4_karbon.so
 usr/share/applications/kde4/karbon.desktop
 usr/share/icons/hicolor/16x16/apps/karbon.png

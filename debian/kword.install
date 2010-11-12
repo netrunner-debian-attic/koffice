@@ -30,10 +30,10 @@ usr/lib/kde4/libwpimport.so
 usr/lib/libkdeinit4_kword.so
 usr/lib/libkowv2.so.4
 usr/lib/libkowv2.so.4.0.1
-usr/lib/libkwordexportfilters.so.7
-usr/lib/libkwordexportfilters.so.7.0.0
-usr/lib/libkwordprivate.so.7
-usr/lib/libkwordprivate.so.7.0.0
+usr/lib/libkwordexportfilters.so.8
+usr/lib/libkwordexportfilters.so.8.0.0
+usr/lib/libkwordprivate.so.8
+usr/lib/libkwordprivate.so.8.0.0
 usr/share/applications/kde4/kword.desktop
 usr/share/kde4/services/krossmodulekword.desktop
 usr/share/kde4/services/kword_abiword_export.desktop

@@ -1,4 +1,4 @@
-kspread: package-name-doesnt-match-sonames libkspreadcommon7
+kspread: package-name-doesnt-match-sonames libkspreadcommon8
 kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/docker/consoledocker.py #!kross
 kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/csvexport.py #!kross
 kspread: unusual-interpreter ./usr/share/kde4/apps/kspread/scripts/extensions/csvimport.py #!kross
