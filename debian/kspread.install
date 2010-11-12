@@ -19,7 +19,7 @@ usr/lib/kde4/libapplixspreadimport.so
 usr/lib/kde4/libcsvexport.so
 usr/lib/kde4/libcsvimport.so
 usr/lib/kde4/libdbaseimport.so
-usr/lib/kde4/libexcelimport.so
+usr/lib/kde4/libexcelimporttodoc.so
 usr/lib/kde4/libgnumericexport.so
 usr/lib/kde4/libgnumericimport.so
 usr/lib/kde4/libkspreadhtmlexport.so
