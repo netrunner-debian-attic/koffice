@@ -3,4 +3,5 @@
 include /usr/share/pkg-kde-tools/qt-kde-team/1/debian-qt-kde.mk
 
 #Do not build staging dir
-DEB_CONFIGURE_EXTRA_FLAGS += -DBUILD_staging=FALSE
+DEB_CMAKE_EXTRA_FLAGS += -DBUILD_staging=FALSE
+
