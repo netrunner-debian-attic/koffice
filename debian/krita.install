@@ -63,7 +63,6 @@ usr/lib/kde4/kritatoolcrop.so
 usr/lib/kde4/kritatooldyna.so
 usr/lib/kde4/kritatoolgrid.so
 usr/lib/kde4/kritatoolperspectivegrid.so
-usr/lib/kde4/kritatoolperspectivetransform.so
 usr/lib/kde4/kritatoolpolygon.so
 usr/lib/kde4/kritatoolpolyline.so
 usr/lib/kde4/kritatoolstar.so
@@ -194,7 +193,6 @@ usr/share/kde4/services/kritatoolcrop.desktop
 usr/share/kde4/services/kritatooldyna.desktop
 usr/share/kde4/services/kritatoolgrid.desktop
 usr/share/kde4/services/kritatoolperspectivegrid.desktop
-usr/share/kde4/services/kritatoolperspectivetransform.desktop
 usr/share/kde4/services/kritatoolpolygon.desktop
 usr/share/kde4/services/kritatoolpolyline.desktop
 usr/share/kde4/services/kritatoolstar.desktop
