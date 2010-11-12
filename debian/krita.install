@@ -1,10 +1,8 @@
 ../icons/krita.xpm usr/share/pixmaps
 usr/bin/krita
-usr/lib/kde4/kritabackgrounds.so
 usr/lib/kde4/kritabigbrother.so
 usr/lib/kde4/kritablurfilter.so
 usr/lib/kde4/kritabracketing2hdr.so
-usr/lib/kde4/kritabumpmap.so
 usr/lib/kde4/kritachalkpaintop.so
 usr/lib/kde4/kritacolorgenerator.so
 usr/lib/kde4/kritacolorrange.so
@@ -12,7 +10,6 @@ usr/lib/kde4/kritacolorselectorng.so
 usr/lib/kde4/kritacolorsfilters.so
 usr/lib/kde4/kritacolorspaceconversion.so
 usr/lib/kde4/krita_colorspaces_extensions.so
-usr/lib/kde4/kritacomplexbrush.so
 usr/lib/kde4/kritaconvolutionfilters.so
 usr/lib/kde4/kritacurvepaintop.so
 usr/lib/kde4/kritadefaultdockers.so
@@ -40,10 +37,8 @@ usr/lib/kde4/kritalayercompose.so
 usr/lib/kde4/kritalevelfilter.so
 usr/lib/kde4/kritametadataeditor.so
 usr/lib/kde4/kritamodifyselection.so
-usr/lib/kde4/kritamypaintpaintop.so
 usr/lib/kde4/kritanoisefilter.so
 usr/lib/kde4/kritaoilpaintfilter.so
-usr/lib/kde4/kritapainterlymixer.so
 usr/lib/kde4/kritaparticlepaintop.so
 usr/lib/kde4/kritaphongbumpmap.so
 usr/lib/kde4/kritapixelizefilter.so
@@ -91,8 +86,6 @@ usr/lib/kde4/libkritapngexport.so
 usr/lib/kde4/libkritapngimport.so
 usr/lib/kde4/libkritappmexport.so
 usr/lib/kde4/libkritappmimport.so
-usr/lib/kde4/libkritapsdexport.so
-usr/lib/kde4/libkritapsdimport.so
 usr/lib/kde4/libkrita_raw_import.so
 usr/lib/kde4/libkritatiffexport.so
 usr/lib/kde4/libkritatiffimport.so
