@@ -276,6 +276,7 @@ usr/share/kde4/services/changecase.desktop
 usr/share/kde4/services/defaulttools.desktop
 usr/share/kde4/services/divineproportionshape.desktop
 usr/share/kde4/services/generic_filter.desktop
+usr/share/kde4/services/kodocinfopropspage.desktop
 usr/share/kde4/services/kofficedockers.desktop
 usr/share/kde4/services/kofficethumbnail.desktop
 usr/share/kde4/services/kolcmsengine.desktop
