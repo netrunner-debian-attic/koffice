@@ -15,10 +15,10 @@ usr/lib/kde4/kopabackgroundtool.so
 usr/lib/kde4/koreport_barcodeplugin.so
 usr/lib/kde4/koreport_chartplugin.so
 usr/lib/kde4/koreport_shapeplugin.so
-usr/lib/kde4/libgenerickofilter.so
-usr/lib/kde4/libkounavailpart.so
-usr/lib/kde4/libxsltexport.so
-usr/lib/kde4/libxsltimport.so
+usr/lib/kde4/generickofilter.so
+usr/lib/kde4/kounavailpart.so
+usr/lib/kde4/xsltexport.so
+usr/lib/kde4/xsltimport.so
 usr/lib/kde4/musicshape.so
 usr/lib/kde4/paragraphtool.so
 usr/lib/kde4/pathshapes.so
