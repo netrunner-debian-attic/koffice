@@ -40,7 +40,6 @@ usr/lib/libkritaimage.so
 usr/lib/libkritalibbrush.so
 usr/lib/libkritalibpaintop.so
 usr/lib/libkritaui.so
-usr/lib/libkrossmodulekrita.so
 usr/lib/libkspreadcommon.so
 usr/lib/libkspreadodf.so
 usr/lib/libkwmf.so

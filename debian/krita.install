@@ -47,7 +47,6 @@ usr/lib/kde4/kritarandompickfilter.so
 usr/lib/kde4/kritarotateimage.so
 usr/lib/kde4/kritaroundcornersfilter.so
 usr/lib/kde4/kritarulerassistanttool.so
-usr/lib/kde4/kritascripting.so
 usr/lib/kde4/kritaselectiontools.so
 usr/lib/kde4/kritaseparatechannels.so
 usr/lib/kde4/kritashearimage.so
@@ -98,8 +97,6 @@ usr/lib/libkritalibpaintop.so.8
 usr/lib/libkritalibpaintop.so.8.0.0
 usr/lib/libkritaui.so.8
 usr/lib/libkritaui.so.8.0.0
-usr/lib/libkrossmodulekrita.so.8
-usr/lib/libkrossmodulekrita.so.8.0.0
 usr/share/applications/kde4/krita.desktop
 usr/share/applications/kde4/krita_bmp.desktop
 usr/share/applications/kde4/krita_gif.desktop
@@ -175,7 +172,6 @@ usr/share/kde4/services/krita_raw_import.desktop
 usr/share/kde4/services/kritarotateimage.desktop
 usr/share/kde4/services/kritaroundcornersfilter.desktop
 usr/share/kde4/services/kritarulerassistanttool.desktop
-usr/share/kde4/services/kritascripting.desktop
 usr/share/kde4/services/kritaselectiontools.desktop
 usr/share/kde4/services/kritaseparatechannels.desktop
 usr/share/kde4/services/kritashearimage.desktop
