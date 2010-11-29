@@ -1,5 +1,7 @@
 koffice (1:2.2.1-4) UNRELEASED; urgency=low
 
+  * Add patch kspread_backport_fix_time_values_in_ods.diff to fix saving of
+    time values in ods files in kspread. (Closes: #604773)
 
  -- Modestas Vainius <modax@debian.org>  Mon, 29 Nov 2010 01:58:04 +0200
 

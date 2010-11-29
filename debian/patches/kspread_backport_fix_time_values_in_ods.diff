@@ -1,0 +1,32 @@
+From: Marijn Kruisselbrink <m.kruisselbrink@student.tue.nl>
+Subject: Fix saving of time values in ods files
+Acked-By: Modestas Vainius <modax@debian.org>
+Bug: https://bugs.kde.org/show_bug.cgi?id=253042
+Bug-Debian: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=604773
+Origin: backport, http://websvn.kde.org/?view=rev&revision=1183113
+Last-Update: 2010-11-28
+Applied-Upstream: 2.3
+
+This unfortunately got broken by a change in Qt4.1 and kspread relying on
+undocumented behavior of QTime::toString()
+
+--- a/kspread/Cell.cpp
++++ b/kspread/Cell.cpp
+@@ -1273,7 +1273,7 @@ void Cell::saveOdfValue(KoXmlWriter &xml
+         if (isTime()) {
+             xmlWriter.addAttribute("office:value-type", "time");
+             xmlWriter.addAttribute("office:time-value",
+-                                   value().asTime(sheet()->map()->calculationSettings()).toString("PThhHmmMssS"));
++                                   value().asTime(sheet()->map()->calculationSettings()).toString("'PT'hh'H'mm'M'ss'S'"));
+         } else {
+             xmlWriter.addAttribute("office:value-type", "date");
+             xmlWriter.addAttribute("office:date-value",
+@@ -1284,7 +1284,7 @@ void Cell::saveOdfValue(KoXmlWriter &xml
+     case Value::fmt_Time: {
+         xmlWriter.addAttribute("office:value-type", "time");
+         xmlWriter.addAttribute("office:time-value",
+-                               value().asTime(sheet()->map()->calculationSettings()).toString("PThhHmmMssS"));
++                               value().asTime(sheet()->map()->calculationSettings()).toString("'PT'hh'H'mm'M'ss'S'"));
+         break;
+     }
+     case Value::fmt_String: {
