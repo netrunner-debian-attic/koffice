@@ -1,5 +1,6 @@
-koffice (1:2.2.1-4) UNRELEASED; urgency=low
+koffice (1:2.2.1-4) unstable; urgency=low
 
+  [ Modestas Vainius ]
   * Add patch kspread_backport_fix_time_values_in_ods.diff to fix saving of
     time values in ods files in kspread. (Closes: #604773)
   * Remove quilt from Build-Depends. The package is 3.0 (quilt) and quilt build
@@ -7,7 +8,7 @@ koffice (1:2.2.1-4) UNRELEASED; urgency=low
     source format was 1.0. This is definitely wrong and might lead to weird
     FTBFSes sometimes.
 
- -- Modestas Vainius <modax@debian.org>  Mon, 29 Nov 2010 01:58:04 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 29 Nov 2010 02:01:30 +0200
 
 koffice (1:2.2.1-3) unstable; urgency=low
 
