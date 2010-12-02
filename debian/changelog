@@ -1,3 +1,9 @@
+koffice (1:2.2.84-2) UNRELEASED; urgency=low
+
+  * Moving to debhelper.
+
+ -- Raúl Sánchez Siles <rasasi78@gmail.com>  Thu, 02 Dec 2010 20:23:36 +0100
+
 koffice (1:2.2.84-1) UNRELEASED; urgency=low
 
   * New upstream test-build.
