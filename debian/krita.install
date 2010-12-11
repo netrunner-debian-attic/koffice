@@ -2,7 +2,6 @@
 usr/bin/krita
 usr/lib/kde4/kritabigbrother.so
 usr/lib/kde4/kritablurfilter.so
-usr/lib/kde4/kritabracketing2hdr.so
 usr/lib/kde4/kritachalkpaintop.so
 usr/lib/kde4/kritacolorgenerator.so
 usr/lib/kde4/kritacolorrange.so
@@ -113,7 +112,6 @@ usr/share/kde4/services/kritabigbrother.desktop
 usr/share/kde4/services/kritablurfilter.desktop
 usr/share/kde4/services/krita_bmp_export.desktop
 usr/share/kde4/services/krita_bmp_import.desktop
-usr/share/kde4/services/kritabracketing2hdr.desktop
 usr/share/kde4/services/kritachalkpaintop.desktop
 usr/share/kde4/services/kritacolorgenerator.desktop
 usr/share/kde4/services/kritacolorrange.desktop
