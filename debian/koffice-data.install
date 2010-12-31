@@ -290,7 +290,6 @@ usr/share/kde4/services/spellcheck.desktop
 usr/share/kde4/services/textshape.desktop
 usr/share/kde4/services/textvariables.desktop
 usr/share/kde4/services/thesaurustool.desktop
-usr/share/kde4/services/vectorshape.desktop
 usr/share/kde4/services/videoshape.desktop
 usr/share/kde4/services/xslt_export.desktop
 usr/share/kde4/services/xslt_import.desktop
@@ -325,7 +324,6 @@ usr/share/kde4/services/ServiceMenus/kchart_konqi.desktop
 usr/share/kde4/services/chartshape.desktop
 usr/share/kde4/services/commentshape.desktop
 usr/share/kde4/services/pluginshape.desktop
-usr/share/kde4/services/treeshape.desktop
 usr/share/kde4/servicetypes/kochart.desktop
 usr/share/kde4/servicetypes/koreport_itemplugin.desktop
 usr/share/kde4/services/koreport_chartplugin.desktop
