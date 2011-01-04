@@ -1,4 +1,4 @@
-kplato: package-name-doesnt-match-sonames libkplatokernel7 libkplatomodels7 libkplatoprivate7 libkplatoui7 libkplatoworkapp7 libkplatoworkfactory7
+kplato: package-name-doesnt-match-sonames libkplatokernel8 libkplatomodels8 libkplatoprivate8 libkplatoui8 libkplatoworkapp8 libkplatoworkfactory8
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoclear.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoexport.py #!kross
 kplato: unusual-interpreter ./usr/share/kde4/apps/kplato/scripts/extensions/busyinfoimport.py #!kross

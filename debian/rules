@@ -1,3 +1,7 @@
 #!/usr/bin/make -f
 
+#Do not build staging dir
+DEB_CMAKE_EXTRA_FLAGS += -DBUILD_staging=FALSE
+
 include /usr/share/pkg-kde-tools/qt-kde-team/1/debian-qt-kde.mk
+

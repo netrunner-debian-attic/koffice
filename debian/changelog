@@ -1,8 +1,19 @@
-koffice (1:2.2.2-1) UNRELEASED; urgency=low
+koffice (1:2.2.84-1) UNRELEASED; urgency=low
 
-  * New upstream release
+  * New upstream test-build.
+  	- Removed fixes_arm.diff patch. Included upstream.
+  * Not including KChart application but rather the chart shape plugin.
+  * Adding koreport desktop files.
+  * Added 10_nokcharpart to avoid installing unwanted desktop files.
+  * Adding kexi plugins packages.
+  * Replace and conflict koffice-lib with older kchart packages.
+  * Move menu icons to application binary package.
+  * Prevent building Google docs support.
+  * Added patch 16_kformula_kdeinit4 to make kformula kdeinit library 
+    name compliant.
+  * Make koffice-data and koffice-libs breaks and replaces old kchart versions.
 
- -- Raúl Sánchez Siles <rasasi78@gmail.com>  Tue, 24 Aug 2010 00:27:03 +0200
+ -- Raúl Sánchez Siles <rasasi78@gmail.com>  Thu, 25 Nov 2010 00:58:59 +0100
 
 koffice (1:2.2.1-4) unstable; urgency=low
 

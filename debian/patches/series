@@ -1,2 +1,2 @@
-fixes_arm.diff
-kspread_backport_fix_time_values_in_ods.diff
+10_nokcharpart
+16_kformula_kdeinit4
