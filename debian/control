@@ -18,6 +18,8 @@ Build-Depends: cdbs, debhelper (>= 7), cmake (>= 2.6.2), pkg-kde-tools (>= 0.9),
  libsqlite3-dev, libpq-dev, libpqxx3-dev, libxbase2.0-dev
 Standards-Version: 3.9.0
 Homepage: http://www.koffice.org/
+Vcs-Git: git://git.debian.org/pkg-kde/kde-std/koffice.git
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-std/koffice.git
 
 Package: koffice
 Architecture: all

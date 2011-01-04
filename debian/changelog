@@ -1,5 +1,6 @@
 koffice (1:2.2.84-1) UNRELEASED; urgency=low
 
+  [ Raúl Sánchez Siles ]
   * New upstream test-build.
   	- Removed fixes_arm.diff patch. Included upstream.
   * Not including KChart application but rather the chart shape plugin.
@@ -12,6 +13,9 @@ koffice (1:2.2.84-1) UNRELEASED; urgency=low
   * Added patch 16_kformula_kdeinit4 to make kformula kdeinit library 
     name compliant.
   * Make koffice-data and koffice-libs breaks and replaces old kchart versions.
+
+  [ Modestas Vainius ]
+  * Add Vcs-* fields to debian/control.
 
  -- Raúl Sánchez Siles <rasasi78@gmail.com>  Thu, 25 Nov 2010 00:58:59 +0100
 
