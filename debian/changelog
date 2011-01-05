@@ -1,16 +1,17 @@
 koffice (1:2.3.0-1) experimental; urgency=low
 
+  * New upstream release.
+  
   [ Raúl Sánchez Siles ]
-  * New upstream test-build.
-  	- Removed fixes_arm.diff patch. Included upstream.
-  * Not including KChart application but rather the chart shape plugin.
-  * Adding koreport desktop files.
-  * Added 10_nokcharpart to avoid installing unwanted desktop files.
-  * Adding kexi plugins packages.
+  * Remove fixes_arm.diff patch. Included upstream.
+  * Not include KChart application but rather the chart shape plugin.
+  * Add koreport desktop files.
+  * Add 10_nokcharpart to avoid installing unwanted desktop files.
+  * Split out kexi plugins packages.
   * Replace and conflict koffice-lib with older kchart packages.
   * Move menu icons to application binary package.
   * Prevent building Google docs support.
-  * Added patch 16_kformula_kdeinit4 to make kformula kdeinit library 
+  * Add patch 16_kformula_kdeinit4 to make kformula kdeinit library 
     name compliant.
   * Make koffice-data and koffice-libs breaks and replaces old kchart versions.
 
