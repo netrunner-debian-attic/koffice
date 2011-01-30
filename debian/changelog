@@ -1,5 +1,8 @@
 koffice (1:2.3.0-2) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Explicitly build depend on libpoppler-dev (needed by karbon), to not rely
+    on the implicit dependency of libpoppler-qt4-dev.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 30 Jan 2011 18:39:27 +0100
 
