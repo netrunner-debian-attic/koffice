@@ -7,7 +7,7 @@ koffice (1:2.3.1-1) experimental; urgency=low
   * Explicitly build depend on libpoppler-dev (needed by karbon), to not rely
     on the implicit dependency of libpoppler-qt4-dev.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 31 Jan 2011 22:48:11 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Mon, 31 Jan 2011 22:57:37 +0100
 
 koffice (1:2.3.0-1) experimental; urgency=low
 
