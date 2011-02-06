@@ -1,3 +1,11 @@
+koffice (1:2.3.1-2) unstable; urgency=low
+
+  * Upload to unstable.
+  * Update build dependencies of libwpd to >=0.9.1 and libwpg to >=0.2.0.
+  * Closes: XXXXXXXX
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 06 Feb 2011 16:43:38 +0100
+
 koffice (1:2.3.1-1) experimental; urgency=low
 
   * New upstream release.
