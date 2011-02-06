@@ -2,14 +2,14 @@ koffice (1:2.3.1-2) unstable; urgency=low
 
   * Upload to unstable.
   * Update build dependencies of libwpd to >=0.9.1 and libwpg to >=0.2.0.
-  * Closes: #604827
+   (Closes: #604827)
 
   [ Pino Toscano ]
   * Add patch 15_new_libwpd, to make the wpg filter of karbon compile with
     newer libwpd & libwpg (sort of backport from Calligra upstream).
   * Fix typo in description of krita. (Closes: #593133)
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 06 Feb 2011 16:43:38 +0100
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 06 Feb 2011 17:57:29 +0100
 
 koffice (1:2.3.1-1) experimental; urgency=low
 
