@@ -1,7 +1,7 @@
 koffice (1:2.3.3-1) unstable; urgency=low
 
   * New upstream release.
-  * Add build-depend on libqtwebkit-dev.
+  * Add build-depend on libqtwebkit-dev. (Closes: #618164)
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 13 Mar 2011 20:57:54 +0100
 
