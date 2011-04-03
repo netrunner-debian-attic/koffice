@@ -1,10 +1,8 @@
 usr/lib/kde4/formulashape.so
-usr/lib/kde4/kformulapart.so
 usr/lib/libkformulalib.so.8
 usr/lib/libkformulalib.so.8.0.0
 usr/lib/libkformulaprivate.so.8
 usr/lib/libkformulaprivate.so.8.0.0
-usr/lib/libkdeinit4_kformula.so
 usr/share/icons/hicolor/16x16/apps/kformula.png
 usr/share/icons/hicolor/22x22/apps/kformula.png
 usr/share/icons/hicolor/32x32/apps/kformula.png
@@ -14,7 +12,6 @@ usr/share/kde4/apps/formulashape/fonts/ArevBI.ttf
 usr/share/kde4/apps/formulashape/fonts/ArevIt.ttf
 usr/share/kde4/apps/formulashape/fonts/Arev.ttf
 usr/share/kde4/apps/formulashape/fonts/cmex10.ttf
-usr/share/kde4/apps/kformula/
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/abs.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/brackets.png
 usr/share/kde4/apps/koffice/icons/hicolor/16x16/actions/frac.png
@@ -78,5 +75,4 @@ usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/sqrt.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/sum.png
 usr/share/kde4/apps/koffice/icons/hicolor/32x32/actions/under.png
 usr/share/kde4/services/formulashape.desktop
-usr/share/kde4/services/kformulapart.desktop
 usr/share/kde4/services/ServiceMenus/kformula_konqi.desktop

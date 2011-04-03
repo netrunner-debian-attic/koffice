@@ -3,6 +3,8 @@ koffice (1:2.3.3-1) unstable; urgency=low
   * New upstream release.
   * Add build-depend on libqtwebkit-dev. (Closes: #618164)
   * Improve krita description, thanks Pascal De Vuyst. (Closes: #618038)
+  * Update installed files for kformula, I am not sure anymore what
+    it is being supposed to ship...
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 03 Apr 2011 14:19:28 +0200
 
