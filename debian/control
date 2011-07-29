@@ -64,7 +64,7 @@ Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Replaces: kword (<< 1:2.0.2-1), kchart (<= 1:2.2.1-3)
 Conflicts: kword (<< 1:2.0.2-1), kchart (<= 1:2.2.1-3)
 Homepage: http://www.koffice.org/karbon/
-Description: a vector graphics application for the KDE Office Suite
+Description: vector graphics application for the KDE Office Suite
  Karbon is a vector drawing application with an user interface that is easy to
  use, highly customizable and extensible. That makes Karbon a great application
  for users starting to explore the world of vector graphics as well as for
@@ -222,7 +222,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter4, koffice-doc-html
 Homepage: http://www.koffice.org/kplato/
-Description: an integrated project management and planning tool
+Description: integrated project management and planning tool
  KPlato is a project management application, allowing for the planning and
  scheduling of projects.
  .
@@ -235,7 +235,7 @@ Depends: ${shlibs:Depends}, ${perl:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter4, koffice-doc-html
 Replaces: kpresenter-data (<< 1:1.9.90)
 Homepage: http://www.koffice.org/kpresenter/
-Description: a presentation program for the KDE Office Suite
+Description: presentation program for the KDE Office Suite
  KPresenter is an easy to use yet still flexible presentation application. You
  can easily create presentations containing a rich variety of elements, from
  graphics to text, from charts to images. KPresenter is extensible through a
@@ -257,7 +257,7 @@ Recommends: dcraw
 Suggests: khelpcenter4, koffice-doc-html
 Replaces: krita-data (<< 1:1.9.98.6)
 Homepage: http://www.krita.org/
-Description: a pixel-based image manipulation program for the KDE Office Suite
+Description: pixel-based image manipulation program for the KDE Office Suite
  Krita is a creative application for raster images. Whether you want to create
  from scratch or work with existing images, Krita is for you. You can work with
  photos, scanned images or start with a blank slate. Krita supports most
@@ -292,7 +292,7 @@ Architecture: any
 Depends: ${shlibs:Depends}, koffice-libs (>= ${source:Version})
 Suggests: khelpcenter4, koffice-doc-html
 Homepage: http://www.koffice.org/kspread/
-Description: a spreadsheet for the KDE Office Suite
+Description: spreadsheet for the KDE Office Suite
  KSpread is a powerful spreadsheet application.  It is scriptable and
  provides both table-oriented sheets and support for complex mathematical
  formulae and statistics.
@@ -305,7 +305,7 @@ Depends: ${shlibs:Depends}, kword-data (>= ${source:Version}), koffice-libs (>= 
 Suggests: khelpcenter4, koffice-doc-html
 Replaces: kword-data (<< 1:1.9.98.6)
 Homepage: http://www.koffice.org/kword/
-Description: a word processor for the KDE Office Suite
+Description: word processor for the KDE Office Suite
  KWord is a FrameMaker-like word processing and desktop publishing
  application.  KWord is capable of creating demanding and professional
  looking documents.  It can be used for desktop publishing, but also for
