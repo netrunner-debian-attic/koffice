@@ -47,7 +47,7 @@ Description: KDE Office Suite documentation in HTML format
  program, graphics tools and more.
  .
  By default the KOffice applications only provide their documentation in
- KDE docbook format, which can only be read by Konqueror or KHelpCenter.
+ KDE DocBook format, which can only be read by Konqueror or KHelpCenter.
  This package provides all of the KOffice documentation converted to HTML
  format so it can be read with any web browser.
  .
@@ -154,7 +154,7 @@ Description: Plugins for integrated database environment for KDE Office Suite
  your data. All database objects - tables, queries and forms - are stored
  in the database, making it easy to share data and design.
  .
- This package is part of the KDE Office Suite and provides mysql
+ This package is part of the KDE Office Suite and provides MySQL
  plugin for Kexi.
 
 Package: kexi-plugin-postgresql
