@@ -7,6 +7,7 @@ koffice (1:2.3.3-2) UNRELEASED; urgency=low
   * Change libjpeg62-dev build-dependency to libjpeg-dev. (Closes: #634135)
   * Update lintian overrides.
   * Small touches to the descriptions of packages.
+  * Remove hardcoded libraries in Depends of the kexi-plugin-* packages.
 
  -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 19 Jun 2011 01:12:56 +0200
 
