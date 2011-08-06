@@ -1,4 +1,4 @@
-koffice (1:2.3.3-2) UNRELEASED; urgency=low
+koffice (1:2.3.3-2) unstable; urgency=low
 
   [ Adrien Grellier ]
   * Update lintian override for 'package-name-doesnt-match-sonames'.
@@ -11,7 +11,10 @@ koffice (1:2.3.3-2) UNRELEASED; urgency=low
   * Change libglew1.5-dev build-dependency to libglew-dev.
   * Drop the dcraw recommend from krita, as it uses libkdcraw.
 
- -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sun, 19 Jun 2011 01:12:56 +0200
+  [ Ana Beatriz Guerrero Lopez ]
+  * Remove myself from Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 06 Aug 2011 16:05:08 +0200
 
 koffice (1:2.3.3-1) unstable; urgency=low
 
