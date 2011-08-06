@@ -253,7 +253,6 @@ Description: presentation program for the KDE Office Suite
 Package: krita
 Architecture: any
 Depends: ${shlibs:Depends}, krita-data (>= ${source:Version}), koffice-libs (>= ${source:Version})
-Recommends: dcraw
 Suggests: khelpcenter4, koffice-doc-html
 Replaces: krita-data (<< 1:1.9.98.6)
 Homepage: http://www.krita.org/
