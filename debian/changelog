@@ -1,3 +1,9 @@
+koffice (1:2.3.3-3) UNRELEASED; urgency=low
+
+  * Remove libwv2-dev from build-depends.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Sat, 17 Sep 2011 12:15:57 +0200
+
 koffice (1:2.3.3-2) unstable; urgency=low
 
   [ Adrien Grellier ]
