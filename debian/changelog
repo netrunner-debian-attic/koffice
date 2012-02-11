@@ -3,6 +3,9 @@ koffice (1:2.3.3-3) UNRELEASED; urgency=low
   [ Ana Beatriz Guerrero Lopez ]
   * Remove libwv2-dev from build-depends.
 
+  [ Pino Toscano ]
+  * Switch the libpoppler-dev build dependency to libpoppler-private-dev.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 17 Sep 2011 12:15:57 +0200
 
 koffice (1:2.3.3-2) unstable; urgency=low
