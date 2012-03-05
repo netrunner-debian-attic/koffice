@@ -5,6 +5,7 @@ koffice (1:2.3.3-3) UNRELEASED; urgency=low
 
   [ Pino Toscano ]
   * Switch the libpoppler-dev build dependency to libpoppler-private-dev.
+  * Switch the libpng12-dev build dependency to libpng-dev. (Closes: #662390)
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 17 Sep 2011 12:15:57 +0200
 
