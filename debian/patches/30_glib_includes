@@ -1,0 +1,20 @@
+Author: Pino Toscano <pino@kde.org>
+Description: Only include <glib.h> instead of other glib headers.
+ Starting with glib 2.32 it is now mandatory to include <glib.h> instead
+ of individual headers.
+Bug-Debian: http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=665564
+Origin: vendor
+Forwarded: no
+Last-Update: 2012-03-25
+
+--- a/filters/kword/msword-odf/wv2/src/olestream.h
++++ b/filters/kword/msword-odf/wv2/src/olestream.h
+@@ -23,7 +23,7 @@
+ #include "global.h"  // U8,... typedefs
+ #include <stack>
+ 
+-#include <glib/giochannel.h> // GSeekType
++#include <glib.h> // GSeekType
+ #include "wv2_export.h"
+ 
+ namespace wvWare {
