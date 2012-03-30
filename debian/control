@@ -375,7 +375,7 @@ Package: koffice-dbg
 Section: debug
 Architecture: any
 Priority: extra
-Depends: koffice-libs (= ${binary:Version}), kdebase-runtime-dbg
+Depends: koffice-libs (= ${binary:Version}), kde-runtime-dbg | kdebase-runtime-dbg
 Description: debugging symbols for KOffice
  This package contains the debugging symbols associated with KOffice.
  They will automatically be used by gdb for debugging koffice-related

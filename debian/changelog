@@ -8,6 +8,8 @@ koffice (1:2.3.3-3) UNRELEASED; urgency=low
   * Switch the libpng12-dev build dependency to libpng-dev. (Closes: #662390)
   * Fix building with glib 2.32, by including only <glib.h> instead of
     individual headers; patch 30_glib_includes. (Closes: #665564)
+  * koffice-dbg: make the kdebase-runtime-dbg dependency an alternative with
+    kde-runtime-dbg, giving priority to the latter.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 17 Sep 2011 12:15:57 +0200
 
